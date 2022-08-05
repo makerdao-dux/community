@@ -7,15 +7,15 @@ parameters:
     type: rank-free
     abstain: [0]
   victory_conditions:
-      - { 
-		  type: 'and',
-		  conditions: [
-		    { type : instant-runoff },
-			{ type: majority, percent: 50 },
-			{ type : comparison, comparator : '>=', value: 10000 }
-		  ]
-		 }
-	  - { type : default, value : 3 }
+    - { 
+		type: 'and',
+		conditions: [
+		  { type : instant-runoff },
+		  { type: majority, percent: 50 },
+		  { type : comparison, comparator : '>=', value: 10000 }
+		]
+	  }
+	- { type : default, value : 3 }
   result_display: instant-runoff-breakdown
 version: v2.0.0   
 options:
