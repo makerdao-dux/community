@@ -1,6 +1,6 @@
 ---
 title: Approval Voting with Majority Budget Example
-summary: Signal your support or opposition for setting the Fee In (tin) and Fee Out (tout) parameters to 0% for all PSM vaults.
+summary: Signal your support or opposition for the DUX CU Budget Options.
 discussion_link: https://forum.makerdao.com/t/mip40c3-sp52-development-ux-core-unit-budget-dux-001/12085
 parameters:
   input_format: 
@@ -63,3 +63,5 @@ If the score for option 1 or option 2 exceeds 50% AND the votes for the highest 
 * Any further work required to implement the proposal will be tasked to the relevant [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state).
 
 If none of the options exceed 50% approval, the proposal will be marked as rejected per [MIP51](https://mips.makerdao.com/mips/details/MIP51#mip51c2-ratification-poll).
+
+
