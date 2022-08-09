@@ -21,7 +21,7 @@ options:
   0: Abstain
   1: 150 million DAI
   2: 200 million DAI
-  3: 250 million DAI (current setting)
+  3: 250 million DAI (current value)
   4: 300 million DAI
 version: v2.0.0   
 start_date: 2022-08-08T16:00:00
