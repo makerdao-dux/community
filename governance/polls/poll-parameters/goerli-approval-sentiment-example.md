@@ -5,10 +5,10 @@ discussion_link: https://forum.makerdao.com/t/signal-request-set-psm-fees-to-0/1
 parameters:
   input_format:
     type: choose-free
-    options: [1,2,3,4]
+    options: [1,2,3]
     abstain: [0]
   victory_conditions:
-    - { type : approval, options: [1,2,3] }
+    - { type : approval }
   result_display: approval-breakdown
 options:
   0: Abstain
