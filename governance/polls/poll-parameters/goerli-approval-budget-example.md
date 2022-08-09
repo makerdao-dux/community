@@ -5,7 +5,7 @@ discussion_link: https://forum.makerdao.com/t/mip40c3-sp52-development-ux-core-u
 parameters:
   input_format: 
     type: choose-free
-    options: [1,2,3]
+    options: [1,2]
     abstain: [0]
   victory_conditions:
     - { 
