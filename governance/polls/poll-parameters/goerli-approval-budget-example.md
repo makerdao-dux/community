@@ -58,11 +58,11 @@ This poll allows the MakerDAO governance community to signal their support or op
 
 This poll implements a **Minimum Positive Participation** value. The Minimum Positive Participation is currently set to **10,000 MKR**.
 
-If the score for option 1 or option 2 exceeds 50% AND the votes for the highest scoring option exceed **10,000 MKR**, the highest scoring option that exceeds 50% will be the winner. The following actions will then be taken:
+This poll implements a **majority** requirement. If none of the options exceed 50% approval, the proposal will be marked as rejected per [MIP51](https://mips.makerdao.com/mips/details/MIP51#mip51c2-ratification-poll).
+
+If the highest scoring option is Reject, the proposal will be marked as rejected per [MIP51](https://mips.makerdao.com/mips/details/MIP51#mip51c2-ratification-poll). 
+
+Otherwise, if the score for option 1 or option 2 exceeds 50% AND the votes for the highest scoring option exceed **10,000 MKR**, the highest scoring option that exceeds 50% will be the winner. The following actions will then be taken:
 
 * The MIP Editors will mark the proposal **Accepted** and the Governance Facilitators will confirm its passage on the Governance and Risk call on Thursday, June 30. 
 * Any further work required to implement the proposal will be tasked to the relevant [Core Units](https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state).
-
-If none of the options exceed 50% approval, the proposal will be marked as rejected per [MIP51](https://mips.makerdao.com/mips/details/MIP51#mip51c2-ratification-poll).
-
-
