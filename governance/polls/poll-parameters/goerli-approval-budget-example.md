@@ -34,9 +34,10 @@ This is an example of a budget subproposal for DUX ( ;) ) that uses approval vot
 
 **This is an approval vote.**
 
-- **You may vote for multiple options.**
-- **You should select all the options that you support.**
-- **If you wish to abstain, that should be your one and only choice.**
+- **You may vote for multiple budget options.**
+- **You should select all the budget options that you support.**
+- **If you do not approve of any of the budget options presented, you should vote Reject as your one and only vote.**
+- **If you wish to abstain, that must be your one and only choice.**
 
 In this vote voters will be able to select from 4 options:
 
