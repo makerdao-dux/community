@@ -25,7 +25,7 @@ options:
   3: Reject budget
 version: v2.0.0   
 start_date: 2022-08-08T16:00:00
-end_date: 2022-08-11T16:00:00
+end_date: 2029-08-11T16:00:00
 ---
 
 # Poll: Approval Voting with Majority Budget Example

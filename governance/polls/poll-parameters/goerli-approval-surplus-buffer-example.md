@@ -25,7 +25,7 @@ options:
   4: 300 million DAI
 version: v2.0.0   
 start_date: 2022-08-08T16:00:00
-end_date: 2022-08-11T16:00:00
+end_date: 2029-08-11T16:00:00
 ---
 
 # Poll: Approval Voting Surplus Buffer Example
