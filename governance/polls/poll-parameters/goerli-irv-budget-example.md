@@ -23,7 +23,7 @@ options:
   2: Approve increased budget
   3: Reject budget
 start_date: 2022-08-08T16:00:00
-end_date: 2022-08-11T16:00:00
+end_date: 2029-08-11T16:00:00
 ---
 
 # Poll: IRV with Majority Budget Example
