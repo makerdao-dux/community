@@ -23,7 +23,7 @@ options:
    2: 150% multiplier (247.70 total MKR)
    3: 100% multiplier (165.14 total MKR)
    4: Reject Budget
-start_date: 2022-09-12T16:00:00
+start_date: 2022-09-11T16:00:00
 end_date: 2022-09-26T16:00:00
 ---
 # Ratification Poll for Modify GovAlpha Core Unit MKR Budget (MIP40c3-SP80) - September 12, 2022
