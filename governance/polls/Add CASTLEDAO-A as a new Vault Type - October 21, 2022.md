@@ -1,4 +1,3 @@
-
 ---
 title: Add CASTLEDAO-A as a new Vault Type - October 21, 2022
 summary: This poll proposes system parameters which could be used to initialize CASTLEDAO-A as a new vault type.
