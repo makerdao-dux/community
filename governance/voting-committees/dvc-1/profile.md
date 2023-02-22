@@ -1,12 +1,6 @@
 ---
 name: Delegate Voting Committee 1
 external_profile_url:
-strategies:
-  - decentralization
-  - trust
-  - vision
-  - risk
-  - growth
 ---
 
 # Delegate Voting Committee 1
