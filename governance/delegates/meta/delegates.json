@@ -21,7 +21,8 @@
         "pollParticipation": "95.13%",
         "executiveParticipation": "92.50%",
         "communication": "93.14%"
-      }
+      },
+      "cuMember": false
     },
     {
       "voteDelegateAddress": "0x2C511D932C5a6fE4071262D49bfc018cfBaAa1F5",
@@ -43,7 +44,8 @@
         "pollParticipation": "100%",
         "executiveParticipation": "100%",
         "communication": "100%"
-      }
+      },
+      "cuMember": false
     },
     {
       "voteDelegateAddress": "0x316090e23CC44e70245BA9846404413ACA2Df16F",
@@ -63,7 +65,8 @@
         "pollParticipation": "100%",
         "executiveParticipation": "100%",
         "communication": "100%"
-      }
+      },
+      "cuMember": false
     },
     {
       "voteDelegateAddress": "0x40f784B16b2D405eFD4E9eB7d0663398D7d886FB",
@@ -84,7 +87,8 @@
         "pollParticipation": "100%",
         "executiveParticipation": "87.5%",
         "communication": "96.61%"
-      }
+      },
+      "cuMember": false
     },
     {
       "voteDelegateAddress": "0x4d3aC33AB1dd7B0F352b8E590Fe8b62c4C39eAd5",
@@ -106,7 +110,8 @@
         "pollParticipation": "63.08%",
         "executiveParticipation": "40.00%",
         "communication": "97.78%"
-      }
+      },
+      "cuMember": false
     },
     {
       "voteDelegateAddress": "0x797D63cB6709c79b9eCA99d9585eA613DA205156",
@@ -125,7 +130,8 @@
         "pollParticipation": "64.29%",
         "executiveParticipation": "50.00%",
         "communication": "0%"
-      }
+      },
+      "cuMember": false
     },
     {
       "voteDelegateAddress": "0x7Ddb50A5b15AeA7e7cf9aC8E55a7F9fd9d05ecc6",
@@ -145,7 +151,8 @@
         "pollParticipation": "100%",
         "executiveParticipation": "100%",
         "communication": "100%"
-      }
+      },
+      "cuMember": false
     },
     {
       "voteDelegateAddress": "0x845b36e1e4F41a361dD711Bda8ea239bF191fE95",
@@ -165,7 +172,8 @@
         "pollParticipation": "98.57%",
         "executiveParticipation": "100%",
         "communication": "94.44%"
-      }
+      },
+      "cuMember": false
     },
     {
       "voteDelegateAddress": "0x84b05B0a30B6AE620F393D1037f217e607AD1B96",
@@ -187,7 +195,8 @@
         "pollParticipation": "87.32%",
         "executiveParticipation": "100%",
         "communication": "97.26%"
-      }
+      },
+      "cuMember": false
     },
     {
       "voteDelegateAddress": "0x8804d391472126dA56b9a560AEf6C6d5AAA7607B",
@@ -207,7 +216,8 @@
         "pollParticipation": "100%",
         "executiveParticipation": "100%",
         "communication": "100%"
-      }
+      },
+      "cuMember": false
     },
     {
       "voteDelegateAddress": "0x8F5B93378d59E35799573530A9860597e14b7178",
@@ -229,7 +239,8 @@
         "pollParticipation": "100.00%",
         "executiveParticipation": "40.00%",
         "communication": "100.00%"
-      }
+      },
+      "cuMember": false
     },
     {
       "voteDelegateAddress": "0x925016C2367802632cABDF13b5FC2C1BDC2c301a",
@@ -251,7 +262,8 @@
         "pollParticipation": "100%",
         "executiveParticipation": "100%",
         "communication": "95.83%"
-      }
+      },
+      "cuMember": false
     },
     {
       "voteDelegateAddress": "0x9301F3bB7A71Ab4d46b17BD1F8254142fa8F26AD",
@@ -273,7 +285,8 @@
         "pollParticipation": "100%",
         "executiveParticipation": "100%",
         "communication": "100%"
-      }
+      },
+      "cuMember": false
     },
     {
       "voteDelegateAddress": "0xAF8aa6846539033Eaf0c3ca4C9C7373e370E039b",
@@ -293,7 +306,8 @@
         "pollParticipation": "100%",
         "executiveParticipation": "100%",
         "communication": "100%"
-      }
+      },
+      "cuMember": false
     },
     {
       "voteDelegateAddress": "0xAFaFF1a605C373B43727136c995D21A7fCD08989",
@@ -313,7 +327,8 @@
         "pollParticipation": "14.29%",
         "executiveParticipation": "15.38%",
         "communication": "9.09%"
-      }
+      },
+      "cuMember": false
     },
     {
       "voteDelegateAddress": "0xB0B829a6AaE0F7e59B43391b2C8a1CFD0C801c8C",
@@ -336,7 +351,8 @@
         "pollParticipation": "No Data",
         "executiveParticipation": "No Data",
         "communication": "No Data"
-      }
+      },
+      "cuMember": false
     },
     {
       "voteDelegateAddress": "0xCdB792c14391F7115Ba77A7Cd27f724fC9eA2091",
@@ -358,7 +374,8 @@
         "pollParticipation": "100%",
         "executiveParticipation": "100%",
         "communication": "97.56%"
-      }
+      },
+      "cuMember": false
     },
     {
       "voteDelegateAddress": "0xD0Df93fC03a7291e31947F5cC6ef526f5B67B0ea",
@@ -380,7 +397,8 @@
         "pollParticipation": "No Data",
         "executiveParticipation": "No Data",
         "communication": "No Data"
-      }
+      },
+      "cuMember": false
     },
     {
       "voteDelegateAddress": "0xD1fc89E0c3828F50b650E1309e30CB4fcF2bdBe3",
@@ -402,7 +420,8 @@
         "pollParticipation": "50.72%",
         "executiveParticipation": "50.00%",
         "communication": "0%"
-      }
+      },
+      "cuMember": false
     },
     {
       "voteDelegateAddress": "0xD9D00c42BeD99A6D3a0F2902c640BCCCEECF6C29",
@@ -425,7 +444,8 @@
         "pollParticipation": "67.14%",
         "executiveParticipation": "91.67%",
         "communication": "84.21%"
-      }
+      },
+      "cuMember": false
     },
     {
       "voteDelegateAddress": "0xE89f973A19Cd76C3e5e236062668e43042176638",
@@ -447,7 +467,8 @@
         "pollParticipation": "100%",
         "executiveParticipation": "100%",
         "communication": "100%"
-      }
+      },
+      "cuMember": false
     },
     {
       "voteDelegateAddress": "0xF1792852BF860b4ef84a2869DF1550BC80eC0aB7",
@@ -462,7 +483,8 @@
         "pollParticipation": "100%",
         "executiveParticipation": "91.67%",
         "communication": "96.20%"
-      }
+      },
+      "cuMember": false
     },
     {
       "voteDelegateAddress": "0xaa19f47e6aCb02dF88efA9f023F2A38412069902",
@@ -482,7 +504,8 @@
         "pollParticipation": "100%",
         "executiveParticipation": "100%",
         "communication": "89.16%"
-      }
+      },
+      "cuMember": false
     },
     {
       "voteDelegateAddress": "0xb21e535Fb349E4eF0520318aCFe589E174B0126b",
@@ -503,7 +526,8 @@
         "pollParticipation": "100%",
         "executiveParticipation": "100%",
         "communication": "100%"
-      }
+      },
+      "cuMember": false
     },
     {
       "voteDelegateAddress": "0xb8df77c3bd57761bd0c55d2f873d3aa89b3da8b7",
@@ -523,7 +547,8 @@
         "pollParticipation": "75.71%",
         "executiveParticipation": "75.00%",
         "communication": "85.25%"
-      }
+      },
+      "cuMember": false
     },
     {
       "voteDelegateAddress": "0xf60D7a62C98F65480725255e831DE531EFe3fe14",
@@ -543,7 +568,8 @@
         "pollParticipation": "98.57%",
         "executiveParticipation": "100%",
         "communication": "98.77%"
-      }
+      },
+      "cuMember": false
     }
   ],
   "tags": [
@@ -660,6 +686,32 @@
       "shortname": "Guidance",
       "longname": "",
       "description": "Delegate values focus on long-term goals and helps align MakerDAO actors."
+    }
+  ],
+  "votingCommittees": [
+    {
+      "name": "Delegate Voting Committee 1",
+      "image": "QmTBJCN6xSHvUScsptMX2TmuW7w4WVDDPvbH2V4G5K88n3",
+      "externalProfileURL": null,
+      "description": "# Delegate Voting Committee 1\n\n## Description\n\nWe are a group of delegates that work towards the decentralization of MakerDAO. We are a diverse group of people from all over the world, with different backgrounds and experiences. We are united by our passion for MakerDAO and our desire to see it succeed.\n\n## Statement\n\nWe are a group of delegates that work towards the decentralization of MakerDAO. We are a diverse group of people from all over the world, with different backgrounds and experiences. We are united by our passion for MakerDAO and our desire to see it succeed.",
+      "strategies": [
+        {
+          "name": "Growth",
+          "description": "# Growth Strategy\n\n## Description\n\nThe Growth Strategy is responsible for the growth of the Maker Protocol. This includes: growth assessment, growth mitigation, growth reporting, and growth governance.",
+          "delegates": [
+            7.185147349166687e+47,
+            7.185147349166687e+47
+          ]
+        },
+        {
+          "name": "Risk Management",
+          "description": "# Risk Management Strategy\n\n## Description\n\nThe Risk Management Strategy is responsible for the risk management of the Maker Protocol. This includes: risk assessment, risk mitigation, risk reporting, and risk governance.",
+          "delegates": [
+            7.185147349166687e+47,
+            7.185147349166687e+47
+          ]
+        }
+      ]
     }
   ]
 }
