@@ -699,16 +699,16 @@
           "name": "Growth",
           "description": "# Growth Strategy\n\n## Description\n\nThe Growth Strategy is responsible for the growth of the Maker Protocol. This includes: growth assessment, growth mitigation, growth reporting, and growth governance.",
           "delegates": [
-            7.185147349166687e+47,
-            7.185147349166687e+47
+            "0x7Ddb50A5b15AeA7e7cf9aC8E55a7F9fd9d05ecc6",
+            "0x7Ddb50A5b15AeA7e7cf9aC8E55a7F9fd9d05ecc6"
           ]
         },
         {
           "name": "Risk Management",
           "description": "# Risk Management Strategy\n\n## Description\n\nThe Risk Management Strategy is responsible for the risk management of the Maker Protocol. This includes: risk assessment, risk mitigation, risk reporting, and risk governance.",
           "delegates": [
-            7.185147349166687e+47,
-            7.185147349166687e+47
+            "0x7Ddb50A5b15AeA7e7cf9aC8E55a7F9fd9d05ecc6",
+            "0x7Ddb50A5b15AeA7e7cf9aC8E55a7F9fd9d05ecc6"
           ]
         }
       ]
