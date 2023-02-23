@@ -2,6 +2,7 @@ on:
   push:
     branches:
       - master
+      - voting-comittees
 
 jobs:
   upload_delegates:
