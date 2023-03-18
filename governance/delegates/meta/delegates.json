@@ -687,5 +687,31 @@
       "longname": "",
       "description": "Delegate values focus on long-term goals and helps align MakerDAO actors."
     }
+  ],
+  "votingCommittees": [
+    {
+      "name": "Delegate Voting Committee 1",
+      "image": "QmTBJCN6xSHvUScsptMX2TmuW7w4WVDDPvbH2V4G5K88n3",
+      "externalProfileURL": null,
+      "description": "# Delegate Voting Committee 1\n\n## Description\n\nWe are a group of delegates that work towards the decentralization of MakerDAO. We are a diverse group of people from all over the world, with different backgrounds and experiences. We are united by our passion for MakerDAO and our desire to see it succeed.\n\n## Statement\n\nWe are a group of delegates that work towards the decentralization of MakerDAO. We are a diverse group of people from all over the world, with different backgrounds and experiences. We are united by our passion for MakerDAO and our desire to see it succeed.",
+      "strategies": [
+        {
+          "name": "Growth",
+          "description": "# Growth Strategy\n\n## Description\n\nThe Growth Strategy is responsible for the growth of the Maker Protocol. This includes: growth assessment, growth mitigation, growth reporting, and growth governance.",
+          "delegates": [
+            "0x7Ddb50A5b15AeA7e7cf9aC8E55a7F9fd9d05ecc6",
+            "0x7Ddb50A5b15AeA7e7cf9aC8E55a7F9fd9d05ecc6"
+          ]
+        },
+        {
+          "name": "Risk Management",
+          "description": "# Risk Management Strategy\n\n## Description\n\nThe Risk Management Strategy is responsible for the risk management of the Maker Protocol. This includes: risk assessment, risk mitigation, risk reporting, and risk governance.",
+          "delegates": [
+            "0x7Ddb50A5b15AeA7e7cf9aC8E55a7F9fd9d05ecc6",
+            "0x7Ddb50A5b15AeA7e7cf9aC8E55a7F9fd9d05ecc6"
+          ]
+        }
+      ]
+    }
   ]
 }

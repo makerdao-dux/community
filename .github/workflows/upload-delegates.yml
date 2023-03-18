@@ -2,6 +2,7 @@ on:
   push:
     branches:
       - master
+      - voting-comittees
       - car-file
     paths:
       - governance/delegates/**/*
@@ -19,6 +20,7 @@ jobs:
         uses: tyler17/github-action-deploy-delegates@v1.3.1
         with:
           delegates-folder: 'governance/delegates'
+          voting-committees-folder: 'governance/voting-committees'
           tags-file: 'governance/delegates/meta/tags.json'
           infura-id: ${{ secrets.INFURA_ID }}
           infura-secret: ${{ secrets.INFURA_KEY }}
