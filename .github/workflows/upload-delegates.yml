@@ -3,7 +3,6 @@ on:
     branches:
       - master
       - voting-comittees
-      - car-file
     paths:
       - governance/delegates/**/*
       - '!governance/delegates/meta/delegates.json'
@@ -17,7 +16,7 @@ jobs:
           ref: ${{ github.event.pull_request.head.ref }}
       - name: Upload
         id: upload
-        uses: tyler17/github-action-deploy-delegates@v1.3.1
+        uses: makerdao-dux/github-action-deploy-delegates@v1.1.17
         with:
           delegates-folder: 'governance/delegates'
           voting-committees-folder: 'governance/voting-committees'
