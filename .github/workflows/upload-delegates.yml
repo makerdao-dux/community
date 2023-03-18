@@ -2,18 +2,21 @@ on:
   push:
     branches:
       - master
-
+      - car-file
+    paths:
+      - governance/delegates/**/*
+      - '!governance/delegates/meta/delegates.json'
 jobs:
   upload_delegates:
     runs-on: ubuntu-latest
-    name: Parses all the delegates and uploads all to IPFS
+    name: Parses all the delegates and uploads all to IPFS, creating a pull request with the new file.
     steps:
       - uses: actions/checkout@v3
         with:
           ref: ${{ github.event.pull_request.head.ref }}
       - name: Upload
         id: upload
-        uses: makerdao-dux/github-action-deploy-delegates@v1.1.16
+        uses: tyler17/github-action-deploy-delegates@v1.3.1
         with:
           delegates-folder: 'governance/delegates'
           tags-file: 'governance/delegates/meta/tags.json'
@@ -31,3 +34,6 @@ jobs:
           message: 'Added delegates aggregated file'
           add: 'governance/delegates/meta/delegates.json'
           fetch: false
+          push: false
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v4
