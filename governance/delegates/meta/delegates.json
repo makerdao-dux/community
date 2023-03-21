@@ -85,8 +85,8 @@
       "metrics": {
         "combinedParticipation": "95.19%",
         "pollParticipation": "100%",
-        "executiveParticipation": "88.89%",
-        "communication": "96.97%"
+        "executiveParticipation": "87.5%",
+        "communication": "96.61%"
       },
       "cuMember": false
     },
@@ -106,10 +106,10 @@
       },
       "image": "QmSyDBSm4RKkH6GzDDZoZnJ34nZA1LKjY1Veh3e3T3Cymu",
       "metrics": {
-        "combinedParticipation": "56.44%",
-        "pollParticipation": "57.14%",
-        "executiveParticipation": "55.56%",
-        "communication": "100%"
+        "combinedParticipation": "53.04%",
+        "pollParticipation": "63.08%",
+        "executiveParticipation": "40.00%",
+        "communication": "97.78%"
       },
       "cuMember": false
     },
@@ -171,7 +171,7 @@
         "combinedParticipation": "99.14%",
         "pollParticipation": "98.36%",
         "executiveParticipation": "100%",
-        "communication": "97.86%"
+        "communication": "94.44%"
       },
       "cuMember": false
     },
@@ -194,7 +194,7 @@
         "combinedParticipation": "98.21%",
         "pollParticipation": "96.77%",
         "executiveParticipation": "100%",
-        "communication": "97.18%"
+        "communication": "97.26%"
       },
       "cuMember": false
     },
@@ -260,8 +260,8 @@
       "metrics": {
         "combinedParticipation": "73.68%",
         "pollParticipation": "100%",
-        "executiveParticipation": "40%",
-        "communication": "94.12%"
+        "executiveParticipation": "100%",
+        "communication": "95.83%"
       },
       "cuMember": false
     },
@@ -373,7 +373,7 @@
         "combinedParticipation": "100%",
         "pollParticipation": "100%",
         "executiveParticipation": "100%",
-        "communication": "98.61%"
+        "communication": "97.56%"
       },
       "cuMember": false
     },
@@ -440,10 +440,10 @@
       },
       "image": "QmS1c9zuz1o5yhYm9E87Ci6A9ZmgrUuiiAwXKzZf1A74h3",
       "metrics": {
-        "combinedParticipation": "57.66%",
-        "pollParticipation": "51.79%",
-        "executiveParticipation": "63.64%",
-        "communication": "77.14%"
+        "combinedParticipation": "78.46%",
+        "pollParticipation": "67.14%",
+        "executiveParticipation": "91.67%",
+        "communication": "84.21%"
       },
       "cuMember": false
     },
@@ -479,10 +479,10 @@
       },
       "image": "QmaS7L96kEidAASz4UZv9XSeQatva3CQktwFtAFHUK9xY4",
       "metrics": {
-        "combinedParticipation": "85.59%",
-        "pollParticipation": "96.83%",
-        "executiveParticipation": "72.73%",
-        "communication": "94.03%"
+        "combinedParticipation": "96.15%",
+        "pollParticipation": "100%",
+        "executiveParticipation": "91.67%",
+        "communication": "96.20%"
       },
       "cuMember": false
     },
@@ -503,7 +503,7 @@
         "combinedParticipation": "100%",
         "pollParticipation": "100%",
         "executiveParticipation": "100%",
-        "communication": "100%"
+        "communication": "89.16%"
       },
       "cuMember": false
     },
@@ -543,10 +543,10 @@
       },
       "image": "QmSL1VjCtQPgWXtdHngmYPNk1uj2rsSyAhUfgHboZHigVk",
       "metrics": {
-        "combinedParticipation": "59.48%",
-        "pollParticipation": "72.13%",
-        "executiveParticipation": "45.45%",
-        "communication": "72.09%"
+        "combinedParticipation": "75.38%",
+        "pollParticipation": "75.71%",
+        "executiveParticipation": "75.00%",
+        "communication": "85.25%"
       },
       "cuMember": false
     },
@@ -567,7 +567,7 @@
         "combinedParticipation": "99.14%",
         "pollParticipation": "98.36%",
         "executiveParticipation": "100%",
-        "communication": "98.61%"
+        "communication": "98.77%"
       },
       "cuMember": false
     }
