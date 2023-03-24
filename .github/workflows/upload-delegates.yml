@@ -19,6 +19,7 @@ jobs:
         uses: makerdao-dux/github-action-deploy-delegates@v1.3.0
         with:
           delegates-folder: 'governance/delegates'
+          voting-committees-folder: 'governance/voting-committees'
           tags-file: 'governance/delegates/meta/tags.json'
           voting-committees-folder: 'governance/voting-committees'
           web3-storage-token: ${{ secrets.WEB3_STORAGE_TOKEN }}
