@@ -2,7 +2,6 @@ on:
   push:
     branches:
       - master
-      - voting-comittees
     paths:
       - governance/delegates/**/*
       - '!governance/delegates/meta/delegates.json'
