@@ -2,6 +2,7 @@ on:
   push:
     branches:
       - master
+      - ipfs-update
 #     paths:
 #       - governance/delegates/**/*
 #       - '!governance/delegates/meta/delegates.json'
