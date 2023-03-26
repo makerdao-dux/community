@@ -2,10 +2,9 @@ on:
   push:
     branches:
       - master
-      - ipfs-update
-#     paths:
-#       - governance/delegates/**/*
-#       - '!governance/delegates/meta/delegates.json'
+    paths:
+      - governance/delegates/**/*
+      - '!governance/delegates/meta/delegates.json'
 jobs:
   upload_delegates:
     runs-on: ubuntu-latest
