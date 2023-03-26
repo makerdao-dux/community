@@ -21,7 +21,6 @@ jobs:
           delegates-folder: 'governance/delegates'
           voting-committees-folder: 'governance/voting-committees'
           tags-file: 'governance/delegates/meta/tags.json'
-          voting-committees-folder: 'governance/voting-committees'
           web3-storage-token: ${{ secrets.WEB3_STORAGE_TOKEN }}
           nft-storage-token: ${{ secrets.NFT_STORAGE_TOKEN }}
           output-file: 'governance/delegates/meta/delegates.json'
