@@ -87,4 +87,3 @@ Finally will do my best to communicate with the community regarding my views and
 **Waver of liability**
 
 By delegating to MakerMan you acknowledge and agree that MakerMan will not be held liable for any form of damages or losses related to your delegation of your MKR to MakerMan. By delegating your MKR you still assume full responsibility for votes made on your behalf by MakerMan due to your ownership of MKR. It is your responsibility to understand the risks and costs related to delegation of your MKR, and specifically affirm and agree that at all times you have complete control over this by adding or removing your MKR from my delegation contract.
-
