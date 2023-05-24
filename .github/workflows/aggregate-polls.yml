@@ -1,18 +1,18 @@
-name: 'Aggregate Polls'
+name: 'Aggregate Goerli Polls'
 on:
   push:
     branches:
-      - master
+      - polls-aggregated
     paths:
       - governance/polls/**
-      - '!governance/polls/meta/polls.json'
-      - '!governance/polls/meta/hashed-polls.json'
+      - '!governance/polls/meta/goerli-polls.json'
+      - '!governance/polls/meta/hashed-goerli-polls.json'
   workflow_dispatch:
   schedule:
     # Run the action every 30 minutes
     - cron: '*/30 * * * *'
 jobs:
-  aggregate_polls:
+  aggregate_goerli_polls:
     runs-on: ubuntu-latest
     name: Aggregates all of the polls into a single file, creating a pull request with the new file.
     steps:
@@ -23,10 +23,10 @@ jobs:
         id: upload
         uses: makerdao-dux/aggregate-polls-action@v1.1.3
         with:
-          network: 'mainnet'
+          network: 'goerli'
           tags-file: 'governance/polls/meta/poll-tags.json'
-          output-file: 'governance/polls/meta/polls.json'
-          hash-file: 'governance/polls/meta/hashed-polls.json'
+          output-file: 'governance/polls/meta/goerli-polls.json'
+          hash-file: 'governance/polls/meta/hashed-goerli-polls.json'
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v5
         with:
