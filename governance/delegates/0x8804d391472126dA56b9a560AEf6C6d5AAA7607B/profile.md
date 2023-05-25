@@ -4,7 +4,7 @@ external_profile_url:
 tags:
   - pragmatism
   - trust
-  - new-tag
+  - community
 ---
 
 **Key Info**
