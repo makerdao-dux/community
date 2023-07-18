@@ -458,7 +458,7 @@
   },
   {
     "creator": "0x14341f81df14ca86e1420ec9e6abd343fb1c5bfc",
-    "pollId": 14,
+    "pollId": 15,
     "blockCreated": 6189395,
     "startDate": "2022-01-12T20:01:21.000Z",
     "endDate": "2023-01-13T16:00:00.000Z",
@@ -1776,6 +1776,43 @@
     },
     "tags": [
       "risk-parameter"
+    ]
+  },
+  {
+    "creator": "0x3e8a40c40afb10ed216176b9401a183d4c34ec09",
+    "pollId": 53,
+    "blockCreated": 9365974,
+    "startDate": "2023-07-18T14:17:00.000Z",
+    "endDate": "2023-07-20T16:00:00.000Z",
+    "multiHash": "QmR8cYb1kEPbzGeGgArzhgkWXSoVNvCAHHVkSsou25h7rB",
+    "url": "https://raw.githubusercontent.com/makerdao/community/master/governance/polls/Decrease%20the%20Harbor%20Trade%20Credit%20(RWA004-A)%20Debt%20Ceiling%20-%20July%2017%2C%202023.md",
+    "slug": "QmR8cYb1",
+    "title": "Decrease the Harbor Trade Credit (RWA004-A) Debt Ceiling - July 17, 2023",
+    "summary": "Signal your support or opposition for adjusting the Harbor Trade Credit (RWA004-A) Debt Ceiling from 7 million DAI to 0 DAI.",
+    "discussionLink": "https://forum.makerdao.com/t/request-to-poll-decrease-debt-ceiling-for-harbor-trade-credit-htc-drop-to-0/21373",
+    "content": "<h1>Poll: Decrease the Harbor Trade Credit (RWA004-A) Debt Ceiling - July 17, 2023</h1>\n<p>The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance <a target=\"_blank\" href=\"https://manual.makerdao.com/governance/governance-cycle/weekly-governance-cycle#weekly-governance-cycle-definitions-mip16c1\">Poll</a> will be active for three days beginning on Monday, July 17 at 16:00 UTC.</p>\n<p><strong>This is a binary vote.</strong></p>\n<ul>\n<li><strong>You may vote for a single option.</strong></li>\n<li><strong>You should vote for the option which you prefer.</strong></li>\n<li><strong>If you would accept either option, you should vote 'Abstain'.</strong></li>\n</ul>\n<h2>Review</h2>\n<p>MKR Token Holders may vote in this poll to express support or opposition to adjusting the Harbor Trade Credit (RWA004-A) <a target=\"_blank\" href=\"https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling\">Debt Ceiling</a>:</p>\n<ul>\n<li>Decrease by 7 million DAI from 7 million DAI to 0 DAI.</li>\n</ul>\n<p>Please review the discussion <a target=\"_blank\" href=\"https://forum.makerdao.com/t/request-to-poll-decrease-debt-ceiling-for-harbor-trade-credit-htc-drop-to-0/21373\">thread</a> to inform your position on this issue before voting.</p>\n<h2>Outcomes</h2>\n<p><strong>If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:</strong></p>\n<ul>\n<li>This parameter change will be included in an upcoming Executive Vote.</li>\n<li>It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.</li>\n<li>If the Executive Vote passes, then this change will become active in the Maker Protocol after the <a target=\"_blank\" href=\"https://manual.makerdao.com/parameter-index/core/param-gsm-pause-delay\">GSM Pause Delay</a> has expired.</li>\n</ul>\n<p><strong>If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.</strong></p>\n<hr>\n<h2>Resources</h2>\n<p>Unsure about the Debt Ceiling parameter and what you should take into account when voting? Check out the parameter documentation <a target=\"_blank\" href=\"https://manual.makerdao.com/parameter-index/vault-risk/param-debt-ceiling\">here</a>.</p>\n<p>If you are new to voting in the Maker Protocol, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance\">voting guide</a> to learn how voting works.</p>\n<p>Additional information about the Governance process can be found in the <a target=\"_blank\" href=\"https://manual.makerdao.com\">Maker Operational Manual</a>.</p>\n<p>To add current and upcoming votes to your calendar, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/makerdao/calendars/governance-calendar\">MakerDAO Governance Calendar</a>.</p>",
+    "options": {
+      "0": "Abstain",
+      "1": "Yes",
+      "2": "No"
+    },
+    "parameters": {
+      "inputFormat": {
+        "type": "single-choice",
+        "abstain": [
+          0
+        ],
+        "options": []
+      },
+      "resultDisplay": "single-vote-breakdown",
+      "victoryConditions": [
+        {
+          "type": "plurality"
+        }
+      ]
+    },
+    "tags": [
+      "dsr"
     ]
   }
 ]
