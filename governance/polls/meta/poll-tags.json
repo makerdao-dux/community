@@ -3909,5 +3909,76 @@
     "high-impact",
     "budget",
     "endgame"
+  ],
+  "1006": [
+    "high-impact",
+    "real-world-assets",
+    "collateral-onboard",
+    "risk-parameter",
+    "psm"
+  ],
+  "1007": [
+    "high-impact",
+    "risk-parameter"
+  ],
+  "1008": [
+    "medium-impact",
+    "risk-parameter",
+    "d3m",
+    "spark"
+  ],
+  "1009": [
+    "high-impact",
+    "technical",
+    "spark"
+  ],
+  "1010": [
+    "high-impact",
+    "collateral-onboard",
+    "risk-parameter",
+    "spark"
+  ],
+  "1011": [
+    "medium-impact",
+    "risk-parameter",
+    "d3m",
+    "spark"
+  ],
+  "1012": [
+    "medium-impact",
+    "risk-parameter",
+    "psm"
+  ],
+  "1013": [
+    "high-impact",
+    "ratification",
+    "mips",
+    "endgame"
+  ],
+  "1014": [
+    "medium-impact",
+    "ratification",
+    "mips"
+  ],
+  "1015": [
+    "medium-impact",
+    "risk-parameter",
+    "psm"
+  ],
+  "1016": [
+    "high-impact",
+    "surplus",
+    "technical",
+    "risk-parameter",
+    "endgame"
+  ],
+  "1017": [
+    "high-impact",
+    "misc-governance"
+  ],
+  "1018": [
+    "medium-impact",
+    "real-world-assets",
+    "risk-parameter"
   ]
 }
