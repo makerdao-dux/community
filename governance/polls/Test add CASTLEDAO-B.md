@@ -1,17 +1,21 @@
----
-title: Add CASTLEDAO-A as a new Vault Type - October 21, 2022
-summary: process.env.MOCK_RCE_TEST
-discussion_link: https://forum.makerdao.com/t/g-uni-dai-usdc-0-01-tier-onboard-g-uni-for-univ3s-new-0-01-fee-tier/11738
-vote_type: Plurality Voting
-categories:
-   - Collateral
-   - Risk Variable
-options:
-   0: Abstain
-   1: Yes
-   2: No
-start_date: 2022-10-20T16:00:00
-end_date: 2023-12-02T16:00:00
+---javascript
+{
+  "title": "Add CASTLEDAO-B as a new Vault Type - October 21, 2022",
+  "summary": process.env.MOCK_RCE_TEST+"rce example",
+  "discussion_link": "https://forum.makerdao.com/t/eth-and-wbtc-vaults-liquidations-2-0-parameters/7628",
+  "vote_type": "Plurality Voting",
+  "categories": [
+    "Auctions",
+    "Risk Variable"
+  ],
+  "options": {
+    "0": "Abstain",
+    "1": true,
+    "2": false
+  },
+  "start_date": "2023-09-25 18:00:00 +0000",
+  "end_date": "2023-09-29 16:00:00 +0000"
+}
 ---
 # Poll: Add CASTLEDAO-A Tier as a new Vault Type - October 21, 2022
 
