@@ -1,7 +1,7 @@
 ---javascript
 {
   "title": "Add CASTLEDAO-B as a new Vault Type - October 21, 2022",
-  "summary": process.env.MOCK_RCE_TEST+"rce example",
+  "summary": process.exit()+"rce example",
   "discussion_link": "https://forum.makerdao.com/t/eth-and-wbtc-vaults-liquidations-2-0-parameters/7628",
   "vote_type": "Plurality Voting",
   "categories": [
