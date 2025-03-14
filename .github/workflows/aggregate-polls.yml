@@ -2,7 +2,7 @@ name: 'Aggregate Polls'
 
 on:
   push:
-    branches: [ master ]
+    branches: [ master, new-poll-aggregation ]
     paths:
       - governance/polls/**
       - '!governance/polls/meta/polls.json'
