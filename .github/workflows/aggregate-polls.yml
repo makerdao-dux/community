@@ -22,7 +22,7 @@ jobs:
           ref: ${{ github.event.pull_request.head.ref }}
       - name: Upload
         id: upload
-        uses: makerdao-dux/aggregate-polls-action@v1.4.0-alpha
+        uses: makerdao-dux/aggregate-polls-action@v1.4.0-beta
         with:
           network: 'mainnet'
           tags-file: 'governance/polls/meta/poll-tags.json'
