@@ -1,8 +1,8 @@
 name: 'Aggregate Polls'
+
 on:
   push:
-    branches:
-      - master
+    branches: [ master, new-poll-aggregation ]
     paths:
       - governance/polls/**
       - '!governance/polls/meta/polls.json'
@@ -11,6 +11,7 @@ on:
   schedule:
     # Run the action every 30 minutes
     - cron: '*/30 * * * *'
+
 jobs:
   aggregate_polls:
     runs-on: ubuntu-latest
@@ -21,7 +22,7 @@ jobs:
           ref: ${{ github.event.pull_request.head.ref }}
       - name: Upload
         id: upload
-        uses: makerdao-dux/aggregate-polls-action@v1.3.2
+        uses: makerdao-dux/aggregate-polls-action@v1.4.0-alpha
         with:
           network: 'mainnet'
           tags-file: 'governance/polls/meta/poll-tags.json'
