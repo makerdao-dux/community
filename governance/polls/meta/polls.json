@@ -47608,5 +47608,1321 @@
       ]
     },
     "tags": []
+  },
+  {
+    "creator": "0x8541ccfc6e7eacebd233c6789a0fbf7c708b0e68",
+    "pollId": 1221,
+    "blockCreated": 22217915,
+    "startDate": "2025-04-07T16:00:00.000Z",
+    "endDate": "2025-04-10T16:00:00.000Z",
+    "multiHash": "QmTNzwgngP7dazPeejchoBVdTR6PteHT7QqYpRndXAZwXV",
+    "url": "https://raw.githubusercontent.com/makerdao/community/refs/heads/master/governance/polls/Atlas%20Edit%20Weekly%20Cycle%20Proposal%20-%20April%207%2C%202025.md",
+    "slug": "QmTNzwgn",
+    "title": "Atlas Edit Weekly Cycle Proposal - April 7, 2025",
+    "summary": "This Atlas Edit 1) clarifies responsibility for proposing Smart Burn Engine parameter updates and 2) specifies a methodology for adjusting SKY token rewards.",
+    "discussionLink": "https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-april-7-2025/26232",
+    "content": "<h1>Atlas Edit Weekly Cycle Proposal - April 7, 2025</h1>\n<p>The Governance Facilitators have placed an <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/#A.1.9.2_Atlas_Edit_Weekly_Cycle-4a8ad9ad-5c5d-4994-9b46-f04c0e61ce59%7C0db30308\">Atlas Edit Weekly Cycle Proposal</a> into the <a target=\"_blank\" href=\"https://vote.makerdao.com/polling\">voting system</a> <a target=\"_blank\" href=\"http://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-april-7-2025/26232/3\">on behalf of Prime Delegate JuliaChang</a>. This Governance <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/#A.1.9.2_Atlas_Edit_Weekly_Cycle-4a8ad9ad-5c5d-4994-9b46-f04c0e61ce59%7C0db30308\">Poll</a> will be active for three days beginning on Monday, April 7 at 16:00 UTC.</p>\n<p><strong>This is a binary vote.</strong></p>\n<ul>\n<li><strong>You may vote for a single option.</strong></li>\n<li><strong>You should vote for the option which you prefer.</strong></li>\n<li><strong>If you would accept either option, you should vote 'Abstain'.</strong></li>\n</ul>\n<h2>Review</h2>\n<p>The community may vote in this poll to express support or opposition to the following Atlas Edit Weekly Cycle Proposal:</p>\n<ul>\n<li><a target=\"_blank\" href=\"https://github.com/makerdao/next-gen-atlas/pull/84\">Atlas Edit Pull Request</a> - Note that some of the edits in this proposal apply to ratified content that hasn't gone live in the next-gen-atlas GitHub repository yet, but is currently in the process of being added. The PR includes the edits that are not affected by this and will be updated once the targeted content has been reviewed and merged into the Atlas.</li>\n<li><a target=\"_blank\" href=\"https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-april-7-2025/26232\">Proposal Discussion Thread</a></li>\n</ul>\n<p>A brief summary of this Atlas Edit has been provided by the Author and is shown below:</p>\n<p><em>This proposal includes two sets of edits:</em></p>\n<ul>\n<li><em><strong>Clarify Responsibility For Proposing Smart Burn Engine Parameter Updates</strong> - Clarifies that the Governance Facilitators are responsible for proposing updates to Smart Burn Engine parameters, in consultation with the Stability Facilitators and Stability Scope Advisors.</em></li>\n<li><em><strong>Specify Methodology For Adjusting SKY Token Rewards</strong> - Specifies the methodology for updating the yield for SKY token rewards to be equivalent to the Sky Savings Rate.</em></li>\n</ul>\n<h2>Outcomes</h2>\n<p>This poll implements a <strong>Minimum Positive Participation</strong> value. The Minimum Positive Participation for Atlas Edit Weekly Cycle Proposals is currently set to <strong>20,000 MKR</strong>.</p>\n<p><strong>If the votes for the 'Yes' option exceed the votes for the 'No' option AND the votes for the 'Yes' option equal or exceed 20,000 MKR, then the following actions will be taken:</strong></p>\n<ul>\n<li>The associated Pull Request will be merged into The Atlas.</li>\n</ul>\n<hr>\n<h2>Resources</h2>\n<p>If you are new to voting in the Sky Protocol, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance\">voting guide</a> to learn how voting works.</p>\n<p>Additional information about the Governance process can be found in the <a target=\"_blank\" href=\"https://manual.makerdao.com\">Operational Manual</a>.</p>\n<p>To add current and upcoming votes to your calendar, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/makerdao/calendars/governance-calendar\">Sky Governance Calendar</a>.</p>",
+    "options": {
+      "0": "Abstain",
+      "1": "Yes",
+      "2": "No"
+    },
+    "parameters": {
+      "inputFormat": {
+        "type": "single-choice",
+        "abstain": [
+          0
+        ],
+        "options": []
+      },
+      "resultDisplay": "single-vote-breakdown",
+      "victoryConditions": [
+        {
+          "type": "and",
+          "conditions": [
+            {
+              "type": "plurality"
+            },
+            {
+              "type": "comparison",
+              "comparator": ">=",
+              "value": 20000
+            }
+          ]
+        },
+        {
+          "type": "default",
+          "value": 2
+        }
+      ]
+    },
+    "tags": []
+  },
+  {
+    "creator": "0x8541ccfc6e7eacebd233c6789a0fbf7c708b0e68",
+    "pollId": 1222,
+    "blockCreated": 22217919,
+    "startDate": "2025-04-07T16:00:00.000Z",
+    "endDate": "2025-04-10T16:00:00.000Z",
+    "multiHash": "QmWju9UukfSAANx7VPYufJfZLBcLFv4pE5PQPAsgTi1gzu",
+    "url": "https://raw.githubusercontent.com/makerdao/community/refs/heads/master/governance/polls/Spark%20Liquidity%20Layer%20Mainnet%20-%20Onboard%20Curve%20USDC-USDT%20Pool%20-%20April%207%2C%202025.md",
+    "slug": "QmWju9Uu",
+    "title": "Spark Liquidity Layer Mainnet - Onboard Curve USDC/USDT Pool - April 7, 2025",
+    "summary": "Signal your support or opposition to onboarding the Curve USDC/USDT pool to the Spark Liquidity Layer on Mainnet.",
+    "discussionLink": "https://forum.sky.money/t/april-17-2025-proposed-changes-to-spark-for-upcoming-spell/26234",
+    "content": "<h1>Poll: Spark Liquidity Layer Mainnet - Onboard Curve USDC/USDT Pool - April 7, 2025</h1>\n<p>The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/#A.1.9.1_Operational_Weekly_Cycle-b189fa17-57a9-4d4e-9780-0ce4efd94211%7C0db30308\">Poll</a> will be active for three days beginning on Monday, April 7 at 16:00 UTC.</p>\n<p><strong>This is a binary vote.</strong></p>\n<ul>\n<li><strong>You may vote for a single option.</strong></li>\n<li><strong>You should vote for the option which you prefer.</strong></li>\n<li><strong>If you would accept either option, you should vote 'Abstain'.</strong></li>\n</ul>\n<h2>Review</h2>\n<p>The community can vote in this poll to express support or opposition to onboarding the Curve USDC/USDT pool to the Spark Liquidity Layer on Mainnet with the following parameters:</p>\n<ul>\n<li>Swap\n<ul>\n<li><code>Max amount</code>: <strong>5 million</strong></li>\n<li><code>Slope</code>: <strong>20 million per day</strong></li>\n<li><code>Max slippage</code>: <strong>0.15%</strong></li>\n</ul>\n</li>\n<li>Deposit\n<ul>\n<li><code>Max amount</code>: <strong>0</strong></li>\n</ul>\n</li>\n<li>Withdrawals\n<ul>\n<li><code>Max amount</code>: <strong>0</strong></li>\n</ul>\n</li>\n</ul>\n<p>Please review the discussion <a target=\"_blank\" href=\"https://forum.sky.money/t/april-17-2025-proposed-changes-to-spark-for-upcoming-spell/26234\">thread</a> to help inform your position before voting. You can also refer to the <a target=\"_blank\" href=\"https://forum.sky.money/t/risk-assessment-curve-susds-usdt-integration-in-spark-liquidity-layer/26237\">risk assessment post</a> for more details about USDT integration.</p>\n<h2>Outcomes</h2>\n<p><strong>If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:</strong></p>\n<ul>\n<li>This change will be included in an upcoming Executive Vote.</li>\n<li>It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.</li>\n<li>If the Executive Vote passes, then these changes will become active in the Sky Protocol after the <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.1.9.2.1_Pause_Delay/a98b8227-95f6-4711-9d8d-f52cbc6ad2d0%7C0db30758e055\">GSM Pause Delay</a> has expired.</li>\n</ul>\n<p><strong>If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.</strong></p>\n<hr>\n<h2>Resources</h2>\n<p>If you are new to voting in the Sky Protocol, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance\">voting guide</a> to learn how voting works.</p>\n<p>Additional information about the Governance process can be found in the <a target=\"_blank\" href=\"https://manual.makerdao.com\">Operational Manual</a>.</p>\n<p>To add current and upcoming votes to your calendar, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/makerdao/calendars/governance-calendar\">Governance Calendar</a>.</p>",
+    "options": {
+      "0": "Abstain",
+      "1": "Yes",
+      "2": "No"
+    },
+    "parameters": {
+      "inputFormat": {
+        "type": "single-choice",
+        "abstain": [
+          0
+        ],
+        "options": []
+      },
+      "resultDisplay": "single-vote-breakdown",
+      "victoryConditions": [
+        {
+          "type": "plurality"
+        }
+      ]
+    },
+    "tags": []
+  },
+  {
+    "creator": "0x8541ccfc6e7eacebd233c6789a0fbf7c708b0e68",
+    "pollId": 1223,
+    "blockCreated": 22217922,
+    "startDate": "2025-04-07T16:00:00.000Z",
+    "endDate": "2025-04-10T16:00:00.000Z",
+    "multiHash": "QmWgkXDAdAi8bPdncJvKGbBdyVzfNidiSHZRDSWT27GfgF",
+    "url": "https://raw.githubusercontent.com/makerdao/community/refs/heads/master/governance/polls/Spark%20Liquidity%20Layer%20Mainnet%20-%20Onboard%20Curve%20sUSDS-USDT%20Pool%20-%20April%207%2C%202025.md",
+    "slug": "QmWgkXDA",
+    "title": "Spark Liquidity Layer Mainnet - Onboard Curve sUSDS/USDT Pool - April 7, 2025",
+    "summary": "Signal your support or opposition to onboarding the Curve sUSDS/USDT pool to the Spark Liquidity Layer on Mainnet.",
+    "discussionLink": "https://forum.sky.money/t/april-17-2025-proposed-changes-to-spark-for-upcoming-spell/26234",
+    "content": "<h1>Poll: Spark Liquidity Layer Mainnet - Onboard Curve sUSDS/USDT Pool - April 7, 2025</h1>\n<p>The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/#A.1.9.1_Operational_Weekly_Cycle-b189fa17-57a9-4d4e-9780-0ce4efd94211%7C0db30308\">Poll</a> will be active for three days beginning on Monday, April 7 at 16:00 UTC.</p>\n<p><strong>This is a binary vote.</strong></p>\n<ul>\n<li><strong>You may vote for a single option.</strong></li>\n<li><strong>You should vote for the option which you prefer.</strong></li>\n<li><strong>If you would accept either option, you should vote 'Abstain'.</strong></li>\n</ul>\n<h2>Review</h2>\n<p>The community can vote in this poll to express support or opposition to onboarding the Curve sUSDS/USDT pool to the Spark Liquidity Layer on Mainnet with the following parameters:</p>\n<ul>\n<li>Swap\n<ul>\n<li><code>Max amount</code>: <strong>5 million</strong></li>\n<li><code>Slope</code>: <strong>20 million per day</strong></li>\n<li><code>Max slippage</code>: <strong>0.15%</strong></li>\n</ul>\n</li>\n<li>Deposits\n<ul>\n<li><code>Max amount</code>: <strong>5 million</strong></li>\n<li><code>Slope</code>: <strong>20 million per day</strong></li>\n<li><code>Max slippage</code>: <strong>0.15%</strong></li>\n</ul>\n</li>\n<li>Withdrawals\n<ul>\n<li><code>Max amount</code>: <strong>25 million</strong></li>\n<li><code>Slope</code>: <strong>100 million per day</strong></li>\n<li><code>Max slippage</code>: <strong>0.15%</strong></li>\n</ul>\n</li>\n</ul>\n<p>Please review the discussion <a target=\"_blank\" href=\"https://forum.sky.money/t/april-17-2025-proposed-changes-to-spark-for-upcoming-spell/26234\">thread</a> to help inform your position before voting. You can also refer to the <a target=\"_blank\" href=\"https://forum.sky.money/t/risk-assessment-curve-susds-usdt-integration-in-spark-liquidity-layer/26237\">risk assessment post</a> for more details about the Curve sUSDS/USDT integration in the Spark Liquidity Layer.</p>\n<h2>Outcomes</h2>\n<p><strong>If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:</strong></p>\n<ul>\n<li>This change will be included in an upcoming Executive Vote.</li>\n<li>It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.</li>\n<li>If the Executive Vote passes, then these changes will become active in the Sky Protocol after the <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.1.9.2.1_Pause_Delay/a98b8227-95f6-4711-9d8d-f52cbc6ad2d0%7C0db30758e055\">GSM Pause Delay</a> has expired.</li>\n</ul>\n<p><strong>If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.</strong></p>\n<hr>\n<h2>Resources</h2>\n<p>If you are new to voting in the Sky Protocol, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance\">voting guide</a> to learn how voting works.</p>\n<p>Additional information about the Governance process can be found in the <a target=\"_blank\" href=\"https://manual.makerdao.com\">Operational Manual</a>.</p>\n<p>To add current and upcoming votes to your calendar, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/makerdao/calendars/governance-calendar\">Governance Calendar</a>.</p>",
+    "options": {
+      "0": "Abstain",
+      "1": "Yes",
+      "2": "No"
+    },
+    "parameters": {
+      "inputFormat": {
+        "type": "single-choice",
+        "abstain": [
+          0
+        ],
+        "options": []
+      },
+      "resultDisplay": "single-vote-breakdown",
+      "victoryConditions": [
+        {
+          "type": "plurality"
+        }
+      ]
+    },
+    "tags": []
+  },
+  {
+    "creator": "0x8541ccfc6e7eacebd233c6789a0fbf7c708b0e68",
+    "pollId": 1224,
+    "blockCreated": 22217928,
+    "startDate": "2025-04-07T16:00:00.000Z",
+    "endDate": "2025-04-10T16:00:00.000Z",
+    "multiHash": "QmbNssssk8mhViPRtDAfgY8d7evqpAqVspCkeZCThRZAjp",
+    "url": "https://raw.githubusercontent.com/makerdao/community/refs/heads/master/governance/polls/Spark%20Liquidity%20Layer%20Mainnet%20-%20Onboard%20SparkLend%20DAI%20-%20April%207%2C%202025.md",
+    "slug": "QmbNssss",
+    "title": "Spark Liquidity Layer Mainnet - Onboard SparkLend DAI - April 7, 2025",
+    "summary": "Signal your support or opposition to onboarding SparkLend DAI to the Spark Liquidity Layer on Mainnet.",
+    "discussionLink": "https://forum.sky.money/t/april-17-2025-proposed-changes-to-spark-for-upcoming-spell/26234",
+    "content": "<h1>Poll: Spark Liquidity Layer Mainnet - Onboard SparkLend DAI - April 7, 2025</h1>\n<p>The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/#A.1.9.1_Operational_Weekly_Cycle-b189fa17-57a9-4d4e-9780-0ce4efd94211%7C0db30308\">Poll</a> will be active for three days beginning on Monday, April 7 at 16:00 UTC.</p>\n<p><strong>This is a binary vote.</strong></p>\n<ul>\n<li><strong>You may vote for a single option.</strong></li>\n<li><strong>You should vote for the option which you prefer.</strong></li>\n<li><strong>If you would accept either option, you should vote 'Abstain'.</strong></li>\n</ul>\n<h2>Review</h2>\n<p>The community can vote in this poll to express support or opposition to onboarding Mainnet SparkLend DAI to the Spark Liquidity Layer with the following parameters:</p>\n<ul>\n<li>Deposits\n<ul>\n<li><code>Max amount</code>: <strong>100 million DAI</strong></li>\n<li><code>Slope</code>: <strong>50 million DAI per day</strong></li>\n</ul>\n</li>\n<li>Withdrawals\n<ul>\n<li><code>Max amount</code>: <strong>unlimited</strong></li>\n</ul>\n</li>\n</ul>\n<p>Please review the discussion <a target=\"_blank\" href=\"https://forum.sky.money/t/april-17-2025-proposed-changes-to-spark-for-upcoming-spell/26234\">thread</a> to help inform your position before voting.</p>\n<h2>Outcomes</h2>\n<p><strong>If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:</strong></p>\n<ul>\n<li>This change will be included in an upcoming Executive Vote.</li>\n<li>It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.</li>\n<li>If the Executive Vote passes, then these changes will become active in the Sky Protocol after the <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.1.9.2.1_Pause_Delay/a98b8227-95f6-4711-9d8d-f52cbc6ad2d0%7C0db30758e055\">GSM Pause Delay</a> has expired.</li>\n</ul>\n<p><strong>If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.</strong></p>\n<hr>\n<h2>Resources</h2>\n<p>If you are new to voting in the Sky Protocol, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance\">voting guide</a> to learn how voting works.</p>\n<p>Additional information about the Governance process can be found in the <a target=\"_blank\" href=\"https://manual.makerdao.com\">Operational Manual</a>.</p>\n<p>To add current and upcoming votes to your calendar, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/makerdao/calendars/governance-calendar\">Governance Calendar</a>.</p>",
+    "options": {
+      "0": "Abstain",
+      "1": "Yes",
+      "2": "No"
+    },
+    "parameters": {
+      "inputFormat": {
+        "type": "single-choice",
+        "abstain": [
+          0
+        ],
+        "options": []
+      },
+      "resultDisplay": "single-vote-breakdown",
+      "victoryConditions": [
+        {
+          "type": "plurality"
+        }
+      ]
+    },
+    "tags": []
+  },
+  {
+    "creator": "0x8541ccfc6e7eacebd233c6789a0fbf7c708b0e68",
+    "pollId": 1225,
+    "blockCreated": 22217932,
+    "startDate": "2025-04-07T16:00:00.000Z",
+    "endDate": "2025-04-10T16:00:00.000Z",
+    "multiHash": "QmRkQDMTPwZ1UmAt46whu9o66UjdKG99LbwmY7RQGVBnb1",
+    "url": "https://raw.githubusercontent.com/makerdao/community/refs/heads/master/governance/polls/Spark%20Liquidity%20Layer%20Mainnet%2C%20Base%2C%20Arbitrum%20-%20Upgrade%20Controller%20to%20v1.4.0%20on%20All%20Chains%20-%20April%207%2C%202025.md",
+    "slug": "QmRkQDMT",
+    "title": "Spark Liquidity Layer Mainnet, Base, Arbitrum - Upgrade the Spark ALM Controller to v1.4.0 on All Chains - April 7, 2025",
+    "summary": "Signal your support or opposition to upgrading the Spark ALM Controller to v1.4.0 on All Chains",
+    "discussionLink": "https://forum.sky.money/t/april-17-2025-proposed-changes-to-spark-for-upcoming-spell/26234",
+    "content": "<h1>Poll: Spark Liquidity Layer Mainnet, Base, Arbitrum - Upgrade the Spark ALM Controller to v1.4.0 on All Chains - April 7, 2025</h1>\n<p>The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/#A.1.9.1_Operational_Weekly_Cycle-b189fa17-57a9-4d4e-9780-0ce4efd94211%7C0db30308\">Poll</a> will be active for three days beginning on Monday, April 7 at 16:00 UTC.</p>\n<p><strong>This is a binary vote.</strong></p>\n<ul>\n<li><strong>You may vote for a single option.</strong></li>\n<li><strong>You should vote for the option which you prefer.</strong></li>\n<li><strong>If you would accept either option, you should vote 'Abstain'.</strong></li>\n</ul>\n<h2>Review</h2>\n<p>The community can vote in this poll to express support or opposition to upgrading the <a target=\"_blank\" href=\"https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller\">Spark ALM Controller</a> to <a target=\"_blank\" href=\"https://github.com/sparkdotfi/spark-alm-controller/commit/b618c3fb1508ce29ac9e92e3bf55229cd1a66d8a\">v1.4.0</a> on all chains.</p>\n<p>Please review the discussion <a target=\"_blank\" href=\"https://forum.sky.money/t/april-17-2025-proposed-changes-to-spark-for-upcoming-spell/26234\">thread</a> to help inform your position before voting.</p>\n<h2>Outcomes</h2>\n<p><strong>If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:</strong></p>\n<ul>\n<li>This change will be included in an upcoming Executive Vote.</li>\n<li>It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.</li>\n<li>If the Executive Vote passes, then these changes will become active in the Sky Protocol after the <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.1.9.2.1_Pause_Delay/a98b8227-95f6-4711-9d8d-f52cbc6ad2d0%7C0db30758e055\">GSM Pause Delay</a> has expired.</li>\n</ul>\n<p><strong>If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.</strong></p>\n<hr>\n<h2>Resources</h2>\n<p>If you are new to voting in the Sky Protocol, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance\">voting guide</a> to learn how voting works.</p>\n<p>Additional information about the Governance process can be found in the <a target=\"_blank\" href=\"https://manual.makerdao.com\">Operational Manual</a>.</p>\n<p>To add current and upcoming votes to your calendar, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/makerdao/calendars/governance-calendar\">Governance Calendar</a>.</p>",
+    "options": {
+      "0": "Abstain",
+      "1": "Yes",
+      "2": "No"
+    },
+    "parameters": {
+      "inputFormat": {
+        "type": "single-choice",
+        "abstain": [
+          0
+        ],
+        "options": []
+      },
+      "resultDisplay": "single-vote-breakdown",
+      "victoryConditions": [
+        {
+          "type": "plurality"
+        }
+      ]
+    },
+    "tags": []
+  },
+  {
+    "creator": "0x8541ccfc6e7eacebd233c6789a0fbf7c708b0e68",
+    "pollId": 1226,
+    "blockCreated": 22217937,
+    "startDate": "2025-04-07T16:00:00.000Z",
+    "endDate": "2025-04-10T16:00:00.000Z",
+    "multiHash": "QmQk4XKyv1u8n6WN6TEXVPhwxkCRP5A8VoFYdvdYB14TMs",
+    "url": "https://raw.githubusercontent.com/makerdao/community/refs/heads/master/governance/polls/SparkLend%20Mainnet%20-%20Add%20sUSDS%20to%20USD%20Emode%20-%20April%207%2C%202025.md",
+    "slug": "QmQk4XKy",
+    "title": "SparkLend Mainnet - Add sUSDS to USD E-mode - April 7, 2025",
+    "summary": "Signal your support or opposition to adding sUSDS to USD-correlated E-mode",
+    "discussionLink": "https://forum.sky.money/t/april-17-2025-proposed-changes-to-spark-for-upcoming-spell/26234",
+    "content": "<h1>Poll: SparkLend Mainnet - Add sUSDS to USD E-mode - April 7, 2025</h1>\n<p>The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/#A.1.9.1_Operational_Weekly_Cycle-b189fa17-57a9-4d4e-9780-0ce4efd94211%7C0db30308\">Poll</a> will be active for three days beginning on Monday, April 7 at 16:00 UTC.</p>\n<p><strong>This is a binary vote.</strong></p>\n<ul>\n<li><strong>You may vote for a single option.</strong></li>\n<li><strong>You should vote for the option which you prefer.</strong></li>\n<li><strong>If you would accept either option, you should vote 'Abstain'.</strong></li>\n</ul>\n<h2>Review</h2>\n<p>The community can vote in this poll to express support or opposition to adding sUSDS to the USD-correlated <a target=\"_blank\" href=\"https://github.com/makerdao/next-gen-atlas/blob/7cf37209d2c32b88fc9dbb2017dca30b02b66a44/Sky%20Atlas/Sky%20Atlas.html#L8568\">E-mode</a>.</p>\n<p>Please review the discussion <a target=\"_blank\" href=\"https://forum.sky.money/t/april-17-2025-proposed-changes-to-spark-for-upcoming-spell/26234\">thread</a> to help inform your position before voting.</p>\n<h2>Outcomes</h2>\n<p><strong>If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:</strong></p>\n<ul>\n<li>This change will be included in an upcoming Executive Vote.</li>\n<li>It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.</li>\n<li>If the Executive Vote passes, then these changes will become active in the Sky Protocol after the <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.1.9.2.1_Pause_Delay/a98b8227-95f6-4711-9d8d-f52cbc6ad2d0%7C0db30758e055\">GSM Pause Delay</a> has expired.</li>\n</ul>\n<p><strong>If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.</strong></p>\n<hr>\n<h2>Resources</h2>\n<p>If you are new to voting in the Sky Protocol, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance\">voting guide</a> to learn how voting works.</p>\n<p>Additional information about the Governance process can be found in the <a target=\"_blank\" href=\"https://manual.makerdao.com\">Operational Manual</a>.</p>\n<p>To add current and upcoming votes to your calendar, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/makerdao/calendars/governance-calendar\">Governance Calendar</a>.</p>",
+    "options": {
+      "0": "Abstain",
+      "1": "Yes",
+      "2": "No"
+    },
+    "parameters": {
+      "inputFormat": {
+        "type": "single-choice",
+        "abstain": [
+          0
+        ],
+        "options": []
+      },
+      "resultDisplay": "single-vote-breakdown",
+      "victoryConditions": [
+        {
+          "type": "plurality"
+        }
+      ]
+    },
+    "tags": []
+  },
+  {
+    "creator": "0x8541ccfc6e7eacebd233c6789a0fbf7c708b0e68",
+    "pollId": 1227,
+    "blockCreated": 22217943,
+    "startDate": "2025-04-07T16:00:00.000Z",
+    "endDate": "2025-04-10T16:00:00.000Z",
+    "multiHash": "Qmc3WXejnufHs4xbbrmozfCf1QDyERkggP68uxCAPruUnD",
+    "url": "https://raw.githubusercontent.com/makerdao/community/refs/heads/master/governance/polls/SparkLend%20Mainnet%20-%20Adjust%20cbBTC%20and%20tBTC%20Interest%20Rate%20Models%20-%20April%207%2C%202025.md",
+    "slug": "Qmc3WXej",
+    "title": "SparkLend Mainnet - Adjust cbBTC and tBTC Interest Rate Models - April 7, 2025",
+    "summary": "Signal your support or opposition to adjusting the cbBTC and tBTC Interest Rate Models.",
+    "discussionLink": "https://forum.sky.money/t/april-17-2025-proposed-changes-to-spark-for-upcoming-spell/26234",
+    "content": "<h1>Poll: SparkLend Mainnet - Adjust cbBTC and tBTC Interest Rate Models - April 7, 2025</h1>\n<p>The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/#A.1.9.1_Operational_Weekly_Cycle-b189fa17-57a9-4d4e-9780-0ce4efd94211%7C0db30308\">Poll</a> will be active for three days beginning on Monday, April 7 at 16:00 UTC.</p>\n<p><strong>This is a binary vote.</strong></p>\n<ul>\n<li><strong>You may vote for a single option.</strong></li>\n<li><strong>You should vote for the option which you prefer.</strong></li>\n<li><strong>If you would accept either option, you should vote 'Abstain'.</strong></li>\n</ul>\n<h2>Review</h2>\n<p>The community can vote in this poll to express support or opposition to adjusting the cbBTC and tBTC <a target=\"_blank\" href=\"https://github.com/makerdao/next-gen-atlas/blob/7cf37209d2c32b88fc9dbb2017dca30b02b66a44/Sky%20Atlas/Sky%20Atlas.html#L8525\">Interest Rate Models</a> as follows:</p>\n<ul>\n<li><a target=\"_blank\" href=\"https://github.com/makerdao/next-gen-atlas/blob/7cf37209d2c32b88fc9dbb2017dca30b02b66a44/Sky%20Atlas/Sky%20Atlas.html#L8620\">Optimal utilization ratio</a>: Increase by 20 percentage points from 60% to <strong>80%</strong>.</li>\n<li><a target=\"_blank\" href=\"https://github.com/makerdao/next-gen-atlas/blob/7cf37209d2c32b88fc9dbb2017dca30b02b66a44/Sky%20Atlas/Sky%20Atlas.html#L8645\">Base rate</a>: Keep unchanged at <strong>0%</strong>.</li>\n<li><a target=\"_blank\" href=\"https://github.com/makerdao/next-gen-atlas/blob/7cf37209d2c32b88fc9dbb2017dca30b02b66a44/Sky%20Atlas/Sky%20Atlas.html#L8667\">Slope 1</a>: Decrease by 3 percentage points from 4% to <strong>1%</strong>.</li>\n<li><a target=\"_blank\" href=\"https://github.com/makerdao/next-gen-atlas/blob/7cf37209d2c32b88fc9dbb2017dca30b02b66a44/Sky%20Atlas/Sky%20Atlas.html#L8687\">Slope 2</a>: Keep unchanged at <strong>300%</strong>.</li>\n</ul>\n<p>Please review the discussion <a target=\"_blank\" href=\"https://forum.sky.money/t/april-17-2025-proposed-changes-to-spark-for-upcoming-spell/26234\">thread</a> to help inform your position before voting.</p>\n<h2>Outcomes</h2>\n<p><strong>If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:</strong></p>\n<ul>\n<li>This change will be included in an upcoming Executive Vote.</li>\n<li>It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.</li>\n<li>If the Executive Vote passes, then these changes will become active in the Sky Protocol after the <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.1.9.2.1_Pause_Delay/a98b8227-95f6-4711-9d8d-f52cbc6ad2d0%7C0db30758e055\">GSM Pause Delay</a> has expired.</li>\n</ul>\n<p><strong>If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.</strong></p>\n<hr>\n<h2>Resources</h2>\n<p>If you are new to voting in the Sky Protocol, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance\">voting guide</a> to learn how voting works.</p>\n<p>Additional information about the Governance process can be found in the <a target=\"_blank\" href=\"https://manual.makerdao.com\">Operational Manual</a>.</p>\n<p>To add current and upcoming votes to your calendar, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/makerdao/calendars/governance-calendar\">Governance Calendar</a>.</p>",
+    "options": {
+      "0": "Abstain",
+      "1": "Yes",
+      "2": "No"
+    },
+    "parameters": {
+      "inputFormat": {
+        "type": "single-choice",
+        "abstain": [
+          0
+        ],
+        "options": []
+      },
+      "resultDisplay": "single-vote-breakdown",
+      "victoryConditions": [
+        {
+          "type": "plurality"
+        }
+      ]
+    },
+    "tags": []
+  },
+  {
+    "creator": "0x8541ccfc6e7eacebd233c6789a0fbf7c708b0e68",
+    "pollId": 1228,
+    "blockCreated": 22217949,
+    "startDate": "2025-04-07T16:00:00.000Z",
+    "endDate": "2025-04-10T16:00:00.000Z",
+    "multiHash": "QmQgnWbXYPQ8iv9bbn9EfzmMed735JpHTnRFQTDf4zjiwV",
+    "url": "https://raw.githubusercontent.com/makerdao/community/refs/heads/master/governance/polls/SparkLend%20Mainnet%20-%20Onboard%20July%20sUSDe%20PT%20to%20Morpho%20Spark%20DAI%20Vault%20-%20April%207%2C%202025.md",
+    "slug": "QmQgnWbX",
+    "title": "SparkLend Mainnet - Onboard July sUSDe PT to Morpho Spark DAI Vault - April 7, 2025",
+    "summary": "Signal your support or opposition to onboarding PT-sUSDe-31July2025 to the Morpho DAI vault.",
+    "discussionLink": "https://forum.sky.money/t/april-17-2025-proposed-changes-to-spark-for-upcoming-spell/26234",
+    "content": "<h1>Poll: SparkLend Mainnet - Onboard July sUSDe PT to Morpho Spark DAI Vault - April 7, 2025</h1>\n<p>The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/#A.1.9.1_Operational_Weekly_Cycle-b189fa17-57a9-4d4e-9780-0ce4efd94211%7C0db30308\">Poll</a> will be active for three days beginning on Monday, April 7 at 16:00 UTC.</p>\n<p><strong>This is a binary vote.</strong></p>\n<ul>\n<li><strong>You may vote for a single option.</strong></li>\n<li><strong>You should vote for the option which you prefer.</strong></li>\n<li><strong>If you would accept either option, you should vote 'Abstain'.</strong></li>\n</ul>\n<h2>Review</h2>\n<p>The community can vote in this poll to express support or opposition to onboarding PT-sUSDe-31July2025 to the Morpho DAI vault with the following parameters:</p>\n<ul>\n<li>Pool LLTV: <strong>91.5%</strong></li>\n<li>Pendle oracle discount rate: <strong>20% APY</strong></li>\n<li>Supply cap: <strong>400 million DAI</strong></li>\n</ul>\n<p>Please review the discussion <a target=\"_blank\" href=\"https://forum.sky.money/t/april-17-2025-proposed-changes-to-spark-for-upcoming-spell/26234\">thread</a> to help inform your position before voting.</p>\n<h2>Outcomes</h2>\n<p><strong>If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:</strong></p>\n<ul>\n<li>This change will be included in an upcoming Executive Vote.</li>\n<li>It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.</li>\n<li>If the Executive Vote passes, then these changes will become active in the Sky Protocol after the <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.1.9.2.1_Pause_Delay/a98b8227-95f6-4711-9d8d-f52cbc6ad2d0%7C0db30758e055\">GSM Pause Delay</a> has expired.</li>\n</ul>\n<p><strong>If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.</strong></p>\n<hr>\n<h2>Resources</h2>\n<p>If you are new to voting in the Sky Protocol, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance\">voting guide</a> to learn how voting works.</p>\n<p>Additional information about the Governance process can be found in the <a target=\"_blank\" href=\"https://manual.makerdao.com\">Operational Manual</a>.</p>\n<p>To add current and upcoming votes to your calendar, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/makerdao/calendars/governance-calendar\">Governance Calendar</a>.</p>",
+    "options": {
+      "0": "Abstain",
+      "1": "Yes",
+      "2": "No"
+    },
+    "parameters": {
+      "inputFormat": {
+        "type": "single-choice",
+        "abstain": [
+          0
+        ],
+        "options": []
+      },
+      "resultDisplay": "single-vote-breakdown",
+      "victoryConditions": [
+        {
+          "type": "plurality"
+        }
+      ]
+    },
+    "tags": []
+  },
+  {
+    "creator": "0x8541ccfc6e7eacebd233c6789a0fbf7c708b0e68",
+    "pollId": 1229,
+    "blockCreated": 22217953,
+    "startDate": "2025-04-07T16:00:00.000Z",
+    "endDate": "2025-04-10T16:00:00.000Z",
+    "multiHash": "QmU3y9jfKVZJqhGmsKeWdyCBHbkkBCSXv983fSCdoog14e",
+    "url": "https://raw.githubusercontent.com/makerdao/community/refs/heads/master/governance/polls/SparkLend%20Mainnet%20-%20Reduce%20WBTC%20LT%20-%20April%207%2C%202025.md",
+    "slug": "QmU3y9jf",
+    "title": "SparkLend Mainnet - Reduce WBTC LT - April 7, 2025",
+    "summary": "Signal your support or opposition to reducing the WBTC Liquidation Threshold.",
+    "discussionLink": "https://forum.sky.money/t/april-17-2025-proposed-changes-to-spark-for-upcoming-spell/26234",
+    "content": "<h1>Poll: SparkLend Mainnet - Reduce WBTC LT - April 7, 2025</h1>\n<p>The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/#A.1.9.1_Operational_Weekly_Cycle-b189fa17-57a9-4d4e-9780-0ce4efd94211%7C0db30308\">Poll</a> will be active for three days beginning on Monday, April 7 at 16:00 UTC.</p>\n<p><strong>This is a binary vote.</strong></p>\n<ul>\n<li><strong>You may vote for a single option.</strong></li>\n<li><strong>You should vote for the option which you prefer.</strong></li>\n<li><strong>If you would accept either option, you should vote 'Abstain'.</strong></li>\n</ul>\n<h2>Review</h2>\n<p>The community can vote in this poll to express support or opposition to reducing the WBTC <a target=\"_blank\" href=\"https://github.com/makerdao/next-gen-atlas/blob/7cf37209d2c32b88fc9dbb2017dca30b02b66a44/Sky%20Atlas/Sky%20Atlas.html#L8560\">Liquidation Threshold</a> as follows:</p>\n<ul>\n<li>Reduce WBTC Liquidation Threshold by 5 percentage points from 50% to <strong>45%</strong>.</li>\n</ul>\n<p>Please review the discussion <a target=\"_blank\" href=\"https://forum.sky.money/t/april-17-2025-proposed-changes-to-spark-for-upcoming-spell/26234\">thread</a> to help inform your position before voting.</p>\n<h2>Outcomes</h2>\n<p><strong>If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:</strong></p>\n<ul>\n<li>This change will be included in an upcoming Executive Vote.</li>\n<li>It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.</li>\n<li>If the Executive Vote passes, then these changes will become active in the Sky Protocol after the <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.1.9.2.1_Pause_Delay/a98b8227-95f6-4711-9d8d-f52cbc6ad2d0%7C0db30758e055\">GSM Pause Delay</a> has expired.</li>\n</ul>\n<p><strong>If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.</strong></p>\n<hr>\n<h2>Resources</h2>\n<p>If you are new to voting in the Sky Protocol, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance\">voting guide</a> to learn how voting works.</p>\n<p>Additional information about the Governance process can be found in the <a target=\"_blank\" href=\"https://manual.makerdao.com\">Operational Manual</a>.</p>\n<p>To add current and upcoming votes to your calendar, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/makerdao/calendars/governance-calendar\">Governance Calendar</a>.</p>",
+    "options": {
+      "0": "Abstain",
+      "1": "Yes",
+      "2": "No"
+    },
+    "parameters": {
+      "inputFormat": {
+        "type": "single-choice",
+        "abstain": [
+          0
+        ],
+        "options": []
+      },
+      "resultDisplay": "single-vote-breakdown",
+      "victoryConditions": [
+        {
+          "type": "plurality"
+        }
+      ]
+    },
+    "tags": []
+  },
+  {
+    "creator": "0xdc7ee5da5d011bc98cf030968659f3ee92232843",
+    "pollId": 1230,
+    "blockCreated": 22268228,
+    "startDate": "2025-04-14T16:00:00.000Z",
+    "endDate": "2025-04-28T16:00:00.000Z",
+    "multiHash": "QmRn24abKP4BZn44ux2jXmUMQYvpi3UEigcH3T4xZRVoT4",
+    "url": "https://raw.githubusercontent.com/makerdao/community/refs/heads/master/governance/polls/Atlas%20Edit%20Monthly%20Cycle%20Proposal%20(AEP-10)%20-%20April%2014%2C%202025.md",
+    "slug": "QmRn24ab",
+    "title": "Atlas Edit Monthly Cycle Proposal (AEP-10) - April 14, 2025",
+    "summary": "This Atlas Edit Proposal aims to make Aligned Delegate and Facilitator anonymity optional.",
+    "discussionLink": "https://forum.sky.money/t/aep-10-making-delegate-anonymity-optional/26205",
+    "content": "<h1>Atlas Edit Monthly Cycle Proposal (AEP-10) - April 14, 2025</h1>\n<p>The Governance Facilitators have placed an <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.1.11.2_Atlas_Edit_Monthly_Cycle/430185a5-fa5d-4664-89cf-21c9e6cfc109%7C0db3326e\">Atlas Edit Monthly Cycle Proposal</a> into the <a target=\"_blank\" href=\"https://vote.makerdao.com/polling\">voting system</a>. This Governance Poll will be active for fourteen days beginning on Monday, April 14 at 16:00 UTC.</p>\n<p><strong>This is a binary vote.</strong></p>\n<ul>\n<li><strong>You may vote for a single option.</strong></li>\n<li><strong>You should vote for the option which you prefer.</strong></li>\n<li><strong>If you would accept either option, you should vote 'Abstain'.</strong></li>\n</ul>\n<h2>Review</h2>\n<p>The community may vote in this poll to express support or opposition to the following Atlas Edit Monthly Cycle Proposal:</p>\n<ul>\n<li><a target=\"_blank\" href=\"https://github.com/makerdao/next-gen-atlas/pull/81\">Atlas Edit Pull Request</a></li>\n<li><a target=\"_blank\" href=\"https://forum.sky.money/t/aep-10-making-delegate-anonymity-optional/26205\">Proposal Discussion Thread</a></li>\n</ul>\n<p>A brief summary of this Atlas Edit has been provided by the Author and is shown below:</p>\n<p><em>We currently require AD’s to stay anonymous and even pay bounties for users to reveal their identities. This is likely a large reason AD’s keep communications to a minimum to avoid being doxed. They cannot attend events in person, cannot speak personally, they are incentivized to participate less in Sky. They constantly have a target on their back. What the point of having a request for comments stage of Atlas proposals if people are pushed to never comment? I am pushing this proposal to make anonymity optional for AD’s, they can choose whether they want to be anonymous or not, and the bounty system will be eliminated. Should any member ever be sued, we have a legal defense fund. I’m also going to include in this proposal funding emergencies to defend AD’s such as if they need relocation or security. Going into the future we want active public governance, not cloak and dagger. Also on a practical note, why are we paying people to dox our delegates? That seems like a waste of money that can be better put to use elsewhere. We are not Silk Road and acting like it makes us seem criminal.</em></p>\n<h2>Outcomes</h2>\n<p>This poll implements a <strong>Minimum Positive Participation</strong> value. The Minimum Positive Participation for Atlas Edit Monthly Cycle Proposals is currently set to <strong>10,000 MKR</strong>.</p>\n<p><strong>If the votes for the 'Yes' option exceed the votes for the 'No' option AND the votes for the 'Yes' option equal or exceed 10,000 MKR, then the following action will be taken:</strong></p>\n<ul>\n<li>The associated Pull Request will be merged into The Atlas.</li>\n</ul>\n<hr>\n<h2>Resources</h2>\n<p>If you are new to voting in the Sky Protocol, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance\">voting guide</a> to learn how voting works.</p>\n<p>Additional information about the Governance process can be found in the <a target=\"_blank\" href=\"https://manual.makerdao.com\">Operational Manual</a>.</p>\n<p>To add current and upcoming votes to your calendar, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/makerdao/calendars/governance-calendar\">Sky Governance Calendar</a>.</p>",
+    "options": {
+      "0": "Abstain",
+      "1": "Yes",
+      "2": "No"
+    },
+    "parameters": {
+      "inputFormat": {
+        "type": "single-choice",
+        "abstain": [
+          0
+        ],
+        "options": []
+      },
+      "resultDisplay": "single-vote-breakdown",
+      "victoryConditions": [
+        {
+          "type": "and",
+          "conditions": [
+            {
+              "type": "plurality"
+            },
+            {
+              "type": "comparison",
+              "comparator": ">=",
+              "value": 10000
+            }
+          ]
+        },
+        {
+          "type": "default",
+          "value": 2
+        }
+      ]
+    },
+    "tags": []
+  },
+  {
+    "creator": "0xdc7ee5da5d011bc98cf030968659f3ee92232843",
+    "pollId": 1231,
+    "blockCreated": 22268242,
+    "startDate": "2025-04-14T16:00:00.000Z",
+    "endDate": "2025-04-28T16:00:00.000Z",
+    "multiHash": "QmXaoCePQ1pRp2mp4dweKoEYGMrDfJwMCdwMD2NUa7X4Ty",
+    "url": "https://raw.githubusercontent.com/makerdao/community/refs/heads/master/governance/polls/Atlas%20Edit%20Monthly%20Cycle%20Proposal%20(AEP-3)%20-%20April%2014%2C%202025.md",
+    "slug": "QmXaoCeP",
+    "title": "Atlas Edit Monthly Cycle Proposal (AEP-3) - April 14, 2025",
+    "summary": "This Atlas Edit Proposal aims to introduce a monthly community meeting to The Atlas.",
+    "discussionLink": "https://forum.sky.money/t/aep-03-monthly-developer-ad-community-meetings/25991",
+    "content": "<h1>Atlas Edit Monthly Cycle Proposal (AEP-3) - April 14, 2025</h1>\n<p>The Governance Facilitators have placed an <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.1.11.2_Atlas_Edit_Monthly_Cycle/430185a5-fa5d-4664-89cf-21c9e6cfc109%7C0db3326e\">Atlas Edit Monthly Cycle Proposal</a> into the <a target=\"_blank\" href=\"https://vote.makerdao.com/polling\">voting system</a>. This Governance Poll will be active for fourteen days beginning on Monday, April 14 at 16:00 UTC.</p>\n<p><strong>This is a binary vote.</strong></p>\n<ul>\n<li><strong>You may vote for a single option.</strong></li>\n<li><strong>You should vote for the option which you prefer.</strong></li>\n<li><strong>If you would accept either option, you should vote 'Abstain'.</strong></li>\n</ul>\n<h2>Review</h2>\n<p>The community may vote in this poll to express support or opposition to the following Atlas Edit Monthly Cycle Proposal:</p>\n<ul>\n<li><a target=\"_blank\" href=\"https://github.com/makerdao/next-gen-atlas/pull/86\">Atlas Edit Pull Request</a></li>\n<li><a target=\"_blank\" href=\"https://forum.sky.money/t/aep-03-monthly-developer-ad-community-meetings/25991\">Proposal Discussion Thread</a></li>\n</ul>\n<p>A brief summary of this Atlas Edit has been provided by the Author and is shown below:</p>\n<p><em>To enhance communication, transparency, and cohesion among the DAO and better keep things organized I am proposing to adopt a system similar to most DAOs/ETH-style governance and have monthly discord meetings. This would not just be for Sky DAO but for the sub-DAO’s as well to attend so that everyone is up to date on what is going on and have a chance to interact. These meetings will be recorded and posted to Youtube so that future users may look up past decisions/discussions. How I envision this working is that every month there is a meeting of all Sky employees where they can discuss what is going on and communicate between themselves while the audience is muted. AD’s will be required to attend 1 in 3 meetings, missing 3 in a row results in disqualification. Once the employees are done, the AD’s will be able to ask questions and discuss monthly governance proposals. Once the AD’s are finished, there will be a 20 minute question period for the community to ask questions. I will note that all other organizations wishing to cooperate with Sky must ask on the forum, this would not be a period for advertising. Edit: To add, AD’s can write down their questions they don’t need to talk (due to the anonymity requirements for AD’s).</em></p>\n<p>Additional information about the processing of AEP-3 can be found <a target=\"_blank\" href=\"https://forum.sky.money/t/clarifications-regarding-aeps-3-and-8/26271\">here</a>.</p>\n<h2>Outcomes</h2>\n<p>This poll implements a <strong>Minimum Positive Participation</strong> value. The Minimum Positive Participation for Atlas Edit Monthly Cycle Proposals is currently set to <strong>10,000 MKR</strong>.</p>\n<p><strong>If the votes for the 'Yes' option exceed the votes for the 'No' option AND the votes for the 'Yes' option equal or exceed 10,000 MKR, then the following action will be taken:</strong></p>\n<ul>\n<li>The associated Pull Request will be merged into The Atlas.</li>\n</ul>\n<hr>\n<h2>Resources</h2>\n<p>If you are new to voting in the Sky Protocol, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance\">voting guide</a> to learn how voting works.</p>\n<p>Additional information about the Governance process can be found in the <a target=\"_blank\" href=\"https://manual.makerdao.com\">Operational Manual</a>.</p>\n<p>To add current and upcoming votes to your calendar, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/makerdao/calendars/governance-calendar\">Sky Governance Calendar</a>.</p>",
+    "options": {
+      "0": "Abstain",
+      "1": "Yes",
+      "2": "No"
+    },
+    "parameters": {
+      "inputFormat": {
+        "type": "single-choice",
+        "abstain": [
+          0
+        ],
+        "options": []
+      },
+      "resultDisplay": "single-vote-breakdown",
+      "victoryConditions": [
+        {
+          "type": "and",
+          "conditions": [
+            {
+              "type": "plurality"
+            },
+            {
+              "type": "comparison",
+              "comparator": ">=",
+              "value": 10000
+            }
+          ]
+        },
+        {
+          "type": "default",
+          "value": 2
+        }
+      ]
+    },
+    "tags": []
+  },
+  {
+    "creator": "0xdc7ee5da5d011bc98cf030968659f3ee92232843",
+    "pollId": 1232,
+    "blockCreated": 22268255,
+    "startDate": "2025-04-14T16:00:00.000Z",
+    "endDate": "2025-04-28T16:00:00.000Z",
+    "multiHash": "QmRgEcHVCQ3TWva559684RhG9ous1Gjy61MEm8o48m5dQa",
+    "url": "https://raw.githubusercontent.com/makerdao/community/refs/heads/master/governance/polls/Atlas%20Edit%20Monthly%20Cycle%20Proposal%20(AEP-8)%20-%20April%2014%2C%202025.md",
+    "slug": "QmRgEcHV",
+    "title": "Atlas Edit Monthly Cycle Proposal (AEP-8) - April 14, 2025",
+    "summary": "This Atlas Edit Proposal aims to focus Integration Boost on crosschain adoption.",
+    "discussionLink": "https://forum.sky.money/t/aep-8-focus-integration-boost-on-crosschain-adoption/26176",
+    "content": "<h1>Atlas Edit Monthly Cycle Proposal (AEP-8) - April 14, 2025</h1>\n<p>The Governance Facilitators have placed an <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.1.11.2_Atlas_Edit_Monthly_Cycle/430185a5-fa5d-4664-89cf-21c9e6cfc109%7C0db3326e\">Atlas Edit Monthly Cycle Proposal</a> into the <a target=\"_blank\" href=\"https://vote.makerdao.com/polling\">voting system</a>. This Governance Poll will be active for fourteen days beginning on Monday, April 14 at 16:00 UTC.</p>\n<p><strong>This is a binary vote.</strong></p>\n<ul>\n<li><strong>You may vote for a single option.</strong></li>\n<li><strong>You should vote for the option which you prefer.</strong></li>\n<li><strong>If you would accept either option, you should vote 'Abstain'.</strong></li>\n</ul>\n<h2>Review</h2>\n<p>The community may vote in this poll to express support or opposition to the following Atlas Edit Monthly Cycle Proposal:</p>\n<ul>\n<li><a target=\"_blank\" href=\"https://github.com/makerdao/next-gen-atlas/pull/90\">Atlas Edit Pull Request</a></li>\n<li><a target=\"_blank\" href=\"https://forum.sky.money/t/aep-8-focus-integration-boost-on-crosschain-adoption/26176\">Proposal Discussion Thread</a></li>\n</ul>\n<p>Please review the previous <a target=\"_blank\" href=\"https://www.notion.so/Public-Atlas-Edit-Weekly-Proposal-for-Agent-Launch-Week-of-2025-03-10-1aff2ff08d738081880fcdc15ceb12b0?pvs=21\">Atlas Edit in Notion</a> for this Edit's changes to the <code>Integration Boost Partners</code> section.</p>\n<p>A brief summary of this Atlas Edit has been provided by the Author and is shown below:</p>\n<p><em>With DAI and USDS already present and profitable on Ethereum, resources to promote USDS are best spent on new markets. To this end, the Integration Boost program should direct 100% of its budget to venues and partners outside of Ethereum and it’s associated L2’s where there is the highest potential for growth.</em></p>\n<p><em>To add, Sky is quite profitable but much of this is currently being spent rather than given back to token holders. Integration boosts should be focused on high value returns. Realistically almost all Sky income is derived from Ethereum as low gas means the L2’s have lost much of their meaning/drive. Benefits gained from L2 network deposits are only driven by large subsidies such that Sky is losing out overall. A great example is on Compound, sure it’s great that people are depositing USDS and borrowing USDS on compound. But we’re paying USDS incentives to achieve this. They can just deposit USDS on Sky. Perhaps when USDS was unknown it was good publicity (people see the high APR and google USDS to find it) but now USDS is known so we no longer need efforts such as this on ETH.</em></p>\n<h2>Outcomes</h2>\n<p>This poll implements a <strong>Minimum Positive Participation</strong> value. The Minimum Positive Participation for Atlas Edit Monthly Cycle Proposals is currently set to <strong>10,000 MKR</strong>.</p>\n<p><strong>If the votes for the 'Yes' option exceed the votes for the 'No' option AND the votes for the 'Yes' option equal or exceed 10,000 MKR, then the following action will be taken:</strong></p>\n<ul>\n<li>An associated Pull Request will be merged into The Atlas.</li>\n</ul>\n<hr>\n<h2>Resources</h2>\n<p>If you are new to voting in the Sky Protocol, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance\">voting guide</a> to learn how voting works.</p>\n<p>Additional information about the Governance process can be found in the <a target=\"_blank\" href=\"https://manual.makerdao.com\">Operational Manual</a>.</p>\n<p>To add current and upcoming votes to your calendar, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/makerdao/calendars/governance-calendar\">Sky Governance Calendar</a>.</p>",
+    "options": {
+      "0": "Abstain",
+      "1": "Yes",
+      "2": "No"
+    },
+    "parameters": {
+      "inputFormat": {
+        "type": "single-choice",
+        "abstain": [
+          0
+        ],
+        "options": []
+      },
+      "resultDisplay": "single-vote-breakdown",
+      "victoryConditions": [
+        {
+          "type": "and",
+          "conditions": [
+            {
+              "type": "plurality"
+            },
+            {
+              "type": "comparison",
+              "comparator": ">=",
+              "value": 10000
+            }
+          ]
+        },
+        {
+          "type": "default",
+          "value": 2
+        }
+      ]
+    },
+    "tags": []
+  },
+  {
+    "creator": "0xdc7ee5da5d011bc98cf030968659f3ee92232843",
+    "pollId": 1233,
+    "blockCreated": 22268277,
+    "startDate": "2025-04-14T16:00:00.000Z",
+    "endDate": "2025-04-17T16:00:00.000Z",
+    "multiHash": "QmWc4toZhzWBWexeD6i9V7x1owa1mpsMf69JWFD9jCRjDG",
+    "url": "https://raw.githubusercontent.com/makerdao/community/refs/heads/master/governance/polls/Atlas%20Edit%20Weekly%20Cycle%20Proposal%20-%20April%2014%2C%202025.md",
+    "slug": "QmWc4toZ",
+    "title": "Atlas Edit Weekly Cycle Proposal - April 14, 2025",
+    "summary": "This Atlas Edit 1) builds out logic regarding types of capital 2) introduces the Sky Treasury Management Function 3) Adds initial logic for the Monthly Settlement Cycle 4) Adds provisions for the Rate Setter Module 5) Adds triggering requirements for the Monthly Governance Cycle 6) Corrects issues in the Agent Launch proposal.",
+    "discussionLink": "https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-april-14-2025/26262",
+    "content": "<h1>Atlas Edit Weekly Cycle Proposal - April 14, 2025</h1>\n<p>The Governance Facilitators have placed an <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/#A.1.9.2_Atlas_Edit_Weekly_Cycle-4a8ad9ad-5c5d-4994-9b46-f04c0e61ce59%7C0db30308\">Atlas Edit Weekly Cycle Proposal</a> into the <a target=\"_blank\" href=\"https://vote.makerdao.com/polling\">voting system</a> <a target=\"_blank\" href=\"https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-april-14-2025/26262/3\">on behalf of Prime Delegate JuliaChang</a>. This Governance <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/#A.1.9.2_Atlas_Edit_Weekly_Cycle-4a8ad9ad-5c5d-4994-9b46-f04c0e61ce59%7C0db30308\">Poll</a> will be active for three days beginning on Monday, April 14 at 16:00 UTC.</p>\n<p><strong>This is a binary vote.</strong></p>\n<ul>\n<li><strong>You may vote for a single option.</strong></li>\n<li><strong>You should vote for the option which you prefer.</strong></li>\n<li><strong>If you would accept either option, you should vote 'Abstain'.</strong></li>\n</ul>\n<h2>Review</h2>\n<p>The community may vote in this poll to express support or opposition to the following Atlas Edit Weekly Cycle Proposal:</p>\n<ul>\n<li><a target=\"_blank\" href=\"https://github.com/makerdao/next-gen-atlas/pull/91\">Atlas Edit Pull Request</a></li>\n<li><a target=\"_blank\" href=\"https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-april-14-2025/26262\">Proposal Discussion Thread</a></li>\n</ul>\n<p>A brief summary of this Atlas Edit has been provided by the Author and is shown below:</p>\n<p><em>This proposal includes six sets of edits:</em></p>\n<ul>\n<li><strong>Build Out Logic Regarding Types Of Capital</strong> - Incorporates Rune’s <a target=\"_blank\" href=\"https://forum.sky.money/t/the-types-of-risk-capital-internal-external-first-loss-senior/26122\">The Types Of Risk Capital: Internal, External, First Loss, Senior</a> Forum post and part of his <a target=\"_blank\" href=\"https://forum.sky.money/t/senior-risk-capital-system-and-srusds/26096\">Senior Risk Capital And srUSDS</a> Forum post.</li>\n<li><strong>Introduce Sky Treasury Management Function</strong> - Incorporates Rune’s <a target=\"_blank\" href=\"https://forum.sky.money/t/sky-treasury-management-function-update/26132\">Sky Treasury Management Function</a> Forum post and the remainder of his <a target=\"_blank\" href=\"https://forum.sky.money/t/senior-risk-capital-system-and-srusds/26096\">Senior Risk Capital And srUSDS</a> Forum post.</li>\n<li><strong>Add Initial Logic For Monthly Settlement Cycle</strong> - Adds initial logic for the Monthly Settlement Cycle.</li>\n<li><strong>Add Provisions For Rate Setter Module</strong> - Adds provisions for the Stability Parameter Bounded External Access Module (SP-BEAM) to allow interest rates to be updated more frequently.</li>\n<li><strong>Add Triggering Requirements For Monthly Governance Cycle</strong> - Adds triggering requirements for Atlas Edit Monthly Cycle proposals.</li>\n<li><strong>Correct Issues In Agent Launch Proposal</strong> - Makes minor corrections to the Atlas following up on the Agent Launch.</li>\n</ul>\n<h2>Outcomes</h2>\n<p>This poll implements a <strong>Minimum Positive Participation</strong> value. The Minimum Positive Participation for Atlas Edit Weekly Cycle Proposals is currently set to <strong>20,000 MKR</strong>.</p>\n<p><strong>If the votes for the 'Yes' option exceed the votes for the 'No' option AND the votes for the 'Yes' option equal or exceed 20,000 MKR, then the following actions will be taken:</strong></p>\n<ul>\n<li>The associated Pull Request will be merged into The Atlas.</li>\n</ul>\n<hr>\n<h2>Resources</h2>\n<p>If you are new to voting in the Sky Protocol, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance\">voting guide</a> to learn how voting works.</p>\n<p>Additional information about the Governance process can be found in the <a target=\"_blank\" href=\"https://manual.makerdao.com\">Operational Manual</a>.</p>\n<p>To add current and upcoming votes to your calendar, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/makerdao/calendars/governance-calendar\">Sky Governance Calendar</a>.</p>",
+    "options": {
+      "0": "Abstain",
+      "1": "Yes",
+      "2": "No"
+    },
+    "parameters": {
+      "inputFormat": {
+        "type": "single-choice",
+        "abstain": [
+          0
+        ],
+        "options": []
+      },
+      "resultDisplay": "single-vote-breakdown",
+      "victoryConditions": [
+        {
+          "type": "and",
+          "conditions": [
+            {
+              "type": "plurality"
+            },
+            {
+              "type": "comparison",
+              "comparator": ">=",
+              "value": 20000
+            }
+          ]
+        },
+        {
+          "type": "default",
+          "value": 2
+        }
+      ]
+    },
+    "tags": []
+  },
+  {
+    "creator": "0x8541ccfc6e7eacebd233c6789a0fbf7c708b0e68",
+    "pollId": 1234,
+    "blockCreated": 22318262,
+    "startDate": "2025-04-21T16:00:00.000Z",
+    "endDate": "2025-04-24T16:00:00.000Z",
+    "multiHash": "Qmctp1eNGREN8siQCeRJqr35vpPukE1YUwCxhz4yT4si6U",
+    "url": "https://raw.githubusercontent.com/makerdao/community/refs/heads/master/governance/polls/Atlas%20Edit%20Weekly%20Cycle%20Proposal%20-%20April%2021%2C%202025.md",
+    "slug": "Qmctp1eN",
+    "title": "Atlas Edit Weekly Cycle Proposal - April 21, 2025",
+    "summary": "This Atlas Edit introduces staking as a replacement for Activation/Sealing and defines the yUSDS system for funding USDS borrowing against staked SKY.",
+    "discussionLink": "https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-april-21-2025/26291",
+    "content": "<h1>Atlas Edit Weekly Cycle Proposal - April 21, 2025</h1>\n<p>The Governance Facilitators have placed an <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/#A.1.9.2_Atlas_Edit_Weekly_Cycle-4a8ad9ad-5c5d-4994-9b46-f04c0e61ce59%7C0db30308\">Atlas Edit Weekly Cycle Proposal</a> into the <a target=\"_blank\" href=\"https://vote.makerdao.com/polling\">voting system</a> <a target=\"_blank\" href=\"https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-april-21-2025/26291/2?\">on behalf of Prime Delegate JuliaChang</a>. This Governance <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/#A.1.9.2_Atlas_Edit_Weekly_Cycle-4a8ad9ad-5c5d-4994-9b46-f04c0e61ce59%7C0db30308\">Poll</a> will be active for three days beginning on Monday, April 21 at 16:00 UTC.</p>\n<p><strong>This is a binary vote.</strong></p>\n<ul>\n<li><strong>You may vote for a single option.</strong></li>\n<li><strong>You should vote for the option which you prefer.</strong></li>\n<li><strong>If you would accept either option, you should vote 'Abstain'.</strong></li>\n</ul>\n<h2>Review</h2>\n<p>The community may vote in this poll to express support or opposition to the following Atlas Edit Weekly Cycle Proposal:</p>\n<ul>\n<li><a target=\"_blank\" href=\"https://github.com/makerdao/next-gen-atlas/pull/97\">Atlas Edit Pull Request</a></li>\n<li><a target=\"_blank\" href=\"https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-april-21-2025/26291\">Proposal Discussion Thread</a></li>\n</ul>\n<p>A brief summary of this Atlas Edit has been provided by the Author and is shown below:</p>\n<p><em><strong>Introduce Staking</strong> - Introduces staking as a replacement for Activation / Sealing and defines the yUSDS system for funding USDS borrowing against staked SKY. This edit incorporates Rune’s Forum posts <a target=\"_blank\" href=\"https://forum.sky.money/t/simplifying-seal-engine-and-activation-removing-exit-fee/26023\">Simplifying Seal Engine and Activation (Removing Exit Fee)</a> and <a target=\"_blank\" href=\"https://forum.sky.money/t/sky-staking-and-yusds-further-simplifying-activation-and-sealing/26104\">SKY Staking and yUSDS - further simplifying activation and sealing</a>.</em></p>\n<h2>Outcomes</h2>\n<p>This poll implements a <strong>Minimum Positive Participation</strong> value. The Minimum Positive Participation for Atlas Edit Weekly Cycle Proposals is currently set to <strong>20,000 MKR</strong>.</p>\n<p><strong>If the votes for the 'Yes' option exceed the votes for the 'No' option AND the votes for the 'Yes' option equal or exceed 20,000 MKR, then the following actions will be taken:</strong></p>\n<ul>\n<li>The associated Pull Request will be merged into The Atlas.</li>\n</ul>\n<hr>\n<h2>Resources</h2>\n<p>If you are new to voting in the Sky Protocol, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance\">voting guide</a> to learn how voting works.</p>\n<p>Additional information about the Governance process can be found in the <a target=\"_blank\" href=\"https://manual.makerdao.com\">Operational Manual</a>.</p>\n<p>To add current and upcoming votes to your calendar, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/makerdao/calendars/governance-calendar\">Sky Governance Calendar</a>.</p>",
+    "options": {
+      "0": "Abstain",
+      "1": "Yes",
+      "2": "No"
+    },
+    "parameters": {
+      "inputFormat": {
+        "type": "single-choice",
+        "abstain": [
+          0
+        ],
+        "options": []
+      },
+      "resultDisplay": "single-vote-breakdown",
+      "victoryConditions": [
+        {
+          "type": "and",
+          "conditions": [
+            {
+              "type": "plurality"
+            },
+            {
+              "type": "comparison",
+              "comparator": ">=",
+              "value": 20000
+            }
+          ]
+        },
+        {
+          "type": "default",
+          "value": 2
+        }
+      ]
+    },
+    "tags": []
+  },
+  {
+    "creator": "0x8541ccfc6e7eacebd233c6789a0fbf7c708b0e68",
+    "pollId": 1235,
+    "blockCreated": 22318318,
+    "startDate": "2025-04-21T16:00:00.000Z",
+    "endDate": "2025-04-24T16:00:00.000Z",
+    "multiHash": "QmepaQjkwcj61WMf2bCMp88XnXKce8pxzym3hbrAAaDgHB",
+    "url": "https://raw.githubusercontent.com/makerdao/community/refs/heads/master/governance/polls/Activate%20STAR2%20Liquidity%20Layer%20on%20Mainnet%20-%20April%2021%2C%202025.md",
+    "slug": "QmepaQjk",
+    "title": "Activate STAR2 Liquidity Layer on Mainnet - April 21, 2025",
+    "summary": "Signal your support or opposition to activating STAR2 Liquidity Layer on Mainnet.",
+    "discussionLink": "https://forum.sky.money/t/technical-test-of-of-the-star2-allocation-system/26289",
+    "content": "<h1>Poll: Activate STAR2 Liquidity Layer on Mainnet - April 21, 2025</h1>\n<p>The Governance Facilitators have placed a Governance Poll into the voting system on behalf of Sidestream and the Ecosystem Facilitators. This Governance <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/#A.1.9.1_Operational_Weekly_Cycle-b189fa17-57a9-4d4e-9780-0ce4efd94211%7C0db30308\">Poll</a> will be active for three days beginning on Monday, April 21 at 16:00 UTC.</p>\n<p><strong>This is a binary vote.</strong></p>\n<ul>\n<li><strong>You may vote for a single option.</strong></li>\n<li><strong>You should vote for the option which you prefer.</strong></li>\n<li><strong>If you would accept either option, you should vote 'Abstain'.</strong></li>\n</ul>\n<h2>Review</h2>\n<p>The community can vote in this poll to express support or opposition to activating STAR2 Liquidity Layer on Mainnet with the parameters below.</p>\n<h3>Pre-deployed contracts</h3>\n<table>\n<thead>\n<tr>\n<th>Contract Name</th>\n<th>Address</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>ALMProxy</strong></td>\n<td><a target=\"_blank\" href=\"https://etherscan.io/address/0x491EDFB0B8b608044e227225C715981a30F3A44E#code\"><code>0x491EDFB0B8b608044e227225C715981a30F3A44E</code></a></td>\n</tr>\n<tr>\n<td><strong>MainnetController</strong></td>\n<td><a target=\"_blank\" href=\"https://etherscan.io/address/0x3048386E09c72C20FB268a37d2B630D7f2Ee9138#code\"><code>0x3048386E09c72C20FB268a37d2B630D7f2Ee9138</code></a></td>\n</tr>\n<tr>\n<td><strong>RateLimits</strong></td>\n<td><a target=\"_blank\" href=\"https://etherscan.io/address/0x5F5cfCB8a463868E37Ab27B5eFF3ba02112dF19a#code\"><code>0x5F5cfCB8a463868E37Ab27B5eFF3ba02112dF19a</code></a></td>\n</tr>\n<tr>\n<td><strong>ALMRelayer</strong> (SafeProxy)</td>\n<td><a target=\"_blank\" href=\"https://etherscan.io/address/0x0eEC86649E756a23CBc68d9EFEd756f16aD5F85f#code\"><code>0x0eEC86649E756a23CBc68d9EFEd756f16aD5F85f</code></a></td>\n</tr>\n<tr>\n<td><strong>ALMFreezer</strong> (SafeProxy)</td>\n<td><a target=\"_blank\" href=\"https://etherscan.io/address/0xB0113804960345fd0a245788b3423319c86940e5#code\"><code>0xB0113804960345fd0a245788b3423319c86940e5</code></a></td>\n</tr>\n</tbody>\n</table>\n<p>All deployments were <a target=\"_blank\" href=\"https://github.com/ChainSecurity/dv-files/tree/main/sky/bloom-alm-controller\">verified by ChainSecurity</a>.</p>\n<h3>Initial Parameters for the Test</h3>\n<p>On-chain parameters for the STAR2 Liquidity Layer for initial activation.</p>\n<table>\n<thead>\n<tr>\n<th>Parameter</th>\n<th>Max Amount</th>\n<th>Slope (Tokens/Day)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>LIMIT_USDS_MINT</td>\n<td>100 million</td>\n<td>50 million</td>\n</tr>\n<tr>\n<td>LIMIT_USDS_TO_USDC</td>\n<td>100 million</td>\n<td>50 million</td>\n</tr>\n</tbody>\n</table>\n<h3>Liquidity Layer</h3>\n<p>To test the recently deployed STAR2 Liquidity Layer, the STAR2 team proposes to onboard Centrifuge 7540 Vault and conduct a test deployment of 100,000 USDC with the following parameters:</p>\n<ul>\n<li>Deposits\n<ul>\n<li><code>Max amount</code>: <strong>100 million USDC</strong></li>\n<li><code>Slope</code>: <strong>50 million USDC</strong></li>\n</ul>\n</li>\n<li>Withdrawals\n<ul>\n<li><code>Max amount</code>: <strong>Unlimited</strong></li>\n</ul>\n</li>\n</ul>\n<h3>Sky Core Spell Content</h3>\n<h4>Whitelist STAR2 ALMProxy on the LitePSM</h4>\n<p>This will allow STAR2 to call <code>buyGemNoFee</code> and <code>sellGemNoFee</code> on the <code>MCD_LITE_PSM_USDC_A</code> contract. Example code:</p>\n<pre><code>MCD_LITE_PSM_USDC_A.kiss(0x491EDFB0B8b608044e227225C715981a30F3A44E)\n</code></pre>\n<p>Please review the discussion <a target=\"_blank\" href=\"https://forum.sky.money/t/technical-test-of-of-the-star2-allocation-system/26289\">thread</a> to help inform your position before voting.</p>\n<h2>Outcomes</h2>\n<p><strong>If the votes for the 'Yes' option exceed the votes for the 'No' option, then the following actions will be taken:</strong></p>\n<ul>\n<li>This change will be included in an upcoming Executive Vote.</li>\n<li>It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.</li>\n<li>If the Executive Vote passes, then these changes will become active in the Sky Protocol after the <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.1.9.2.1_Pause_Delay/a98b8227-95f6-4711-9d8d-f52cbc6ad2d0%7C0db30758e055\">GSM Pause Delay</a> has expired.</li>\n</ul>\n<p><strong>If the votes for the 'No' option equal or exceed the votes for the 'Yes' option, then no further action will be taken at this time.</strong></p>\n<hr>\n<h2>Resources</h2>\n<p>If you are new to voting in the Sky Protocol, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance\">voting guide</a> to learn how voting works.</p>\n<p>Additional information about the Governance process can be found in the <a target=\"_blank\" href=\"https://manual.makerdao.com\">Operational Manual</a>.</p>\n<p>To add current and upcoming votes to your calendar, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/makerdao/calendars/governance-calendar\">Governance Calendar</a>.</p>",
+    "options": {
+      "0": "Abstain",
+      "1": "Yes",
+      "2": "No"
+    },
+    "parameters": {
+      "inputFormat": {
+        "type": "single-choice",
+        "abstain": [
+          0
+        ],
+        "options": []
+      },
+      "resultDisplay": "single-vote-breakdown",
+      "victoryConditions": [
+        {
+          "type": "plurality"
+        }
+      ]
+    },
+    "tags": []
+  },
+  {
+    "creator": "0x8541ccfc6e7eacebd233c6789a0fbf7c708b0e68",
+    "pollId": 1236,
+    "blockCreated": 22318322,
+    "startDate": "2025-04-21T16:00:00.000Z",
+    "endDate": "2025-04-24T16:00:00.000Z",
+    "multiHash": "QmQM99z5dzcXXvo2egjjmrq9v4tfj3RUL3A31G7G9Wvb2G",
+    "url": "https://raw.githubusercontent.com/makerdao/community/refs/heads/master/governance/polls/Spark%20Liquidity%20Layer%20Mainnet%20-%20Onboard%20Aave%20Core%20USDT%20-%20April%2021%2C%202025.md",
+    "slug": "QmQM99z5",
+    "title": "Spark Liquidity Layer Mainnet - Onboard Aave Core USDT - April 21, 2025",
+    "summary": "Signal your support or opposition to onboarding Aave Core USDT on the Spark Liquidity Layer on Mainnet.",
+    "discussionLink": "https://forum.sky.money/t/may-1-2025-proposed-changes-to-spark-for-upcoming-spell/26288",
+    "content": "<h1>Poll: Spark Liquidity Layer Mainnet - Onboard Aave Core USDT - April 21, 2025</h1>\n<p>The Governance Facilitators have placed a Governance Poll into the voting system on behalf of Spark Protocol and the Ecosystem Facilitators. This Governance <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/#A.1.9.1_Operational_Weekly_Cycle-b189fa17-57a9-4d4e-9780-0ce4efd94211%7C0db30308\">Poll</a> will be active for three days beginning on Monday, April 21 at 16:00 UTC.</p>\n<p><strong>This is a binary vote.</strong></p>\n<ul>\n<li><strong>You may vote for a single option.</strong></li>\n<li><strong>You should vote for the option which you prefer.</strong></li>\n<li><strong>If you would accept either option, you should vote 'Abstain'.</strong></li>\n</ul>\n<h2>Review</h2>\n<p>The community can vote in this poll to express support or opposition to the onboarding of Aave Core USDT to the Spark Liquidity Layer on Mainnet with the following <a target=\"_blank\" href=\"https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits\">rate limits</a>:</p>\n<ul>\n<li>Deposits\n<ul>\n<li><code>Max amount</code>: <strong>50 million USDT</strong></li>\n<li><code>Slope</code>: <strong>25 million USDT per day</strong></li>\n</ul>\n</li>\n<li>Withdrawals\n<ul>\n<li><code>Max amount</code>: <strong>Unlimited</strong></li>\n</ul>\n</li>\n</ul>\n<p>Please review the discussion <a target=\"_blank\" href=\"https://forum.sky.money/t/may-1-2025-proposed-changes-to-spark-for-upcoming-spell/26288\">thread</a> to help inform your position before voting. You can read more about Aave Core in this <a target=\"_blank\" href=\"https://forum.sky.money/t/27-dec-2024-proposed-changes-to-spark-for-upcoming-spell/25760/7#p-100382-mainnet-spark-liquidity-layer-onboard-aave-v3-main-market-usdc-and-usds-9\">forum post by BA Labs</a>.</p>\n<h2>Outcomes</h2>\n<p><strong>If the votes for the 'Yes' option exceed the votes for the 'No' option, then the following actions will be taken:</strong></p>\n<ul>\n<li>This change will be included in an upcoming Executive Vote.</li>\n<li>It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.</li>\n<li>If the Executive Vote passes, then these changes will become active in the Sky Protocol after the <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.1.9.2.1_Pause_Delay/a98b8227-95f6-4711-9d8d-f52cbc6ad2d0%7C0db30758e055\">GSM Pause Delay</a> has expired.</li>\n</ul>\n<p><strong>If the votes for the 'No' option equal or exceed the votes for the 'Yes' option, then no further action will be taken at this time.</strong></p>\n<hr>\n<h2>Resources</h2>\n<p>If you are new to voting in the Sky Protocol, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance\">voting guide</a> to learn how voting works.</p>\n<p>Additional information about the Governance process can be found in the <a target=\"_blank\" href=\"https://manual.makerdao.com\">Operational Manual</a>.</p>\n<p>To add current and upcoming votes to your calendar, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/makerdao/calendars/governance-calendar\">Governance Calendar</a>.</p>",
+    "options": {
+      "0": "Abstain",
+      "1": "Yes",
+      "2": "No"
+    },
+    "parameters": {
+      "inputFormat": {
+        "type": "single-choice",
+        "abstain": [
+          0
+        ],
+        "options": []
+      },
+      "resultDisplay": "single-vote-breakdown",
+      "victoryConditions": [
+        {
+          "type": "plurality"
+        }
+      ]
+    },
+    "tags": []
+  },
+  {
+    "creator": "0x8541ccfc6e7eacebd233c6789a0fbf7c708b0e68",
+    "pollId": 1237,
+    "blockCreated": 22318326,
+    "startDate": "2025-04-21T16:00:00.000Z",
+    "endDate": "2025-04-24T16:00:00.000Z",
+    "multiHash": "QmfJ5yDFphSRRK6wvkjXFEU7ijWfsh1B2JknEkj7CpLKY4",
+    "url": "https://raw.githubusercontent.com/makerdao/community/refs/heads/master/governance/polls/Spark%20Liquidity%20Layer%20Mainnet%20-%20Onboard%20SparkLend%20USDT%20-%20April%2021%2C%202025.md",
+    "slug": "QmfJ5yDF",
+    "title": "Spark Liquidity Layer Mainnet - Onboard SparkLend USDT - April 21, 2025",
+    "summary": "Signal your support or opposition to onboarding SparkLend USDT on the Spark Liquidity Layer on Mainnet.",
+    "discussionLink": "https://forum.sky.money/t/may-1-2025-proposed-changes-to-spark-for-upcoming-spell/26288",
+    "content": "<h1>Poll: Spark Liquidity Layer Mainnet - Onboard SparkLend USDT - April 21, 2025</h1>\n<p>The Governance Facilitators have placed a Governance Poll into the voting system on behalf of Spark Protocol and the Ecosystem Facilitators. This Governance <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/#A.1.9.1_Operational_Weekly_Cycle-b189fa17-57a9-4d4e-9780-0ce4efd94211%7C0db30308\">Poll</a> will be active for three days beginning on Monday, April 21 at 16:00 UTC.</p>\n<p><strong>This is a binary vote.</strong></p>\n<ul>\n<li><strong>You may vote for a single option.</strong></li>\n<li><strong>You should vote for the option which you prefer.</strong></li>\n<li><strong>If you would accept either option, you should vote 'Abstain'.</strong></li>\n</ul>\n<h2>Review</h2>\n<p>The community can vote in this poll to express support or opposition to the onboarding of SparkLend USDT to the Spark Liquidity Layer on Mainnet with the following <a target=\"_blank\" href=\"https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits\">rate limits</a>:</p>\n<ul>\n<li>Deposits\n<ul>\n<li><code>Max amount</code>: <strong>100 million USDT</strong></li>\n<li><code>Slope</code>: <strong>50 million USDT per day</strong></li>\n</ul>\n</li>\n<li>Withdrawals\n<ul>\n<li><code>Max amount</code>: <strong>Unlimited</strong></li>\n</ul>\n</li>\n</ul>\n<p>Please review the discussion <a target=\"_blank\" href=\"https://forum.sky.money/t/may-1-2025-proposed-changes-to-spark-for-upcoming-spell/26288\">thread</a> to help inform your position before voting.</p>\n<h2>Outcomes</h2>\n<p><strong>If the votes for the 'Yes' option exceed the votes for the 'No' option, then the following actions will be taken:</strong></p>\n<ul>\n<li>This change will be included in an upcoming Executive Vote.</li>\n<li>It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.</li>\n<li>If the Executive Vote passes, then these changes will become active in the Sky Protocol after the <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.1.9.2.1_Pause_Delay/a98b8227-95f6-4711-9d8d-f52cbc6ad2d0%7C0db30758e055\">GSM Pause Delay</a> has expired.</li>\n</ul>\n<p><strong>If the votes for the 'No' option equal or exceed the votes for the 'Yes' option, then no further action will be taken at this time.</strong></p>\n<hr>\n<h2>Resources</h2>\n<p>If you are new to voting in the Sky Protocol, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance\">voting guide</a> to learn how voting works.</p>\n<p>Additional information about the Governance process can be found in the <a target=\"_blank\" href=\"https://manual.makerdao.com\">Operational Manual</a>.</p>\n<p>To add current and upcoming votes to your calendar, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/makerdao/calendars/governance-calendar\">Governance Calendar</a>.</p>",
+    "options": {
+      "0": "Abstain",
+      "1": "Yes",
+      "2": "No"
+    },
+    "parameters": {
+      "inputFormat": {
+        "type": "single-choice",
+        "abstain": [
+          0
+        ],
+        "options": []
+      },
+      "resultDisplay": "single-vote-breakdown",
+      "victoryConditions": [
+        {
+          "type": "plurality"
+        }
+      ]
+    },
+    "tags": []
+  },
+  {
+    "creator": "0x8541ccfc6e7eacebd233c6789a0fbf7c708b0e68",
+    "pollId": 1238,
+    "blockCreated": 22318332,
+    "startDate": "2025-04-21T16:00:00.000Z",
+    "endDate": "2025-04-24T16:00:00.000Z",
+    "multiHash": "QmZ2vydYm22P4myNfEgEH2zvVFT6dUot7NfFayDGBw2MMR",
+    "url": "https://raw.githubusercontent.com/makerdao/community/refs/heads/master/governance/polls/SparkLend%20Ethereum%20-%20Adjust%20USDT%20Cap%20Automator%20Parameters%20-%20April%2021%2C%202025.md",
+    "slug": "QmZ2vydY",
+    "title": "SparkLend Ethereum - Adjust USDT Cap Automator Parameters - April 21, 2025",
+    "summary": "Signal your support or opposition to adjusting the USDT Cap Automator parameters on SparkLend Ethereum.",
+    "discussionLink": "https://forum.sky.money/t/may-1-2025-proposed-changes-to-spark-for-upcoming-spell/26288",
+    "content": "<h1>Poll: SparkLend Ethereum - Adjust USDT Cap Automator Parameters - April 21, 2025</h1>\n<p>The Governance Facilitators have placed a Governance Poll into the voting system on behalf of Spark Protocol and the Ecosystem Facilitators. This Governance <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/#A.1.9.1_Operational_Weekly_Cycle-b189fa17-57a9-4d4e-9780-0ce4efd94211%7C0db30308\">Poll</a> will be active for three days beginning on Monday, April 21 at 16:00 UTC.</p>\n<p><strong>This is a binary vote.</strong></p>\n<ul>\n<li><strong>You may vote for a single option.</strong></li>\n<li><strong>You should vote for the option which you prefer.</strong></li>\n<li><strong>If you would accept either option, you should vote 'Abstain'.</strong></li>\n</ul>\n<h2>Review</h2>\n<p>The community can vote in this poll to express support or opposition to adjusting the USDT <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.3_SparkLend_Risk_Parameters_Cap_Automators/1c1f2ff0-8d73-81ec-bc16-e2f85c0765d7%7C7896ed3326389fe3553030cd0a82f68e\">Cap Automator parameters</a> on SparkLend Ethereum as follows:</p>\n<ul>\n<li>Supply cap\n<ul>\n<li><code>gap</code>: Set to <strong>100 million USDT</strong>.</li>\n<li><code>max</code>: Increase by 470 million USDT from 30 million USDT to <strong>500 million USDT</strong>.</li>\n</ul>\n</li>\n<li>Borrow cap\n<ul>\n<li><code>gap</code>: Increase by 47 million USDT from 3 million USDT to <strong>50 million USDT</strong>.</li>\n<li><code>max</code>: Increase by 421.5 million USDT from 28.5 million USDT to <strong>450 million USDT</strong>.</li>\n<li><code>ttl</code>: Keep unchanged at <strong>12 hours</strong>.</li>\n</ul>\n</li>\n</ul>\n<p>Please review the discussion <a target=\"_blank\" href=\"https://forum.sky.money/t/may-1-2025-proposed-changes-to-spark-for-upcoming-spell/26288\">thread</a> to help inform your position before voting.</p>\n<h2>Outcomes</h2>\n<p><strong>If the votes for the 'Yes' option exceed the votes for the 'No' option, then the following actions will be taken:</strong></p>\n<ul>\n<li>This change will be included in an upcoming Executive Vote.</li>\n<li>It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.</li>\n<li>If the Executive Vote passes, then these changes will become active in the Sky Protocol after the <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.1.9.2.1_Pause_Delay/a98b8227-95f6-4711-9d8d-f52cbc6ad2d0%7C0db30758e055\">GSM Pause Delay</a> has expired.</li>\n</ul>\n<p><strong>If the votes for the 'No' option equal or exceed the votes for the 'Yes' option, then no further action will be taken at this time.</strong></p>\n<hr>\n<h2>Resources</h2>\n<p>If you are new to voting in the Sky Protocol, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance\">voting guide</a> to learn how voting works.</p>\n<p>Additional information about the Governance process can be found in the <a target=\"_blank\" href=\"https://manual.makerdao.com\">Operational Manual</a>.</p>\n<p>To add current and upcoming votes to your calendar, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/makerdao/calendars/governance-calendar\">Governance Calendar</a>.</p>",
+    "options": {
+      "0": "Abstain",
+      "1": "Yes",
+      "2": "No"
+    },
+    "parameters": {
+      "inputFormat": {
+        "type": "single-choice",
+        "abstain": [
+          0
+        ],
+        "options": []
+      },
+      "resultDisplay": "single-vote-breakdown",
+      "victoryConditions": [
+        {
+          "type": "plurality"
+        }
+      ]
+    },
+    "tags": []
+  },
+  {
+    "creator": "0x8541ccfc6e7eacebd233c6789a0fbf7c708b0e68",
+    "pollId": 1239,
+    "blockCreated": 22318335,
+    "startDate": "2025-04-21T16:00:00.000Z",
+    "endDate": "2025-04-24T16:00:00.000Z",
+    "multiHash": "Qmdc28AgGsH5vK4L3Ke3bo8DBARRRVJXxQHTidftiLLGDD",
+    "url": "https://raw.githubusercontent.com/makerdao/community/refs/heads/master/governance/polls/SparkLend%20Ethereum%20-%20Update%20DAI%20Interest%20Rate%20Model%20-%20April%2021%2C%202025.md",
+    "slug": "Qmdc28Ag",
+    "title": "SparkLend Ethereum - Update DAI Interest Rate Model - April 21, 2025",
+    "summary": "Signal your support or opposition to updating the DAI Interest Rate Model on SparkLend Ethereum.",
+    "discussionLink": "https://forum.sky.money/t/may-1-2025-proposed-changes-to-spark-for-upcoming-spell/26288",
+    "content": "<h1>Poll: SparkLend Ethereum - Update DAI Interest Rate Model - April 21, 2025</h1>\n<p>The Governance Facilitators have placed a Governance Poll into the voting system on behalf of Spark Protocol and the Ecosystem Facilitators. This Governance <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/#A.1.9.1_Operational_Weekly_Cycle-b189fa17-57a9-4d4e-9780-0ce4efd94211%7C0db30308\">Poll</a> will be active for three days beginning on Monday, April 21 at 16:00 UTC.</p>\n<p><strong>This is a binary vote.</strong></p>\n<ul>\n<li><strong>You may vote for a single option.</strong></li>\n<li><strong>You should vote for the option which you prefer.</strong></li>\n<li><strong>If you would accept either option, you should vote 'Abstain'.</strong></li>\n</ul>\n<h2>Review</h2>\n<p>The community can vote in this poll to express support or opposition to updating the DAI <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.3_Interest_Rate_Model_Definition/1c1f2ff0-8d73-81dd-99c0-fc707ce48e01%7C7896ed3326389fe3553030cd0a82f68efd49\">Interest Rate Model</a> as follows:</p>\n<ul>\n<li><a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.13_Base_Rate_Definition/1c1f2ff0-8d73-81c1-9b9b-ef4b84c1450f%7C7896ed3326389fe3553030cd0a82f68efd49\">Base rate</a>: Set to <strong>SSR value</strong>.</li>\n<li><a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.15_Slope_1_Definition/1c1f2ff0-8d73-81be-9f17-d7d4bfc6cb59%7C7896ed3326389fe3553030cd0a82f68efd49\">Slope 1</a>: Set to <strong>0.75%</strong>.</li>\n<li><a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.17_Slope_2_Definition/1c1f2ff0-8d73-8199-aa99-dde95c3f7130%7C7896ed3326389fe3553030cd0a82f68efd49\">Slope 2</a>: Set to <strong>15%</strong>.</li>\n<li><a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.11_Optimal_Utilization_Definition/1c1f2ff0-8d73-8173-a52b-d6f86efd3366%7C7896ed3326389fe3553030cd0a82f68efd49\">Optimal utilization</a>: Set to <strong>80%</strong>.</li>\n</ul>\n<p>Please review the discussion <a target=\"_blank\" href=\"https://forum.sky.money/t/may-1-2025-proposed-changes-to-spark-for-upcoming-spell/26288\">thread</a> to help inform your position before voting.</p>\n<h2>Outcomes</h2>\n<p><strong>If the votes for the 'Yes' option exceed the votes for the 'No' option, then the following actions will be taken:</strong></p>\n<ul>\n<li>Phoenix Labs will prepare a Spark spell to update the DAI <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.3_Interest_Rate_Model_Definition/1c1f2ff0-8d73-81dd-99c0-fc707ce48e01%7C7896ed3326389fe3553030cd0a82f68efd49\">Interest Rate Model</a> on Sparklend Ethereum as described above.</li>\n<li>This change will be included in an upcoming Executive Vote.</li>\n<li>It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.</li>\n<li>If the Executive Vote passes, then these changes will become active in the Sky Protocol after the <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.1.9.2.1_Pause_Delay/a98b8227-95f6-4711-9d8d-f52cbc6ad2d0%7C0db30758e055\">GSM Pause Delay</a> has expired.</li>\n</ul>\n<p><strong>If the votes for the 'No' option equal or exceed the votes for the 'Yes' option, then no further action will be taken at this time.</strong></p>\n<hr>\n<h2>Resources</h2>\n<p>If you are new to voting in the Sky Protocol, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance\">voting guide</a> to learn how voting works.</p>\n<p>Additional information about the Governance process can be found in the <a target=\"_blank\" href=\"https://manual.makerdao.com\">Operational Manual</a>.</p>\n<p>To add current and upcoming votes to your calendar, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/makerdao/calendars/governance-calendar\">Governance Calendar</a>.</p>",
+    "options": {
+      "0": "Abstain",
+      "1": "Yes",
+      "2": "No"
+    },
+    "parameters": {
+      "inputFormat": {
+        "type": "single-choice",
+        "abstain": [
+          0
+        ],
+        "options": []
+      },
+      "resultDisplay": "single-vote-breakdown",
+      "victoryConditions": [
+        {
+          "type": "plurality"
+        }
+      ]
+    },
+    "tags": []
+  },
+  {
+    "creator": "0x8541ccfc6e7eacebd233c6789a0fbf7c708b0e68",
+    "pollId": 1240,
+    "blockCreated": 22318340,
+    "startDate": "2025-04-21T16:00:00.000Z",
+    "endDate": "2025-04-24T16:00:00.000Z",
+    "multiHash": "Qmee2jezzj3FeVkmJW3rc2sQVyQwjX1Ra7e2wCdfoWRuEa",
+    "url": "https://raw.githubusercontent.com/makerdao/community/refs/heads/master/governance/polls/SparkLend%20Ethereum%20-%20Update%20USDC%20Interest%20Rate%20Model%20-%20April%2021%2C%202025.md",
+    "slug": "Qmee2jez",
+    "title": "SparkLend Ethereum - Update USDC Interest Rate Model - April 21, 2025",
+    "summary": "Signal your support or opposition to updating the USDC Interest Rate Model on SparkLend Ethereum.",
+    "discussionLink": "https://forum.sky.money/t/may-1-2025-proposed-changes-to-spark-for-upcoming-spell/26288",
+    "content": "<h1>Poll: SparkLend Ethereum - Update USDC Interest Rate Model - April 21, 2025</h1>\n<p>The Governance Facilitators have placed a Governance Poll into the voting system on behalf of Spark Protocol and the Ecosystem Facilitators. This Governance <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/#A.1.9.1_Operational_Weekly_Cycle-b189fa17-57a9-4d4e-9780-0ce4efd94211%7C0db30308\">Poll</a> will be active for three days beginning on Monday, April 21 at 16:00 UTC.</p>\n<p><strong>This is a binary vote.</strong></p>\n<ul>\n<li><strong>You may vote for a single option.</strong></li>\n<li><strong>You should vote for the option which you prefer.</strong></li>\n<li><strong>If you would accept either option, you should vote 'Abstain'.</strong></li>\n</ul>\n<h2>Review</h2>\n<p>The community can vote in this poll to express support or opposition to updating the USDC <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.3_Interest_Rate_Model_Definition/1c1f2ff0-8d73-81dd-99c0-fc707ce48e01%7C7896ed3326389fe3553030cd0a82f68efd49\">Interest Rate Model</a> as follows:</p>\n<ul>\n<li><a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.13_Base_Rate_Definition/1c1f2ff0-8d73-81c1-9b9b-ef4b84c1450f%7C7896ed3326389fe3553030cd0a82f68efd49\">Base rate</a>: Keep unchanged at <strong>0%</strong>.</li>\n<li><a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.15_Slope_1_Definition/1c1f2ff0-8d73-81be-9f17-d7d4bfc6cb59%7C7896ed3326389fe3553030cd0a82f68efd49\">Slope 1</a>: Reduce by 1.33 percentage points from 6.83% to <strong>5.50%</strong> (SSR + 1%).</li>\n<li><a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.17_Slope_2_Definition/1c1f2ff0-8d73-8199-aa99-dde95c3f7130%7C7896ed3326389fe3553030cd0a82f68efd49\">Slope 2</a>: Keep unchanged at <strong>15%</strong>.</li>\n<li><a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.11_Optimal_Utilization_Definition/1c1f2ff0-8d73-8173-a52b-d6f86efd3366%7C7896ed3326389fe3553030cd0a82f68efd49\">Optimal utilization</a>: Keep unchanged at <strong>95%</strong>.</li>\n</ul>\n<p>Please review the discussion <a target=\"_blank\" href=\"https://forum.sky.money/t/may-1-2025-proposed-changes-to-spark-for-upcoming-spell/26288\">thread</a> to help inform your position before voting.</p>\n<h2>Outcomes</h2>\n<p><strong>If the votes for the 'Yes' option exceed the votes for the 'No' option, then the following actions will be taken:</strong></p>\n<ul>\n<li>Phoenix Labs will prepare a Spark spell to update the USDC <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.3_Interest_Rate_Model_Definition/1c1f2ff0-8d73-81dd-99c0-fc707ce48e01%7C7896ed3326389fe3553030cd0a82f68efd49\">Interest Rate Model</a> on Sparklend Ethereum as described above.</li>\n<li>This change will be included in an upcoming Executive Vote.</li>\n<li>It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.</li>\n<li>If the Executive Vote passes, then these changes will become active in the Sky Protocol after the <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.1.9.2.1_Pause_Delay/a98b8227-95f6-4711-9d8d-f52cbc6ad2d0%7C0db30758e055\">GSM Pause Delay</a> has expired.</li>\n</ul>\n<p><strong>If the votes for the 'No' option equal or exceed the votes for the 'Yes' option, then no further action will be taken at this time.</strong></p>\n<hr>\n<h2>Resources</h2>\n<p>If you are new to voting in the Sky Protocol, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance\">voting guide</a> to learn how voting works.</p>\n<p>Additional information about the Governance process can be found in the <a target=\"_blank\" href=\"https://manual.makerdao.com\">Operational Manual</a>.</p>\n<p>To add current and upcoming votes to your calendar, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/makerdao/calendars/governance-calendar\">Governance Calendar</a>.</p>",
+    "options": {
+      "0": "Abstain",
+      "1": "Yes",
+      "2": "No"
+    },
+    "parameters": {
+      "inputFormat": {
+        "type": "single-choice",
+        "abstain": [
+          0
+        ],
+        "options": []
+      },
+      "resultDisplay": "single-vote-breakdown",
+      "victoryConditions": [
+        {
+          "type": "plurality"
+        }
+      ]
+    },
+    "tags": []
+  },
+  {
+    "creator": "0x8541ccfc6e7eacebd233c6789a0fbf7c708b0e68",
+    "pollId": 1241,
+    "blockCreated": 22318345,
+    "startDate": "2025-04-21T16:00:00.000Z",
+    "endDate": "2025-04-24T16:00:00.000Z",
+    "multiHash": "QmeNB8S1tmqAw25aWB6yFt13ixDymRnYk7qik2rLKcQTRm",
+    "url": "https://raw.githubusercontent.com/makerdao/community/refs/heads/master/governance/polls/SparkLend%20Ethereum%20-%20Update%20USDS%20Interest%20Rate%20Model%20-%20April%2021%2C%202025.md",
+    "slug": "QmeNB8S1",
+    "title": "SparkLend Ethereum - Update USDS Interest Rate Model - April 21, 2025",
+    "summary": "Signal your support or opposition to updating the USDS Interest Rate Model on SparkLend Ethereum.",
+    "discussionLink": "https://forum.sky.money/t/may-1-2025-proposed-changes-to-spark-for-upcoming-spell/26288",
+    "content": "<h1>Poll: SparkLend Ethereum - Update USDS Interest Rate Model - April 21, 2025</h1>\n<p>The Governance Facilitators have placed a Governance Poll into the voting system on behalf of Spark Protocol and the Ecosystem Facilitators. This Governance <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/#A.1.9.1_Operational_Weekly_Cycle-b189fa17-57a9-4d4e-9780-0ce4efd94211%7C0db30308\">Poll</a> will be active for three days beginning on Monday, April 21 at 16:00 UTC.</p>\n<p><strong>This is a binary vote.</strong></p>\n<ul>\n<li><strong>You may vote for a single option.</strong></li>\n<li><strong>You should vote for the option which you prefer.</strong></li>\n<li><strong>If you would accept either option, you should vote 'Abstain'.</strong></li>\n</ul>\n<h2>Review</h2>\n<p>The community can vote in this poll to express support or opposition to updating the USDS <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.3_Interest_Rate_Model_Definition/1c1f2ff0-8d73-81dd-99c0-fc707ce48e01%7C7896ed3326389fe3553030cd0a82f68efd49\">Interest Rate Model</a> as follows:</p>\n<ul>\n<li><a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.13_Base_Rate_Definition/1c1f2ff0-8d73-81c1-9b9b-ef4b84c1450f%7C7896ed3326389fe3553030cd0a82f68efd49\">Base rate</a>: Set to <strong>SSR value</strong>.</li>\n<li><a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.15_Slope_1_Definition/1c1f2ff0-8d73-81be-9f17-d7d4bfc6cb59%7C7896ed3326389fe3553030cd0a82f68efd49\">Slope 1</a>: Increase by 0.75 percentage points from 0% to <strong>0.75%</strong>.</li>\n<li><a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.17_Slope_2_Definition/1c1f2ff0-8d73-8199-aa99-dde95c3f7130%7C7896ed3326389fe3553030cd0a82f68efd49\">Slope 2</a>: Reduce by 5 percentage points from 20% to <strong>15%</strong>.</li>\n<li><a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.11_Optimal_Utilization_Definition/1c1f2ff0-8d73-8173-a52b-d6f86efd3366%7C7896ed3326389fe3553030cd0a82f68efd49\">Optimal utilization</a>: Reduce by 15 percentage points from 95% to <strong>80%</strong>.</li>\n</ul>\n<p>Please review the discussion <a target=\"_blank\" href=\"https://forum.sky.money/t/may-1-2025-proposed-changes-to-spark-for-upcoming-spell/26288\">thread</a> to help inform your position before voting.</p>\n<h2>Outcomes</h2>\n<p><strong>If the votes for the 'Yes' option exceed the votes for the 'No' option, then the following actions will be taken:</strong></p>\n<ul>\n<li>Phoenix Labs will prepare a Spark spell to update the USDS <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.3_Interest_Rate_Model_Definition/1c1f2ff0-8d73-81dd-99c0-fc707ce48e01%7C7896ed3326389fe3553030cd0a82f68efd49\">Interest Rate Model</a> on Sparklend Ethereum as described above.</li>\n<li>This change will be included in an upcoming Executive Vote.</li>\n<li>It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.</li>\n<li>If the Executive Vote passes, then these changes will become active in the Sky Protocol after the <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.1.9.2.1_Pause_Delay/a98b8227-95f6-4711-9d8d-f52cbc6ad2d0%7C0db30758e055\">GSM Pause Delay</a> has expired.</li>\n</ul>\n<p><strong>If the votes for the 'No' option equal or exceed the votes for the 'Yes' option, then no further action will be taken at this time.</strong></p>\n<hr>\n<h2>Resources</h2>\n<p>If you are new to voting in the Sky Protocol, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance\">voting guide</a> to learn how voting works.</p>\n<p>Additional information about the Governance process can be found in the <a target=\"_blank\" href=\"https://manual.makerdao.com\">Operational Manual</a>.</p>\n<p>To add current and upcoming votes to your calendar, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/makerdao/calendars/governance-calendar\">Governance Calendar</a>.</p>",
+    "options": {
+      "0": "Abstain",
+      "1": "Yes",
+      "2": "No"
+    },
+    "parameters": {
+      "inputFormat": {
+        "type": "single-choice",
+        "abstain": [
+          0
+        ],
+        "options": []
+      },
+      "resultDisplay": "single-vote-breakdown",
+      "victoryConditions": [
+        {
+          "type": "plurality"
+        }
+      ]
+    },
+    "tags": []
+  },
+  {
+    "creator": "0x8541ccfc6e7eacebd233c6789a0fbf7c708b0e68",
+    "pollId": 1242,
+    "blockCreated": 22318349,
+    "startDate": "2025-04-21T16:00:00.000Z",
+    "endDate": "2025-04-24T16:00:00.000Z",
+    "multiHash": "QmfBmrxqTGU5g7zYRgQtkriNHSBnN8nwyTKW69DdPuobAc",
+    "url": "https://raw.githubusercontent.com/makerdao/community/refs/heads/master/governance/polls/SparkLend%20Ethereum%20-%20Update%20USDT%20Interest%20Rate%20Model%20-%20April%2021%2C%202025.md",
+    "slug": "QmfBmrxq",
+    "title": "SparkLend Ethereum - Update USDT Interest Rate Model - April 21, 2025",
+    "summary": "Signal your support or opposition to updating the USDT Interest Rate Model on SparkLend Ethereum.",
+    "discussionLink": "https://forum.sky.money/t/may-1-2025-proposed-changes-to-spark-for-upcoming-spell/26288",
+    "content": "<h1>Poll: SparkLend Ethereum - Update USDT Interest Rate Model - April 21, 2025</h1>\n<p>The Governance Facilitators have placed a Governance Poll into the voting system on behalf of Spark Protocol and the Ecosystem Facilitators. This Governance <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/#A.1.9.1_Operational_Weekly_Cycle-b189fa17-57a9-4d4e-9780-0ce4efd94211%7C0db30308\">Poll</a> will be active for three days beginning on Monday, April 21 at 16:00 UTC.</p>\n<p><strong>This is a binary vote.</strong></p>\n<ul>\n<li><strong>You may vote for a single option.</strong></li>\n<li><strong>You should vote for the option which you prefer.</strong></li>\n<li><strong>If you would accept either option, you should vote 'Abstain'.</strong></li>\n</ul>\n<h2>Review</h2>\n<p>The community can vote in this poll to express support or opposition to updating the USDT <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.3_Interest_Rate_Model_Definition/1c1f2ff0-8d73-81dd-99c0-fc707ce48e01%7C7896ed3326389fe3553030cd0a82f68efd49\">Interest Rate Model</a> as follows:</p>\n<ul>\n<li><a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.13_Base_Rate_Definition/1c1f2ff0-8d73-81c1-9b9b-ef4b84c1450f%7C7896ed3326389fe3553030cd0a82f68efd49\">Base rate</a>: Keep unchanged at <strong>0%</strong>.</li>\n<li><a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.15_Slope_1_Definition/1c1f2ff0-8d73-81be-9f17-d7d4bfc6cb59%7C7896ed3326389fe3553030cd0a82f68efd49\">Slope 1</a>: Update to <strong>SSR value plus 1%</strong>.</li>\n<li><a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.17_Slope_2_Definition/1c1f2ff0-8d73-8199-aa99-dde95c3f7130%7C7896ed3326389fe3553030cd0a82f68efd49\">Slope 2</a>: Keep unchanged at <strong>15%</strong>.</li>\n<li><a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.11_Optimal_Utilization_Definition/1c1f2ff0-8d73-8173-a52b-d6f86efd3366%7C7896ed3326389fe3553030cd0a82f68efd49\">Optimal utilization</a>: Keep unchanged at <strong>95%</strong>.</li>\n</ul>\n<p>Please review the discussion <a target=\"_blank\" href=\"https://forum.sky.money/t/may-1-2025-proposed-changes-to-spark-for-upcoming-spell/26288\">thread</a> to help inform your position before voting.</p>\n<h2>Outcomes</h2>\n<p><strong>If the votes for the 'Yes' option exceed the votes for the 'No' option, then the following actions will be taken:</strong></p>\n<ul>\n<li>Phoenix Labs will prepare a Spark spell to update the USDT <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.3_Interest_Rate_Model_Definition/1c1f2ff0-8d73-81dd-99c0-fc707ce48e01%7C7896ed3326389fe3553030cd0a82f68efd49\">Interest Rate Model</a> on Sparklend Ethereum as described above.</li>\n<li>This change will be included in an upcoming Executive Vote.</li>\n<li>It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.</li>\n<li>If the Executive Vote passes, then these changes will become active in the Sky Protocol after the <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.1.9.2.1_Pause_Delay/a98b8227-95f6-4711-9d8d-f52cbc6ad2d0%7C0db30758e055\">GSM Pause Delay</a> has expired.</li>\n</ul>\n<p><strong>If the votes for the 'No' option equal or exceed the votes for the 'Yes' option, then no further action will be taken at this time.</strong></p>\n<hr>\n<h2>Resources</h2>\n<p>If you are new to voting in the Sky Protocol, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance\">voting guide</a> to learn how voting works.</p>\n<p>Additional information about the Governance process can be found in the <a target=\"_blank\" href=\"https://manual.makerdao.com\">Operational Manual</a>.</p>\n<p>To add current and upcoming votes to your calendar, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/makerdao/calendars/governance-calendar\">Governance Calendar</a>.</p>",
+    "options": {
+      "0": "Abstain",
+      "1": "Yes",
+      "2": "No"
+    },
+    "parameters": {
+      "inputFormat": {
+        "type": "single-choice",
+        "abstain": [
+          0
+        ],
+        "options": []
+      },
+      "resultDisplay": "single-vote-breakdown",
+      "victoryConditions": [
+        {
+          "type": "plurality"
+        }
+      ]
+    },
+    "tags": []
+  },
+  {
+    "creator": "0x8541ccfc6e7eacebd233c6789a0fbf7c708b0e68",
+    "pollId": 1243,
+    "blockCreated": 22318353,
+    "startDate": "2025-04-21T16:00:00.000Z",
+    "endDate": "2025-04-24T16:00:00.000Z",
+    "multiHash": "QmedB3hHGEwUJH9tN9BCpGQvbcDxAZxf2DDnmD3o13no9k",
+    "url": "https://raw.githubusercontent.com/makerdao/community/refs/heads/master/governance/polls/System%20Parameter%20Changes%20-%20April%2021%2C%202025.md",
+    "slug": "QmedB3hH",
+    "title": "System Parameter Changes - April 21, 2025",
+    "summary": "Signal your support or opposition to updating system changes as part of operational maintenance and in preparation for future upgrades to the protocol and Star Agents.",
+    "discussionLink": "https://forum.sky.money/t/parameter-changes-poll-april-21-2025/26290",
+    "content": "<h1>Poll: System Parameter Changes - April 21, 2025</h1>\n<p>The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Governance Facilitators and the Ecosystem Facilitators. This Governance <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/#A.1.9.1_Operational_Weekly_Cycle-b189fa17-57a9-4d4e-9780-0ce4efd94211%7C0db30308\">Poll</a> will be active for three days beginning on Monday, April 21 at 16:00 UTC.</p>\n<p><strong>This is a binary vote.</strong></p>\n<ul>\n<li><strong>You may vote for a single option.</strong></li>\n<li><strong>You should vote for the option which you prefer.</strong></li>\n<li><strong>If you would accept either option, you should vote 'Abstain'.</strong></li>\n</ul>\n<h2>Review</h2>\n<p>The community can vote in this poll to express support or opposition to the following system parameter changes as part of operational maintenance and in preparation for future upgrades to the protocol and Star Agents:</p>\n<ul>\n<li>Increase <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.1.9.2.1_Pause_Delay/a98b8227-95f6-4711-9d8d-f52cbc6ad2d0%7C0db30758e055\">GSM delay</a> by 30 hours from 18 hours to <strong>48 hours</strong>.</li>\n<li>LSE-MKR-A\n<ul>\n<li>Reduce <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.3.8.1.1.2.4.1_Maximum_Debt_Ceiling_(line)/6f1a913d-9436-4b70-816b-e317672737d6%7C57eaf45219bea3b430c268bb\">DC-IAM <code>line</code></a> by 45 million DAI from 45 million DAI to <strong>0 DAI</strong>.</li>\n</ul>\n</li>\n<li>ALLOCATOR-BLOOM-A:\n<ul>\n<li>Increase <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.3.8.1.1.2.4.2_Target_Available_Debt_(gap)/c1e17312-3744-4360-81f4-03564f0dd09d%7C57eaf45219bea3b430c268bb\">DC-IAM <code>gap</code></a> by 40 million DAI from 10 million DAI to <strong>50 million DAI</strong>.</li>\n<li>Increase <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.3.8.1.1.2.4.1_Maximum_Debt_Ceiling_(line)/6f1a913d-9436-4b70-816b-e317672737d6%7C57eaf45219bea3b430c268bb\">DC-IAM <code>line</code></a> by 90 million DAI from 10 million DAI to <strong>100 million DAI</strong>.</li>\n</ul>\n</li>\n</ul>\n<p>Please review the discussion <a target=\"_blank\" href=\"https://forum.sky.money/t/parameter-changes-poll-april-21-2025/26290\">thread</a> to help inform your position before voting.</p>\n<h2>Outcomes</h2>\n<p><strong>If the votes for the 'Yes' option exceed the votes for the 'No' option, then the following actions will be taken:</strong></p>\n<ul>\n<li>This change will be included in an upcoming Executive Vote.</li>\n<li>It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.</li>\n<li>If the Executive Vote passes, then these changes will become active in the Sky Protocol after the <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.1.9.2.1_Pause_Delay/a98b8227-95f6-4711-9d8d-f52cbc6ad2d0%7C0db30758e055\">GSM Pause Delay</a> has expired.</li>\n</ul>\n<p><strong>If the votes for the 'No' option equal or exceed the votes for the 'Yes' option, then no further action will be taken at this time.</strong></p>\n<hr>\n<h2>Resources</h2>\n<p>If you are new to voting in the Sky Protocol, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance\">voting guide</a> to learn how voting works.</p>\n<p>Additional information about the Governance process can be found in the <a target=\"_blank\" href=\"https://manual.makerdao.com\">Operational Manual</a>.</p>\n<p>To add current and upcoming votes to your calendar, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/makerdao/calendars/governance-calendar\">Governance Calendar</a>.</p>",
+    "options": {
+      "0": "Abstain",
+      "1": "Yes",
+      "2": "No"
+    },
+    "parameters": {
+      "inputFormat": {
+        "type": "single-choice",
+        "abstain": [
+          0
+        ],
+        "options": []
+      },
+      "resultDisplay": "single-vote-breakdown",
+      "victoryConditions": [
+        {
+          "type": "plurality"
+        }
+      ]
+    },
+    "tags": []
+  },
+  {
+    "creator": "0xdc7ee5da5d011bc98cf030968659f3ee92232843",
+    "pollId": 1244,
+    "blockCreated": 22368472,
+    "startDate": "2025-04-28T16:00:00.000Z",
+    "endDate": "2025-05-01T16:00:00.000Z",
+    "multiHash": "QmVxsh8CWrNBWZPQRHGEwejsrHjdbN6J8tnL94MCGwq1im",
+    "url": "https://raw.githubusercontent.com/makerdao/community/refs/heads/master/governance/polls/Atlas%20Edit%20Weekly%20Cycle%20Proposal%20-%20April%2028%2C%202025.md",
+    "slug": "QmVxsh8C",
+    "title": "Atlas Edit Weekly Cycle Proposal - April 28, 2025",
+    "summary": "This Atlas Edit adds documentation for a newly deployed Standby Spell that allows Sky Governance to disable the SP-BEAM in an emergency.",
+    "discussionLink": "https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-april-28-2025/26307",
+    "content": "<h1>Atlas Edit Weekly Cycle Proposal - April 28, 2025</h1>\n<p>The Governance Facilitators have placed an <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/#A.1.9.2_Atlas_Edit_Weekly_Cycle-4a8ad9ad-5c5d-4994-9b46-f04c0e61ce59%7C0db30308\">Atlas Edit Weekly Cycle Proposal</a> into the <a target=\"_blank\" href=\"https://vote.makerdao.com/polling\">voting system</a> <a target=\"_blank\" href=\"https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-april-28-2025/26307/2\">on behalf of Prime Delegate BLUE</a>. This Governance Poll will be active for three days beginning on Monday, April 28 at 16:00 UTC.</p>\n<p><strong>This is a binary vote.</strong></p>\n<ul>\n<li><strong>You may vote for a single option.</strong></li>\n<li><strong>You should vote for the option which you prefer.</strong></li>\n<li><strong>If you would accept either option, you should vote 'Abstain'.</strong></li>\n</ul>\n<h2>Review</h2>\n<p>The community may vote in this poll to express support or opposition to the following Atlas Edit Weekly Cycle Proposal:</p>\n<ul>\n<li><a target=\"_blank\" href=\"https://github.com/makerdao/next-gen-atlas/pull/99\">Atlas Edit Pull Request</a></li>\n<li><a target=\"_blank\" href=\"https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-april-28-2025/26307\">Proposal Discussion Thread</a></li>\n</ul>\n<p>A brief summary of this Atlas Edit has been provided by the Author and is shown below:</p>\n<p><em>Adds documentation regarding a newly deployed Standby Spell that allows Sky Governance to disable the SP-BEAM in an emergency.</em></p>\n<h2>Outcomes</h2>\n<p>This poll implements a <strong>Minimum Positive Participation</strong> value. The Minimum Positive Participation for Atlas Edit Weekly Cycle Proposals is currently set to <strong>20,000 MKR</strong>.</p>\n<p><strong>If the votes for the 'Yes' option exceed the votes for the 'No' option AND the votes for the 'Yes' option equal or exceed 20,000 MKR, then the following actions will be taken:</strong></p>\n<ul>\n<li>The associated Pull Request will be merged into The Atlas.</li>\n</ul>\n<hr>\n<h2>Resources</h2>\n<p>If you are new to voting in the Sky Protocol, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance\">voting guide</a> to learn how voting works.</p>\n<p>Additional information about the Governance process can be found in the <a target=\"_blank\" href=\"https://manual.makerdao.com\">Operational Manual</a>.</p>\n<p>To add current and upcoming votes to your calendar, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/makerdao/calendars/governance-calendar\">Sky Governance Calendar</a>.</p>",
+    "options": {
+      "0": "Abstain",
+      "1": "Yes",
+      "2": "No"
+    },
+    "parameters": {
+      "inputFormat": {
+        "type": "single-choice",
+        "abstain": [
+          0
+        ],
+        "options": []
+      },
+      "resultDisplay": "single-vote-breakdown",
+      "victoryConditions": [
+        {
+          "type": "and",
+          "conditions": [
+            {
+              "type": "plurality"
+            },
+            {
+              "type": "comparison",
+              "comparator": ">=",
+              "value": 20000
+            }
+          ]
+        },
+        {
+          "type": "default",
+          "value": 2
+        }
+      ]
+    },
+    "tags": []
+  },
+  {
+    "creator": "0x8541ccfc6e7eacebd233c6789a0fbf7c708b0e68",
+    "pollId": 1245,
+    "blockCreated": 22418118,
+    "startDate": "2025-05-05T16:00:00.000Z",
+    "endDate": "2025-05-08T16:00:00.000Z",
+    "multiHash": "QmcZNZg34Yv2rr64JGhsXUzmzDwwnXvJryS85PWcFDAVgn",
+    "url": "https://raw.githubusercontent.com/makerdao/community/refs/heads/master/governance/polls/Atlas%20Edit%20Weekly%20Cycle%20Proposal%20-%20May%205%2C%202025.md",
+    "slug": "QmcZNZg3",
+    "title": "Atlas Edit Weekly Cycle Proposal - May 5, 2025",
+    "summary": "This Atlas Edit 1) defines the process for the MKR-to-SKY upgrade, 2) updates the entities authorized to validate Standby Spells, 3) adds documentation regarding Protego, 4) clarifies the short-term logic for Agent Artifact updates, 5) removes the outdated document for recentering the Maker brand.",
+    "discussionLink": "https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-may-5-2025/26319",
+    "content": "<h1>Atlas Edit Weekly Cycle Proposal - May 5, 2025</h1>\n<p>The Governance Facilitators have placed an <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.1.10.1.1_Edits_To_The_Atlas/115f2ff0-8d73-80a9-af46-ef481d81934e%7C0db303084211\">Atlas Edit Weekly Cycle Proposal</a> into the <a target=\"_blank\" href=\"https://vote.makerdao.com/polling\">voting system</a> <a target=\"_blank\" href=\"https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-may-5-2025/26319/4\">on behalf of Prime Delegate cloaky</a>. This Governance Poll will be active for three days beginning on Monday, May 5 at 16:00 UTC.</p>\n<p><strong>This is a binary vote.</strong></p>\n<ul>\n<li><strong>You may vote for a single option.</strong></li>\n<li><strong>You should vote for the option which you prefer.</strong></li>\n<li><strong>If you would accept either option, you should vote 'Abstain'.</strong></li>\n</ul>\n<h2>Review</h2>\n<p>The community may vote in this poll to express support or opposition to the following Atlas Edit Weekly Cycle Proposal:</p>\n<ul>\n<li><a target=\"_blank\" href=\"https://github.com/makerdao/next-gen-atlas/pull/103\">Atlas Edit Pull Request</a></li>\n<li><a target=\"_blank\" href=\"https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-may-5-2025/26319/1\">Proposal Discussion Thread</a></li>\n</ul>\n<p>A brief summary of this Atlas Edit has been provided by the Author and is shown below:</p>\n<p><em>This proposal includes the following edits:</em></p>\n<ul>\n<li><em><strong>Define Process For MKR To SKY Upgrade</strong> - Defines the process to upgrade the governance token of the Sky Protocol from MKR to SKY.</em></li>\n<li><em><strong>Update Entities Authorized To Validate Standby Spells</strong> - Provides two additional entities in the Governance Facilitators teams with the authority to validate Standby Spells.</em></li>\n<li><em><strong>Add Documentation Regarding Protego</strong> - Defines logic for the Protego contract.</em></li>\n<li><em><strong>Clarify Short-Term Logic For Agent Artifact Updates</strong> - Defines short-term logic for updating Agent Artifacts.</em></li>\n<li><em><strong>Remove Outdated Document For Recentering Maker Brand</strong> - Removes an outdated document regarding a process that took place in November 2024.</em></li>\n</ul>\n<h2>Outcomes</h2>\n<p>This poll implements a <strong>Minimum Positive Participation</strong> value. The Minimum Positive Participation for Atlas Edit Weekly Cycle Proposals is currently set to <strong>20,000 MKR</strong>.</p>\n<p><strong>If the votes for the 'Yes' option exceed the votes for the 'No' option AND the votes for the 'Yes' option equal or exceed 20,000 MKR, then the following actions will be taken:</strong></p>\n<ul>\n<li>The associated Pull Request will be merged into The Atlas.</li>\n</ul>\n<hr>\n<h2>Resources</h2>\n<p>If you are new to voting in the Sky Protocol, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance\">voting guide</a> to learn how voting works.</p>\n<p>Additional information about the Governance process can be found in the <a target=\"_blank\" href=\"https://manual.makerdao.com\">Operational Manual</a>.</p>\n<p>To add current and upcoming votes to your calendar, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/makerdao/calendars/governance-calendar\">Sky Governance Calendar</a>.</p>",
+    "options": {
+      "0": "Abstain",
+      "1": "Yes",
+      "2": "No"
+    },
+    "parameters": {
+      "inputFormat": {
+        "type": "single-choice",
+        "abstain": [
+          0
+        ],
+        "options": []
+      },
+      "resultDisplay": "single-vote-breakdown",
+      "victoryConditions": [
+        {
+          "type": "and",
+          "conditions": [
+            {
+              "type": "plurality"
+            },
+            {
+              "type": "comparison",
+              "comparator": ">=",
+              "value": 20000
+            }
+          ]
+        },
+        {
+          "type": "default",
+          "value": 2
+        }
+      ]
+    },
+    "tags": []
+  },
+  {
+    "creator": "0xdc7ee5da5d011bc98cf030968659f3ee92232843",
+    "pollId": 1246,
+    "blockCreated": 22468060,
+    "startDate": "2025-05-12T16:00:00.000Z",
+    "endDate": "2025-05-15T16:00:00.000Z",
+    "multiHash": "QmTVd4iq8WGVcFSijQZHx9n498PAL1kVLpPHbYMC2Z5xkK",
+    "url": "https://raw.githubusercontent.com/makerdao/community/refs/heads/master/governance/polls/Atlas%20Edit%20Weekly%20Cycle%20Proposal%20-%20May%2012%2C%202025.md",
+    "slug": "QmTVd4iq",
+    "title": "Atlas Edit Weekly Cycle Proposal - May 12, 2025",
+    "summary": "This Atlas Edit 1) clarifies SKY staking parameters, 2) adds documentation regarding approval of the upgrade from MKR to SKY, 3) updates documentation regarding legacy brands, 4) includes new Vote Delegate Factory contract in MKR to SKY upgrade plan.",
+    "discussionLink": "https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-may-12-2025/26364",
+    "content": "<h1>Atlas Edit Weekly Cycle Proposal - May 12, 2025</h1>\n<p>The Governance Facilitators have placed an <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/#A.1.9.2_Atlas_Edit_Weekly_Cycle-4a8ad9ad-5c5d-4994-9b46-f04c0e61ce59%7C0db30308\">Atlas Edit Weekly Cycle Proposal</a> into the <a target=\"_blank\" href=\"https://vote.makerdao.com/polling\">voting system</a> <a target=\"_blank\" href=\"https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-may-12-2025/26364/5\">on behalf of Prime Delegate JuliaChang</a>. This Governance <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/#A.1.9.2_Atlas_Edit_Weekly_Cycle-4a8ad9ad-5c5d-4994-9b46-f04c0e61ce59%7C0db30308\">Poll</a> will be active for three days beginning on Monday, May 12 at 16:00 UTC.</p>\n<p><strong>This is a binary vote.</strong></p>\n<ul>\n<li><strong>You may vote for a single option.</strong></li>\n<li><strong>You should vote for the option which you prefer.</strong></li>\n<li><strong>If you would accept either option, you should vote 'Abstain'.</strong></li>\n</ul>\n<h2>Review</h2>\n<p>The community may vote in this poll to express support or opposition to the following Atlas Edit Weekly Cycle Proposal:</p>\n<ul>\n<li><a target=\"_blank\" href=\"https://github.com/makerdao/next-gen-atlas/pull/104\">Atlas Edit Pull Request</a></li>\n<li><a target=\"_blank\" href=\"https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-may-12-2025/26364\">Proposal Discussion Thread</a></li>\n</ul>\n<p>A brief summary of this Atlas Edit has been provided by the Author and is shown below:</p>\n<p><em>This proposal includes the following edits:</em></p>\n<ul>\n<li><em><strong>Clarify SKY Staking Parameters</strong> - Clarifies where SKY Staking parameters will be specified when SKY Staking launches.</em></li>\n<li><em><strong>Add Documentation Regarding Approval Of Upgrade From MKR To SKY</strong> - Adds documentation regarding the vote by MKR holders to approve the upgrade from MKR to SKY as the governance token of the Protocol.</em></li>\n<li><em><strong>Update Documentation Regarding Legacy Brands</strong> - Updates the documentation regarding legacy brands to reflect the deprecation of MKR as the governance token of the Protocol.</em></li>\n<li><strong>Include New Vote Delegate Factory Contract In MKR To SKY Upgrade Plan</strong> - Adds the deployment of the new Vote Delegate Factory contract to the MKR to SKY upgrade plan.</li>\n</ul>\n<h2>Outcomes</h2>\n<p>This poll implements a <strong>Minimum Positive Participation</strong> value. The Minimum Positive Participation for Atlas Edit Weekly Cycle Proposals is currently set to <strong>20,000 MKR</strong>.</p>\n<p><strong>If the votes for the 'Yes' option exceed the votes for the 'No' option AND the votes for the 'Yes' option equal or exceed 20,000 MKR, then the following actions will be taken:</strong></p>\n<ul>\n<li>The associated Pull Request will be merged into The Atlas.</li>\n</ul>\n<hr>\n<h2>Resources</h2>\n<p>If you are new to voting in the Sky Protocol, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance\">voting guide</a> to learn how voting works.</p>\n<p>Additional information about the Governance process can be found in the <a target=\"_blank\" href=\"https://manual.makerdao.com\">Operational Manual</a>.</p>\n<p>To add current and upcoming votes to your calendar, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/makerdao/calendars/governance-calendar\">Sky Governance Calendar</a>.</p>",
+    "options": {
+      "0": "Abstain",
+      "1": "Yes",
+      "2": "No"
+    },
+    "parameters": {
+      "inputFormat": {
+        "type": "single-choice",
+        "abstain": [
+          0
+        ],
+        "options": []
+      },
+      "resultDisplay": "single-vote-breakdown",
+      "victoryConditions": [
+        {
+          "type": "and",
+          "conditions": [
+            {
+              "type": "plurality"
+            },
+            {
+              "type": "comparison",
+              "comparator": ">=",
+              "value": 20000
+            }
+          ]
+        },
+        {
+          "type": "default",
+          "value": 2
+        }
+      ]
+    },
+    "tags": []
+  },
+  {
+    "creator": "0xdc7ee5da5d011bc98cf030968659f3ee92232843",
+    "pollId": 1247,
+    "blockCreated": 22468071,
+    "startDate": "2025-05-12T16:00:00.000Z",
+    "endDate": "2025-05-15T16:00:00.000Z",
+    "multiHash": "QmVt1spifMaA1oUyGW927JqX1dfsHKXUH7GpU6PMsVYK6h",
+    "url": "https://raw.githubusercontent.com/makerdao/community/refs/heads/master/governance/polls/SparkLend%20Ethereum%20-%20Adjust%20DAI%20Interest%20Rate%20Model%20-%20May%2012%2C%202025.md",
+    "slug": "QmVt1spi",
+    "title": "SparkLend Ethereum - Adjust DAI Interest Rate Model - May 12, 2025",
+    "summary": "Signal your support or opposition to the proposed adjustments to the DAI Interest Rate Model for SparkLend on Mainnet.",
+    "discussionLink": "https://forum.sky.money/t/may-29-2025-proposed-changes-to-spark-for-upcoming-spell/26372",
+    "content": "<h1>Poll: SparkLend Ethereum - Adjust DAI Interest Rate Model - May 12, 2025</h1>\n<p>The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/#A.1.9.1_Operational_Weekly_Cycle-b189fa17-57a9-4d4e-9780-0ce4efd94211%7C0db30308\">Poll</a> will be active for three days beginning on Monday, May 12 at 16:00 UTC.</p>\n<p><strong>This is a binary vote.</strong></p>\n<ul>\n<li><strong>You may vote for a single option.</strong></li>\n<li><strong>You should vote for the option which you prefer.</strong></li>\n<li><strong>If you would accept either option, you should vote 'Abstain'.</strong></li>\n</ul>\n<h2>Review</h2>\n<p>The community can vote in this poll to express support or opposition to the following changes to the DAI <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.3_Interest_Rate_Model_Definition/1c1f2ff0-8d73-81dd-99c0-fc707ce48e01%7C7896ed3326389fe3553030cd0a82f68efd49\">Interest Rate Model</a> on Mainnet:</p>\n<ul>\n<li><a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.13_Base_Rate_Definition/1c1f2ff0-8d73-81c1-9b9b-ef4b84c1450f%7C7896ed3326389fe3553030cd0a82f68efd49\">Base Rate</a>: <strong>0%</strong></li>\n<li><a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.15_Slope_1_Definition/1c1f2ff0-8d73-81be-9f17-d7d4bfc6cb59%7C7896ed3326389fe3553030cd0a82f68efd49\">Slope 1</a>: <strong>SSR + 0.75%</strong></li>\n<li><a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.17_Slope_2_Definition/1c1f2ff0-8d73-8199-aa99-dde95c3f7130%7C7896ed3326389fe3553030cd0a82f68efd49\">Slope 2</a>: <strong>15% (Unchanged)</strong></li>\n<li><a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.11_Optimal_Utilization_Definition/1c1f2ff0-8d73-8173-a52b-d6f86efd3366%7C7896ed3326389fe3553030cd0a82f68efd49\">Optimal Utilization Ratio</a>: <strong>80% (Unchanged)</strong></li>\n</ul>\n<p>Please review the discussion <a target=\"_blank\" href=\"https://forum.sky.money/t/may-29-2025-proposed-changes-to-spark-for-upcoming-spell/26372\">thread</a> to help inform your position before voting.</p>\n<h2>Outcomes</h2>\n<p><strong>If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:</strong></p>\n<ul>\n<li>This change will be included in an upcoming Executive Vote.</li>\n<li>It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.</li>\n<li>If the Executive Vote passes, then these changes will become active in the Sky Protocol after the <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.1.9.2.1_Pause_Delay/a98b8227-95f6-4711-9d8d-f52cbc6ad2d0%7C0db30758e055\">GSM Pause Delay</a> has expired.</li>\n</ul>\n<p><strong>If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.</strong></p>\n<hr>\n<h2>Resources</h2>\n<p>If you are new to voting in the Sky Protocol, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance\">voting guide</a> to learn how voting works.</p>\n<p>Additional information about the Governance process can be found in the <a target=\"_blank\" href=\"https://manual.makerdao.com\">Operational Manual</a>.</p>\n<p>To add current and upcoming votes to your calendar, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/makerdao/calendars/governance-calendar\">Governance Calendar</a>.</p>",
+    "options": {
+      "0": "Abstain",
+      "1": "Yes",
+      "2": "No"
+    },
+    "parameters": {
+      "inputFormat": {
+        "type": "single-choice",
+        "abstain": [
+          0
+        ],
+        "options": []
+      },
+      "resultDisplay": "single-vote-breakdown",
+      "victoryConditions": [
+        {
+          "type": "plurality"
+        }
+      ]
+    },
+    "tags": []
+  },
+  {
+    "creator": "0xdc7ee5da5d011bc98cf030968659f3ee92232843",
+    "pollId": 1248,
+    "blockCreated": 22468079,
+    "startDate": "2025-05-12T16:00:00.000Z",
+    "endDate": "2025-05-15T16:00:00.000Z",
+    "multiHash": "QmUnygNrTaTxQkN2gAZv3VjA5BM5PVq1unk4DoM4AofHdz",
+    "url": "https://raw.githubusercontent.com/makerdao/community/refs/heads/master/governance/polls/SparkLend%20Ethereum%20-%20Adjust%20USDS%20Interest%20Rate%20Model%20-%20May%2012%2C%202025.md",
+    "slug": "QmUnygNr",
+    "title": "SparkLend Ethereum - Adjust USDS Interest Rate Model - May 12, 2025",
+    "summary": "Signal your support or opposition to the proposed adjustments to the USDS Interest Rate Model for SparkLend on Mainnet.",
+    "discussionLink": "https://forum.sky.money/t/may-29-2025-proposed-changes-to-spark-for-upcoming-spell/26372",
+    "content": "<h1>Poll: SparkLend Ethereum - Adjust USDS Interest Rate Model - May 12, 2025</h1>\n<p>The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/#A.1.9.1_Operational_Weekly_Cycle-b189fa17-57a9-4d4e-9780-0ce4efd94211%7C0db30308\">Poll</a> will be active for three days beginning on Monday, May 12 at 16:00 UTC.</p>\n<p><strong>This is a binary vote.</strong></p>\n<ul>\n<li><strong>You may vote for a single option.</strong></li>\n<li><strong>You should vote for the option which you prefer.</strong></li>\n<li><strong>If you would accept either option, you should vote 'Abstain'.</strong></li>\n</ul>\n<h2>Review</h2>\n<p>The community can vote in this poll to express support or opposition to the following changes to the USDS <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.3_Interest_Rate_Model_Definition/1c1f2ff0-8d73-81dd-99c0-fc707ce48e01%7C7896ed3326389fe3553030cd0a82f68efd49\">Interest Rate Model</a> on Mainnet:</p>\n<ul>\n<li><a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.13_Base_Rate_Definition/1c1f2ff0-8d73-81c1-9b9b-ef4b84c1450f%7C7896ed3326389fe3553030cd0a82f68efd49\">Base Rate</a>: <strong>0%</strong></li>\n<li><a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.15_Slope_1_Definition/1c1f2ff0-8d73-81be-9f17-d7d4bfc6cb59%7C7896ed3326389fe3553030cd0a82f68efd49\">Slope 1</a>: <strong>SSR + 0.75%</strong></li>\n<li><a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.17_Slope_2_Definition/1c1f2ff0-8d73-8199-aa99-dde95c3f7130%7C7896ed3326389fe3553030cd0a82f68efd49\">Slope 2</a>: <strong>15% (Unchanged)</strong></li>\n<li><a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.11_Optimal_Utilization_Definition/1c1f2ff0-8d73-8173-a52b-d6f86efd3366%7C7896ed3326389fe3553030cd0a82f68efd49\">Optimal Utilization Ratio</a>: <strong>80% (Unchanged)</strong></li>\n</ul>\n<p>Please review the discussion <a target=\"_blank\" href=\"https://forum.sky.money/t/may-29-2025-proposed-changes-to-spark-for-upcoming-spell/26372\">thread</a> to help inform your position before voting.</p>\n<h2>Outcomes</h2>\n<p><strong>If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:</strong></p>\n<ul>\n<li>This change will be included in an upcoming Executive Vote.</li>\n<li>It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.</li>\n<li>If the Executive Vote passes, then these changes will become active in the Sky Protocol after the <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.1.9.2.1_Pause_Delay/a98b8227-95f6-4711-9d8d-f52cbc6ad2d0%7C0db30758e055\">GSM Pause Delay</a> has expired.</li>\n</ul>\n<p><strong>If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.</strong></p>\n<hr>\n<h2>Resources</h2>\n<p>If you are new to voting in the Sky Protocol, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance\">voting guide</a> to learn how voting works.</p>\n<p>Additional information about the Governance process can be found in the <a target=\"_blank\" href=\"https://manual.makerdao.com\">Operational Manual</a>.</p>\n<p>To add current and upcoming votes to your calendar, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/makerdao/calendars/governance-calendar\">Governance Calendar</a>.</p>",
+    "options": {
+      "0": "Abstain",
+      "1": "Yes",
+      "2": "No"
+    },
+    "parameters": {
+      "inputFormat": {
+        "type": "single-choice",
+        "abstain": [
+          0
+        ],
+        "options": []
+      },
+      "resultDisplay": "single-vote-breakdown",
+      "victoryConditions": [
+        {
+          "type": "plurality"
+        }
+      ]
+    },
+    "tags": []
+  },
+  {
+    "creator": "0xdc7ee5da5d011bc98cf030968659f3ee92232843",
+    "pollId": 1249,
+    "blockCreated": 22468097,
+    "startDate": "2025-05-12T16:00:00.000Z",
+    "endDate": "2025-05-15T16:00:00.000Z",
+    "multiHash": "QmX16hA3k8ofBdYJ9Lw9sW8Z5otM1upR76EJa6Ho9fRC58",
+    "url": "https://raw.githubusercontent.com/makerdao/community/refs/heads/master/governance/polls/SparkLend%20Ethereum%20-%20Reduce%20WBTC%20Liquidation%20Threshold%20-%20May%2012%2C%202025.md",
+    "slug": "QmX16hA3",
+    "title": "SparkLend Ethereum - Reduce WBTC Liquidation Threshold - May 12, 2025",
+    "summary": "Signal your support or opposition to reducing the WBTC Liquidation Threshold on SparkLend on Mainnet.",
+    "discussionLink": "https://forum.sky.money/t/may-29-2025-proposed-changes-to-spark-for-upcoming-spell/26372",
+    "content": "<h1>Poll: SparkLend Ethereum - Reduce WBTC Liquidation Threshold - May 12, 2025</h1>\n<p>The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/#A.1.9.1_Operational_Weekly_Cycle-b189fa17-57a9-4d4e-9780-0ce4efd94211%7C0db30308\">Poll</a> will be active for three days beginning on Monday, May 12 at 16:00 UTC.</p>\n<p><strong>This is a binary vote.</strong></p>\n<ul>\n<li><strong>You may vote for a single option.</strong></li>\n<li><strong>You should vote for the option which you prefer.</strong></li>\n<li><strong>If you would accept either option, you should vote 'Abstain'.</strong></li>\n</ul>\n<h2>Review</h2>\n<p>The community can vote in this poll to express support or opposition to the following changes:</p>\n<ul>\n<li>Reduce the WBTC <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.AG1.3.2.2.1.1.5_Liquidation_Threshold_Definition/1c1f2ff0-8d73-81ea-bd7e-feb73a44923a%7C7896ed3326389fe3553030cd0a82f68efd49\">Liquidation Threshold</a> by 5 percentage points from 45% to <strong>40%</strong>.</li>\n</ul>\n<p>Please review the discussion <a target=\"_blank\" href=\"https://forum.sky.money/t/may-29-2025-proposed-changes-to-spark-for-upcoming-spell/26372\">thread</a> to help inform your position before voting.</p>\n<h2>Outcomes</h2>\n<p><strong>If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:</strong></p>\n<ul>\n<li>This change will be included in an upcoming Executive Vote.</li>\n<li>It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.</li>\n<li>If the Executive Vote passes, then these changes will become active in the Sky Protocol after the <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.1.9.2.1_Pause_Delay/a98b8227-95f6-4711-9d8d-f52cbc6ad2d0%7C0db30758e055\">GSM Pause Delay</a> has expired.</li>\n</ul>\n<p><strong>If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.</strong></p>\n<hr>\n<h2>Resources</h2>\n<p>If you are new to voting in the Sky Protocol, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance\">voting guide</a> to learn how voting works.</p>\n<p>Additional information about the Governance process can be found in the <a target=\"_blank\" href=\"https://manual.makerdao.com\">Operational Manual</a>.</p>\n<p>To add current and upcoming votes to your calendar, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/makerdao/calendars/governance-calendar\">Governance Calendar</a>.</p>",
+    "options": {
+      "0": "Abstain",
+      "1": "Yes",
+      "2": "No"
+    },
+    "parameters": {
+      "inputFormat": {
+        "type": "single-choice",
+        "abstain": [
+          0
+        ],
+        "options": []
+      },
+      "resultDisplay": "single-vote-breakdown",
+      "victoryConditions": [
+        {
+          "type": "plurality"
+        }
+      ]
+    },
+    "tags": []
+  },
+  {
+    "creator": "0xdc7ee5da5d011bc98cf030968659f3ee92232843",
+    "pollId": 1250,
+    "blockCreated": 22468112,
+    "startDate": "2025-05-12T16:00:00.000Z",
+    "endDate": "2025-05-15T16:00:00.000Z",
+    "multiHash": "QmUYRV1HkyfjztL2NCfv6Z2xX3vSG4kFZ988kNrShoy1GH",
+    "url": "https://raw.githubusercontent.com/makerdao/community/refs/heads/master/governance/polls/Spark%20Liquidity%20Layer%20Mainnet%20-%20Increase%20USDS%20Mint%20and%20USDC%20Swap%20Rate%20Limits%20-%20May%2012%2C%202025.md",
+    "slug": "QmUYRV1H",
+    "title": "Spark Liquidity Layer Mainnet - Increase USDS Mint and USDC Swap Rate Limits - May 12, 2025",
+    "summary": "Signal your support or opposition to increasing the USDS mint rate limit and the USDC swap rate limit for the Spark Liquidity Layer on Mainnet.",
+    "discussionLink": "https://forum.sky.money/t/may-29-2025-proposed-changes-to-spark-for-upcoming-spell/26372",
+    "content": "<h1>Poll: Spark Liquidity Layer Mainnet - Increase USDS Mint and USDC Swap Rate Limits - May 12, 2025</h1>\n<p>The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/#A.1.9.1_Operational_Weekly_Cycle-b189fa17-57a9-4d4e-9780-0ce4efd94211%7C0db30308\">Poll</a> will be active for three days beginning on Monday, May 12 at 16:00 UTC.</p>\n<p><strong>This is a binary vote.</strong></p>\n<ul>\n<li><strong>You may vote for a single option.</strong></li>\n<li><strong>You should vote for the option which you prefer.</strong></li>\n<li><strong>If you would accept either option, you should vote 'Abstain'.</strong></li>\n</ul>\n<h2>Review</h2>\n<p>The community can vote in this poll to express support or opposition to the following changes:</p>\n<h3>USDS Mint Rate Limits</h3>\n<ul>\n<li>Increase max by 300 million USDS from 200 million USDS to <strong>500 million USDS</strong>.</li>\n<li>Increase slope by 300 million USDS per day from 200 million USDS per day to <strong>500 million USDS per day</strong>.</li>\n</ul>\n<h3>USDC Swap Rate Limits</h3>\n<ul>\n<li>Increase max by 300 million USDC from 200 million USDC to <strong>500 million USDC</strong>.</li>\n<li>Increase slope by 100 million USDC from 200 million USDC to <strong>300 million USDC per day</strong>.</li>\n</ul>\n<hr>\n<p>More information on Rate Limits can be found <a target=\"_blank\" href=\"https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits\">here</a>.</p>\n<p>Please review the discussion <a target=\"_blank\" href=\"https://forum.sky.money/t/may-29-2025-proposed-changes-to-spark-for-upcoming-spell/26372\">thread</a> to help inform your position before voting.</p>\n<h2>Outcomes</h2>\n<p><strong>If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:</strong></p>\n<ul>\n<li>This change will be included in an upcoming Executive Vote.</li>\n<li>It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.</li>\n<li>If the Executive Vote passes, then these changes will become active in the Sky Protocol after the <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.1.9.2.1_Pause_Delay/a98b8227-95f6-4711-9d8d-f52cbc6ad2d0%7C0db30758e055\">GSM Pause Delay</a> has expired.</li>\n</ul>\n<p><strong>If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.</strong></p>\n<hr>\n<h2>Resources</h2>\n<p>If you are new to voting in the Sky Protocol, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance\">voting guide</a> to learn how voting works.</p>\n<p>Additional information about the Governance process can be found in the <a target=\"_blank\" href=\"https://manual.makerdao.com\">Operational Manual</a>.</p>\n<p>To add current and upcoming votes to your calendar, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/makerdao/calendars/governance-calendar\">Governance Calendar</a>.</p>",
+    "options": {
+      "0": "Abstain",
+      "1": "Yes",
+      "2": "No"
+    },
+    "parameters": {
+      "inputFormat": {
+        "type": "single-choice",
+        "abstain": [
+          0
+        ],
+        "options": []
+      },
+      "resultDisplay": "single-vote-breakdown",
+      "victoryConditions": [
+        {
+          "type": "plurality"
+        }
+      ]
+    },
+    "tags": []
+  },
+  {
+    "creator": "0xdc7ee5da5d011bc98cf030968659f3ee92232843",
+    "pollId": 1251,
+    "blockCreated": 22468117,
+    "startDate": "2025-05-12T16:00:00.000Z",
+    "endDate": "2025-05-15T16:00:00.000Z",
+    "multiHash": "QmVMBXm8duMHgZoVCLCkuFbVgN3uUMLqrt7jqvdkqZso7D",
+    "url": "https://raw.githubusercontent.com/makerdao/community/refs/heads/master/governance/polls/Spark%20Liquidity%20Layer%20Mainnet%20-%20Increase%20ALLOCATOR-SPARK-A%20Maximum%20Debt%20Ceiling%20-%20May%2012%2C%202025.md",
+    "slug": "QmVMBXm8",
+    "title": "Spark Liquidity Layer Mainnet - Increase ALLOCATOR-SPARK-A Maximum Debt Ceiling - May 12, 2025",
+    "summary": "Signal your support or opposition to increasing the ALLOCATOR-SPARK-A Maximum Debt Ceiling.",
+    "discussionLink": "https://forum.sky.money/t/may-29-2025-proposed-changes-to-spark-for-upcoming-spell/26372",
+    "content": "<h1>Poll: Spark Liquidity Layer Mainnet - Increase ALLOCATOR-SPARK-A Maximum Debt Ceiling - May 12, 2025</h1>\n<p>The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/#A.1.9.1_Operational_Weekly_Cycle-b189fa17-57a9-4d4e-9780-0ce4efd94211%7C0db30308\">Poll</a> will be active for three days beginning on Monday, May 12 at 16:00 UTC.</p>\n<p><strong>This is a binary vote.</strong></p>\n<ul>\n<li><strong>You may vote for a single option.</strong></li>\n<li><strong>You should vote for the option which you prefer.</strong></li>\n<li><strong>If you would accept either option, you should vote 'Abstain'.</strong></li>\n</ul>\n<h2>Review</h2>\n<p>The community can vote in this poll to express support or opposition to the following changes:</p>\n<ul>\n<li>Increase the ALLOCATOR-SPARK-A <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.3.8.1.1.2.4.1_Maximum_Debt_Ceiling_(line)/6f1a913d-9436-4b70-816b-e317672737d6%7C57eaf45219bea3b430c268bb\">Maximum Debt Ceiling (<code>line</code>)</a> by 5 billion USDS from 5 billion USDS to <strong>10 billion USDS</strong>.</li>\n</ul>\n<p>Please review the discussion <a target=\"_blank\" href=\"https://forum.sky.money/t/may-29-2025-proposed-changes-to-spark-for-upcoming-spell/26372\">thread</a> to help inform your position before voting.</p>\n<h2>Outcomes</h2>\n<p><strong>If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:</strong></p>\n<ul>\n<li>This change will be included in an upcoming Executive Vote.</li>\n<li>It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.</li>\n<li>If the Executive Vote passes, then these changes will become active in the Sky Protocol after the <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.1.9.2.1_Pause_Delay/a98b8227-95f6-4711-9d8d-f52cbc6ad2d0%7C0db30758e055\">GSM Pause Delay</a> has expired.</li>\n</ul>\n<p><strong>If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.</strong></p>\n<hr>\n<h2>Resources</h2>\n<p>If you are new to voting in the Sky Protocol, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance\">voting guide</a> to learn how voting works.</p>\n<p>Additional information about the Governance process can be found in the <a target=\"_blank\" href=\"https://manual.makerdao.com\">Operational Manual</a>.</p>\n<p>To add current and upcoming votes to your calendar, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/makerdao/calendars/governance-calendar\">Governance Calendar</a>.</p>",
+    "options": {
+      "0": "Abstain",
+      "1": "Yes",
+      "2": "No"
+    },
+    "parameters": {
+      "inputFormat": {
+        "type": "single-choice",
+        "abstain": [
+          0
+        ],
+        "options": []
+      },
+      "resultDisplay": "single-vote-breakdown",
+      "victoryConditions": [
+        {
+          "type": "plurality"
+        }
+      ]
+    },
+    "tags": []
+  },
+  {
+    "creator": "0xdc7ee5da5d011bc98cf030968659f3ee92232843",
+    "pollId": 1252,
+    "blockCreated": 22468122,
+    "startDate": "2025-05-12T16:00:00.000Z",
+    "endDate": "2025-05-15T16:00:00.000Z",
+    "multiHash": "QmfPc8UbKaEdb4qYXzej8WYVriee5SoZf1YP6MNkmjxjU2",
+    "url": "https://raw.githubusercontent.com/makerdao/community/refs/heads/master/governance/polls/Spark%20Liquidity%20Layer%20Base%20-%20Spark%20USDC%20Morpho%20Vault%20-%20Increase%20cbBTC%20Pool%20Supply%20Cap%20-%20May%2012%2C%202025.md",
+    "slug": "QmfPc8Ub",
+    "title": "Spark Liquidity Layer Base - Spark USDC Morpho Vault - Increase cbBTC Pool Supply Cap - May 12, 2025",
+    "summary": "Signal your support or opposition to increasing the cbBTC/USDC market Supply Cap in the Spark USDC Morpho vault which forms part of the Spark Liquidity Layer on Base.",
+    "discussionLink": "https://forum.sky.money/t/may-29-2025-proposed-changes-to-spark-for-upcoming-spell/26372",
+    "content": "<h1>Poll: Spark Liquidity Layer Base - Spark USDC Morpho Vault - Increase cbBTC Pool Supply Cap - May 12, 2025</h1>\n<p>The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/#A.1.9.1_Operational_Weekly_Cycle-b189fa17-57a9-4d4e-9780-0ce4efd94211%7C0db30308\">Poll</a> will be active for three days beginning on Monday, May 12 at 16:00 UTC.</p>\n<p><strong>This is a binary vote.</strong></p>\n<ul>\n<li><strong>You may vote for a single option.</strong></li>\n<li><strong>You should vote for the option which you prefer.</strong></li>\n<li><strong>If you would accept either option, you should vote 'Abstain'.</strong></li>\n</ul>\n<h2>Review</h2>\n<p>The community can vote in this poll to express support or opposition to changing the cbBTC/USDC market Supply Cap in the Spark USDC Morpho Vault on Base with the following parameters:</p>\n<ul>\n<li>Increase the Supply Cap of the cbBTC/USDC market <a target=\"_blank\" href=\"https://app.morpho.org/base/market/0x9103c3b4e834476c9a62ea009ba2c884ee42e94e6e314a26f04d312434191836/cbbtc-usdc\">(0x9103c3b4e834476c9a62ea009ba2c884ee42e94e6e314a26f04d312434191836)</a> by 500 million USDC from 500 million USDC to <strong>1 billion USDC</strong>.</li>\n</ul>\n<p>Please review the discussion <a target=\"_blank\" href=\"https://forum.sky.money/t/may-29-2025-proposed-changes-to-spark-for-upcoming-spell/26372\">thread</a> to help inform your position before voting.</p>\n<h2>Outcomes</h2>\n<p><strong>If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:</strong></p>\n<ul>\n<li>This change will be included in an upcoming Executive Vote.</li>\n<li>It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.</li>\n<li>If the Executive Vote passes, then these changes will become active in the Sky Protocol after the <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.1.9.2.1_Pause_Delay/a98b8227-95f6-4711-9d8d-f52cbc6ad2d0%7C0db30758e055\">GSM Pause Delay</a> has expired.</li>\n</ul>\n<p><strong>If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.</strong></p>\n<hr>\n<h2>Resources</h2>\n<p>If you are new to voting in the Sky Protocol, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance\">voting guide</a> to learn how voting works.</p>\n<p>Additional information about the Governance process can be found in the <a target=\"_blank\" href=\"https://manual.makerdao.com\">Operational Manual</a>.</p>\n<p>To add current and upcoming votes to your calendar, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/makerdao/calendars/governance-calendar\">Governance Calendar</a>.</p>",
+    "options": {
+      "0": "Abstain",
+      "1": "Yes",
+      "2": "No"
+    },
+    "parameters": {
+      "inputFormat": {
+        "type": "single-choice",
+        "abstain": [
+          0
+        ],
+        "options": []
+      },
+      "resultDisplay": "single-vote-breakdown",
+      "victoryConditions": [
+        {
+          "type": "plurality"
+        }
+      ]
+    },
+    "tags": []
+  },
+  {
+    "creator": "0xdc7ee5da5d011bc98cf030968659f3ee92232843",
+    "pollId": 1253,
+    "blockCreated": 22468128,
+    "startDate": "2025-05-12T16:00:00.000Z",
+    "endDate": "2025-05-15T16:00:00.000Z",
+    "multiHash": "QmXjeJtwsm5iBQi3wtknuN2yQCsDmGm9XNcDqyUJoSaHwX",
+    "url": "https://raw.githubusercontent.com/makerdao/community/refs/heads/master/governance/polls/Spark%20Liquidity%20Layer%20Mainnet%20and%20Unichain%20-%20Onboard%20Unichain%20to%20the%20Spark%20Liquidity%20Layer%20-%20May%2012%2C%202025.md",
+    "slug": "QmXjeJtw",
+    "title": "Spark Liquidity Layer Mainnet and Unichain - Onboard Unichain to the Spark Liquidity Layer - May 12, 2025",
+    "summary": "Signal your support or opposition to onboarding Unichain to the Spark Liquidity Layer.",
+    "discussionLink": "https://forum.sky.money/t/may-29-2025-proposed-changes-to-spark-for-upcoming-spell/26372",
+    "content": "<h1>Poll: Spark Liquidity Layer Mainnet and Unichain - Onboard Unichain to the Spark Liquidity Layer - May 12, 2025</h1>\n<p>The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/#A.1.9.1_Operational_Weekly_Cycle-b189fa17-57a9-4d4e-9780-0ce4efd94211%7C0db30308\">Poll</a> will be active for three days beginning on Monday, May 12 at 16:00 UTC.</p>\n<p><strong>This is a binary vote.</strong></p>\n<ul>\n<li><strong>You may vote for a single option.</strong></li>\n<li><strong>You should vote for the option which you prefer.</strong></li>\n<li><strong>If you would accept either option, you should vote 'Abstain'.</strong></li>\n</ul>\n<h2>Review</h2>\n<p>The community can vote in this poll to express support or opposition to onboarding Unichain to the Spark Liquidity Layer with the following addresses and parameters:</p>\n<h3>Addresses</h3>\n<ul>\n<li>\n<p>L1_TOKEN_BRIDGE: <a target=\"_blank\" href=\"https://etherscan.io/address/0xDF0535a4C96c9Cd8921d8FeC92A7680b281681d2\">0xDF0535a4C96c9Cd8921d8FeC92A7680b281681d2</a></p>\n</li>\n<li>\n<p>L2_TOKEN_BRIDGE: <a target=\"_blank\" href=\"https://uniscan.xyz/address/0xa13152006D0216Fe4627a0D3B006087A6a55D752\">0xa13152006D0216Fe4627a0D3B006087A6a55D752</a></p>\n</li>\n<li>\n<p>L2_USDS: <a target=\"_blank\" href=\"https://uniscan.xyz/address/0x7E10036Acc4B56d4dFCa3b77810356CE52313F9C\">0x7E10036Acc4B56d4dFCa3b77810356CE52313F9C</a></p>\n</li>\n<li>\n<p>L2_SUSDS: <a target=\"_blank\" href=\"https://uniscan.xyz/address/0xA06b10Db9F390990364A3984C04FaDf1c13691b5\">0xA06b10Db9F390990364A3984C04FaDf1c13691b5</a></p>\n</li>\n<li>\n<p>L1_SSR_FORWARDER: TO BE DEPLOYED</p>\n</li>\n<li>\n<p>L2_SSR_RECEIVER: TO BE DEPLOYED</p>\n</li>\n<li>\n<p>L2_SSR_AUTH_ORACLE: TO BE DEPLOYED</p>\n</li>\n<li>\n<p>L2_GOV_RECEIVER: TO BE DEPLOYED</p>\n</li>\n<li>\n<p>L2_GOV_EXECUTOR: TO BE DEPLOYED</p>\n</li>\n<li>\n<p>L2_PSM: TO BE DEPLOYED</p>\n</li>\n<li>\n<p>L2_ALM_PROXY: TO BE DEPLOYED</p>\n</li>\n<li>\n<p>L2_ALM_CONTROLLER: TO BE DEPLOYED</p>\n</li>\n<li>\n<p>L2_ALM_RATE_LIMITS: TO BE DEPLOYED</p>\n</li>\n</ul>\n<h3>Initial <a target=\"_blank\" href=\"https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits\">Rate Limits</a></h3>\n<h4>PSM3</h4>\n<h5>USDC</h5>\n<h6>Deposit</h6>\n<ul>\n<li>max: <strong>50 million USDC</strong></li>\n<li>slope: <strong>50 million USDC</strong> per day</li>\n</ul>\n<h6>Withdrawal</h6>\n<ul>\n<li>max: <strong>50 million USDC</strong></li>\n<li>slope: <strong>50 million USDC</strong> per day</li>\n</ul>\n<h5>USDS</h5>\n<h6>Deposit</h6>\n<ul>\n<li>max: <strong>Unlimited</strong></li>\n<li>slope: <strong>Unlimited</strong></li>\n</ul>\n<h6>Withdrawal</h6>\n<ul>\n<li>max: <strong>Unlimited</strong></li>\n<li>slope: <strong>Unlimited</strong></li>\n</ul>\n<h5>sUSDS</h5>\n<h6>Deposit</h6>\n<ul>\n<li>max: <strong>Unlimited</strong></li>\n<li>slope: <strong>Unlimited</strong></li>\n</ul>\n<h6>Withdrawal</h6>\n<ul>\n<li>max: <strong>Unlimited</strong></li>\n<li>slope: <strong>Unlimited</strong></li>\n</ul>\n<h4>CCTP</h4>\n<ul>\n<li>Global: <strong>Unlimited</strong>.</li>\n<li>Unichain to Mainnet: <strong>50 million</strong> max, <strong>25 million</strong> slope per day.</li>\n<li>Mainnet to Unichain: <strong>50 million</strong> max, <strong>25 million</strong> slope per day.</li>\n</ul>\n<h4>Initial Liquidity Bridged to Unichain</h4>\n<ul>\n<li>USDS: <strong>100 million USDS</strong>.</li>\n<li>sUSDS: <strong>100 million USDS worth of sUSDS</strong>.</li>\n</ul>\n<hr>\n<p>Please review the discussion <a target=\"_blank\" href=\"https://forum.sky.money/t/may-29-2025-proposed-changes-to-spark-for-upcoming-spell/26372\">thread</a> to help inform your position before voting.</p>\n<h2>Outcomes</h2>\n<p><strong>If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:</strong></p>\n<ul>\n<li>This change will be included in an upcoming Executive Vote.</li>\n<li>It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.</li>\n<li>If the Executive Vote passes, then these changes will become active in the Sky Protocol after the <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.1.9.2.1_Pause_Delay/a98b8227-95f6-4711-9d8d-f52cbc6ad2d0%7C0db30758e055\">GSM Pause Delay</a> has expired.</li>\n</ul>\n<p><strong>If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.</strong></p>\n<hr>\n<h2>Resources</h2>\n<p>If you are new to voting in the Sky Protocol, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance\">voting guide</a> to learn how voting works.</p>\n<p>Additional information about the Governance process can be found in the <a target=\"_blank\" href=\"https://manual.makerdao.com\">Operational Manual</a>.</p>\n<p>To add current and upcoming votes to your calendar, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/makerdao/calendars/governance-calendar\">Governance Calendar</a>.</p>",
+    "options": {
+      "0": "Abstain",
+      "1": "Yes",
+      "2": "No"
+    },
+    "parameters": {
+      "inputFormat": {
+        "type": "single-choice",
+        "abstain": [
+          0
+        ],
+        "options": []
+      },
+      "resultDisplay": "single-vote-breakdown",
+      "victoryConditions": [
+        {
+          "type": "plurality"
+        }
+      ]
+    },
+    "tags": []
+  },
+  {
+    "creator": "0xdc7ee5da5d011bc98cf030968659f3ee92232843",
+    "pollId": 1254,
+    "blockCreated": 22468134,
+    "startDate": "2025-05-12T16:00:00.000Z",
+    "endDate": "2025-05-15T16:00:00.000Z",
+    "multiHash": "QmNe8ErmvFFHqg3TRmdJRbhnGUyEab2aeDJt5sTKxCtvFX",
+    "url": "https://raw.githubusercontent.com/makerdao/community/refs/heads/master/governance/polls/Spark%20Liquidity%20Layer%20Mainnet%20and%20OP%20Mainnet%20-%20Onboard%20OP%20Mainnet%20to%20the%20Spark%20Liquidity%20Layer%20-%20May%2012%2C%202025.md",
+    "slug": "QmNe8Erm",
+    "title": "Spark Liquidity Layer Mainnet and OP Mainnet - Onboard OP Mainnet to the Spark Liquidity Layer - May 12, 2025",
+    "summary": "Signal your support or opposition to onboarding OP Mainnet to the Spark Liquidity Layer.",
+    "discussionLink": "https://forum.sky.money/t/may-29-2025-proposed-changes-to-spark-for-upcoming-spell/26372",
+    "content": "<h1>Poll: Spark Liquidity Layer Mainnet and OP Mainnet - Onboard OP Mainnet to the Spark Liquidity Layer - May 12, 2025</h1>\n<p>The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/#A.1.9.1_Operational_Weekly_Cycle-b189fa17-57a9-4d4e-9780-0ce4efd94211%7C0db30308\">Poll</a> will be active for three days beginning on Monday, May 12 at 16:00 UTC.</p>\n<p><strong>This is a binary vote.</strong></p>\n<ul>\n<li><strong>You may vote for a single option.</strong></li>\n<li><strong>You should vote for the option which you prefer.</strong></li>\n<li><strong>If you would accept either option, you should vote 'Abstain'.</strong></li>\n</ul>\n<h2>Review</h2>\n<p>The community can vote in this poll to express support or opposition to onboarding OP Mainnet to the Spark Liquidity Layer with the following addresses and parameters:</p>\n<h3>Addresses</h3>\n<ul>\n<li>\n<p>L1_TOKEN_BRIDGE: <a target=\"_blank\" href=\"https://etherscan.io/address/0x3d25B7d486caE1810374d37A48BCf0963c9B8057\">0x3d25B7d486caE1810374d37A48BCf0963c9B8057</a></p>\n</li>\n<li>\n<p>L2_TOKEN_BRIDGE: <a target=\"_blank\" href=\"https://optimistic.etherscan.io/address/0x8F41DBF6b8498561Ce1d73AF16CD9C0d8eE20ba6\">0x8F41DBF6b8498561Ce1d73AF16CD9C0d8eE20ba6</a></p>\n</li>\n<li>\n<p>L2_USDS: <a target=\"_blank\" href=\"https://optimistic.etherscan.io/address/0x4F13a96EC5C4Cf34e442b46Bbd98a0791F20edC3\">0x4F13a96EC5C4Cf34e442b46Bbd98a0791F20edC3</a></p>\n</li>\n<li>\n<p>L2_SUSDS: <a target=\"_blank\" href=\"https://optimistic.etherscan.io/address/0xb5B2dc7fd34C249F4be7fB1fCea07950784229e0\">0xb5B2dc7fd34C249F4be7fB1fCea07950784229e0</a></p>\n</li>\n<li>\n<p>L1_SSR_FORWARDER: <a target=\"_blank\" href=\"https://etherscan.io/address/0x6Ac25B8638767a3c27a65597A74792d599038724\">0x6Ac25B8638767a3c27a65597A74792d599038724</a></p>\n</li>\n<li>\n<p>L2_SSR_RECEIVER: <a target=\"_blank\" href=\"https://optimistic.etherscan.io/address/0xE2868095814c2714039b3A9eBEE035B9E2c411E5\">0xE2868095814c2714039b3A9eBEE035B9E2c411E5</a></p>\n</li>\n<li>\n<p>L2_SSR_AUTH_ORACLE: <a target=\"_blank\" href=\"https://optimistic.etherscan.io/address/0x6E53585449142A5E6D5fC918AE6BEa341dC81C68\">0x6E53585449142A5E6D5fC918AE6BEa341dC81C68</a></p>\n</li>\n<li>\n<p>L2_GOV_RECEIVER: <a target=\"_blank\" href=\"https://optimistic.etherscan.io/address/0x61Baf0Ce69D23C8318c786e161D1cAc285AA4EA3\">0x61Baf0Ce69D23C8318c786e161D1cAc285AA4EA3</a></p>\n</li>\n<li>\n<p>L2_GOV_EXECUTOR: <a target=\"_blank\" href=\"https://optimistic.etherscan.io/address/0x205216D89a00FeB2a73273ceecD297BAf89d576d\">0x205216D89a00FeB2a73273ceecD297BAf89d576d</a></p>\n</li>\n<li>\n<p>L2_PSM: <a target=\"_blank\" href=\"https://optimistic.etherscan.io/address/0xe0F9978b907853F354d79188A3dEfbD41978af62\">0xe0F9978b907853F354d79188A3dEfbD41978af62</a></p>\n</li>\n<li>\n<p>L2_ALM_PROXY: <a target=\"_blank\" href=\"https://optimistic.etherscan.io/address/0x876664f0c9Ff24D1aa355Ce9f1680AE1A5bf36fB\">0x876664f0c9Ff24D1aa355Ce9f1680AE1A5bf36fB</a></p>\n</li>\n<li>\n<p>L2_ALM_CONTROLLER: <a target=\"_blank\" href=\"https://optimistic.etherscan.io/address/0x1d54A093b8FDdFcc6fBB411d9Af31D96e034B3D5\">0x1d54A093b8FDdFcc6fBB411d9Af31D96e034B3D5</a></p>\n</li>\n<li>\n<p>L2_ALM_RATE_LIMITS: <a target=\"_blank\" href=\"https://optimistic.etherscan.io/address/0x6B34A6B84444dC3Fc692821D5d077a1e4927342d\">0x6B34A6B84444dC3Fc692821D5d077a1e4927342d</a></p>\n</li>\n</ul>\n<h3>Initial <a target=\"_blank\" href=\"https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits\">Rate Limits</a></h3>\n<h4>PSM3</h4>\n<ul>\n<li>USDC deposit: <strong>50 million</strong> max, <strong>50 million</strong> slope per day.</li>\n<li>USDC withdrawal: <strong>50 million</strong> max, <strong>50 million</strong> slope per day.</li>\n<li>USDS deposit: <strong>Unlimited</strong>.</li>\n<li>USDS withdrawal: <strong>Unlimited</strong>.</li>\n<li>sUSDS deposit: <strong>Unlimited</strong>.</li>\n<li>sUSDS withdrawal: <strong>Unlimited</strong>.</li>\n</ul>\n<h4>CCTP</h4>\n<ul>\n<li>Global: <strong>Unlimited</strong>.</li>\n<li>OP Mainnet to Mainnet: <strong>50 million</strong> max, <strong>25 million</strong> slope per day.</li>\n<li>Mainnet to OP Mainnet: <strong>50 million</strong> max, <strong>25 million</strong> slope per day.</li>\n</ul>\n<h4>Initial Liquidity Bridged to OP Mainnet</h4>\n<ul>\n<li>USDS: <strong>100 million USDS</strong>.</li>\n<li>sUSDS: <strong>100 million USDS worth of sUSDS</strong>.</li>\n</ul>\n<hr>\n<p>Please review the discussion <a target=\"_blank\" href=\"https://forum.sky.money/t/may-29-2025-proposed-changes-to-spark-for-upcoming-spell/26372\">thread</a> to help inform your position before voting.</p>\n<h2>Outcomes</h2>\n<p><strong>If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:</strong></p>\n<ul>\n<li>This change will be included in an upcoming Executive Vote.</li>\n<li>It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.</li>\n<li>If the Executive Vote passes, then these changes will become active in the Sky Protocol after the <a target=\"_blank\" href=\"https://sky-atlas.powerhouse.io/A.1.9.2.1_Pause_Delay/a98b8227-95f6-4711-9d8d-f52cbc6ad2d0%7C0db30758e055\">GSM Pause Delay</a> has expired.</li>\n</ul>\n<p><strong>If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.</strong></p>\n<hr>\n<h2>Resources</h2>\n<p>If you are new to voting in the Sky Protocol, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance\">voting guide</a> to learn how voting works.</p>\n<p>Additional information about the Governance process can be found in the <a target=\"_blank\" href=\"https://manual.makerdao.com\">Operational Manual</a>.</p>\n<p>To add current and upcoming votes to your calendar, please see the <a target=\"_blank\" href=\"https://manual.makerdao.com/makerdao/calendars/governance-calendar\">Governance Calendar</a>.</p>",
+    "options": {
+      "0": "Abstain",
+      "1": "Yes",
+      "2": "No"
+    },
+    "parameters": {
+      "inputFormat": {
+        "type": "single-choice",
+        "abstain": [
+          0
+        ],
+        "options": []
+      },
+      "resultDisplay": "single-vote-breakdown",
+      "victoryConditions": [
+        {
+          "type": "plurality"
+        }
+      ]
+    },
+    "tags": []
   }
 ]
